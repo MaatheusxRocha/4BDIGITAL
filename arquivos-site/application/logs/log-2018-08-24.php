@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-08-24 01:03:44 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2018-08-24 01:06:45 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-24 03:39:36 --> 404 Page Not Found: Homepage/networking
+ERROR - 2018-08-24 05:02:39 --> 404 Page Not Found: Homepage/contato
+ERROR - 2018-08-24 05:37:05 --> 404 Page Not Found: Homepage/produtividade-e-colaboracao
+ERROR - 2018-08-24 06:45:20 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-24 07:01:04 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-24 07:01:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-24 07:01:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-24 08:14:12 --> 404 Page Not Found: Homepage/index
+ERROR - 2018-08-24 08:35:53 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2018-08-24 08:51:11 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2018-08-24 11:07:58 --> 404 Page Not Found: Feed/index
+ERROR - 2018-08-24 11:08:50 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-08-24 12:05:20 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-08-24 14:11:20 --> 404 Page Not Found: Homepage/armazenamento
+ERROR - 2018-08-24 14:44:22 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-24 14:44:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-24 14:44:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-24 15:21:47 --> 404 Page Not Found: Homepage/cloud-privada-2
+ERROR - 2018-08-24 15:59:37 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-24 15:59:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-24 15:59:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-24 16:23:57 --> 404 Page Not Found: Category/blog
+ERROR - 2018-08-24 17:54:26 --> 404 Page Not Found: Homepage/armazenamento
+ERROR - 2018-08-24 18:08:13 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-08-24 18:52:21 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2018-08-24 21:01:23 --> 404 Page Not Found: Wp-content/plugins

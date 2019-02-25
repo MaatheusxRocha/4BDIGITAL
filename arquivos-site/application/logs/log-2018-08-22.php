@@ -1,0 +1,52 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-08-22 00:20:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-08-22 03:16:39 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2018-08-22 03:16:52 --> 404 Page Not Found: Sementes-de-feijao/index
+ERROR - 2018-08-22 08:12:05 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-22 08:12:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-22 08:12:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-22 08:16:56 --> 404 Page Not Found: Author/rsantos
+ERROR - 2018-08-22 09:11:15 --> 404 Page Not Found: Cloud-stack/index
+ERROR - 2018-08-22 09:59:30 --> 404 Page Not Found: Homepage/disaster-recovery
+ERROR - 2018-08-22 11:38:05 --> 404 Page Not Found: Beneficios-do-gerenciamento-avancado-em-ambiente-de-cloud-publica/feed
+ERROR - 2018-08-22 11:45:03 --> 404 Page Not Found: Testehtml/index
+ERROR - 2018-08-22 11:45:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-22 11:45:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-22 11:45:05 --> 404 Page Not Found: Testehtml/index
+ERROR - 2018-08-22 12:22:50 --> E-mail de contato enviado com sucesso
+ERROR - 2018-08-22 12:23:04 --> E-mail de ligue-me enviado com sucesso
+ERROR - 2018-08-22 13:16:17 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-22 13:16:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-22 13:16:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-22 13:16:32 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-22 13:16:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-22 13:16:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-22 13:39:27 --> 404 Page Not Found: Homepage/servicos-profissionais
+ERROR - 2018-08-22 13:43:03 --> 404 Page Not Found: Homepage/cloud-privada-2
+ERROR - 2018-08-22 14:21:52 --> 404 Page Not Found: Homepage/contato
+ERROR - 2018-08-22 14:24:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-22 14:48:52 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-22 14:51:04 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2018-08-22 14:51:19 --> 404 Page Not Found: Homepage/produtividade-e-colaboracao
+ERROR - 2018-08-22 15:13:09 --> 404 Page Not Found: A-primeira-cloud-publica-100-brasileira-com-faturamento-por-hora/feed
+ERROR - 2018-08-22 15:46:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-22 15:46:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-22 16:39:59 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2018-08-22 16:49:17 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-08-22 16:56:29 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2018-08-22 17:03:49 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-22 17:03:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-22 17:03:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-22 17:30:53 --> 404 Page Not Found: Homepage/index
+ERROR - 2018-08-22 19:11:48 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-08-22 20:10:06 --> 404 Page Not Found: Homepage/blog
+ERROR - 2018-08-22 20:36:47 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-22 20:36:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-22 20:36:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-22 20:39:57 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-22 20:39:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-22 20:39:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-22 20:43:14 --> 404 Page Not Found: Author/rsantos
+ERROR - 2018-08-22 22:08:21 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2018-08-22 23:01:04 --> 404 Page Not Found: Homepage/disaster-recovery

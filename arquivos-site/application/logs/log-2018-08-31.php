@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-08-31 00:39:05 --> 404 Page Not Found: Tag/cloud-gerenciamento-avancado
+ERROR - 2018-08-31 00:51:10 --> 404 Page Not Found: A2billing/customer
+ERROR - 2018-08-31 04:36:00 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-08-31 06:05:57 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-08-31 06:51:44 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-31 06:51:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 06:51:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 08:05:12 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-31 08:05:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 08:05:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 10:01:35 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-31 10:01:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 10:01:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 11:05:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 14:37:22 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-08-31 16:45:47 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-31 16:45:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 16:45:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 17:39:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 18:30:05 --> 404 Page Not Found: Login/index
+ERROR - 2018-08-31 19:35:18 --> 404 Page Not Found: Author/rsantos
+ERROR - 2018-08-31 20:10:37 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-31 20:10:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 20:10:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 20:11:52 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-31 20:11:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 20:11:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 20:13:01 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-31 20:13:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 20:13:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 20:17:56 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-31 20:17:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 20:17:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-31 20:56:47 --> 404 Page Not Found: Ui/img
+ERROR - 2018-08-31 22:50:08 --> 404 Page Not Found: Wp-content/plugins

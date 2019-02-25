@@ -1,0 +1,45 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-07-24 01:17:21 --> 404 Page Not Found: Login/index
+ERROR - 2018-07-24 02:46:43 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2018-07-24 04:00:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-07-24 06:13:27 --> 404 Page Not Found: Homepage/cloud-publica-2
+ERROR - 2018-07-24 07:08:30 --> 404 Page Not Found: Login/auth
+ERROR - 2018-07-24 07:26:02 --> 404 Page Not Found: Login/auth
+ERROR - 2018-07-24 07:26:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-07-24 07:26:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-07-24 08:30:29 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-07-24 09:55:13 --> 404 Page Not Found: Connectors/system
+ERROR - 2018-07-24 09:55:13 --> 404 Page Not Found: Dbsphp/index
+ERROR - 2018-07-24 11:17:28 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-07-24 11:40:55 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-07-24 11:59:26 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-07-24 12:59:04 --> 404 Page Not Found: Login/auth
+ERROR - 2018-07-24 12:59:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-07-24 12:59:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-07-24 13:37:18 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-07-24 14:29:31 --> 404 Page Not Found: Login/auth
+ERROR - 2018-07-24 14:29:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-07-24 14:29:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-07-24 15:23:28 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-07-24 15:27:35 --> 404 Page Not Found: Https:/www.brascloud.com.br
+ERROR - 2018-07-24 16:28:05 --> 404 Page Not Found: admin/Configphp/index
+ERROR - 2018-07-24 16:29:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-07-24 17:17:02 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-07-24 18:35:34 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-07-24 19:48:49 --> 404 Page Not Found: Login/auth
+ERROR - 2018-07-24 19:48:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-07-24 19:48:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-07-24 21:07:18 --> 404 Page Not Found: Login/auth
+ERROR - 2018-07-24 21:07:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-07-24 21:07:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-07-24 21:25:26 --> 404 Page Not Found: Cloud-stack/feed
+ERROR - 2018-07-24 21:32:47 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-07-24 22:27:00 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-07-24 22:27:01 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-07-24 22:27:01 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-07-24 22:27:01 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-07-24 22:31:39 --> E-mail de ligue-me enviado com sucesso
+ERROR - 2018-07-24 22:52:42 --> 404 Page Not Found: Login/auth
+ERROR - 2018-07-24 22:52:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-07-24 22:52:44 --> 404 Page Not Found: Faviconico/index

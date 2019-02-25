@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /application 
+Disallow: /system 
+Disallow: /archives 
+Disallow: /assets 
+Disallow: /*.gif$ 
+Disallow: /*.pdf$ 
+Disallow: /*.doc$ 
+Allow: /
+
+Sitemap: http://www.brascloud.com.br/sitemap.xml

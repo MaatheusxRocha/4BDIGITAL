@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-08-15 00:58:52 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-15 00:58:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-15 00:58:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-15 02:51:10 --> 404 Page Not Found: Homepage/disaster-recovery
+ERROR - 2018-08-15 07:45:21 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-15 07:45:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-15 07:45:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-15 09:25:29 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-08-15 10:53:00 --> 404 Page Not Found: Ui/img
+ERROR - 2018-08-15 12:22:46 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-08-15 13:58:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-15 13:59:26 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-08-15 15:05:34 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-08-15 15:06:26 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-08-15 15:06:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-15 15:06:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-15 16:23:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-15 16:23:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-15 16:23:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-15 16:36:36 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-15 16:36:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-15 16:36:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-15 18:07:53 --> 404 Page Not Found: Paint-pots-da-mac-por-que-usar/index
+ERROR - 2018-08-15 18:40:21 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-15 18:40:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-15 18:40:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-15 19:07:57 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-08-15 20:20:30 --> 404 Page Not Found: Author/rsantos
+ERROR - 2018-08-15 22:12:58 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-08-15 22:15:27 --> 404 Page Not Found: Homepage/seguranca
+ERROR - 2018-08-15 22:33:09 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-15 22:33:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-15 22:33:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-15 22:49:27 --> 404 Page Not Found: Cloud-stack/index

@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-06-10 01:59:36 --> 404 Page Not Found: Misc/drupal.js
+ERROR - 2018-06-10 03:20:46 --> 404 Page Not Found: Sementes-de-feijao/index
+ERROR - 2018-06-10 03:32:07 --> 404 Page Not Found: Homepage/vmware
+ERROR - 2018-06-10 04:56:42 --> 404 Page Not Found: Feed/index
+ERROR - 2018-06-10 06:44:50 --> 404 Page Not Found: Homepage/vmware
+ERROR - 2018-06-10 08:38:51 --> 404 Page Not Found: Author/rsantos
+ERROR - 2018-06-10 08:42:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-06-10 09:17:33 --> 404 Page Not Found: Login/auth
+ERROR - 2018-06-10 09:17:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-06-10 09:17:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-06-10 11:34:58 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-06-10 12:19:00 --> 404 Page Not Found: Ui/img
+ERROR - 2018-06-10 13:03:52 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-06-10 16:01:38 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-06-10 16:21:05 --> 404 Page Not Found: Login/auth
+ERROR - 2018-06-10 16:21:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-06-10 16:21:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-06-10 18:50:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-06-10 18:52:54 --> 404 Page Not Found: Homepage/sobre-nos
+ERROR - 2018-06-10 20:35:03 --> 404 Page Not Found: Ui/img
+ERROR - 2018-06-10 21:18:52 --> 404 Page Not Found: Brascloud-automacao-disponibilidade-e-crescimento-dos-seus-negocios/index
+ERROR - 2018-06-10 21:59:51 --> 404 Page Not Found: Login/auth
+ERROR - 2018-06-10 21:59:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-06-10 21:59:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-06-10 23:02:30 --> 404 Page Not Found: Login/auth
+ERROR - 2018-06-10 23:02:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-06-10 23:02:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-06-10 23:11:17 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-06-10 23:27:16 --> 404 Page Not Found: Tag/auto-scaling-cloud-publica

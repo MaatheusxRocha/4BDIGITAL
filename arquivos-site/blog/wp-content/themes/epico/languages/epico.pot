@@ -1,0 +1,1565 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Épico\n"
+"POT-Creation-Date: 2015-08-19 20:41-0300\n"
+"PO-Revision-Date: 2015-08-19 20:41-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:26
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:40
+msgid "Most Used Categories"
+msgstr ""
+
+#: comment/comment.php:7 comment/ping.php:7
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: comment/comment.php:8 comment/ping.php:9 content/quote.php:51
+#: content/status.php:47
+msgid "Permalink"
+msgstr ""
+
+#: comment/comments-error.php:4
+#, php-format
+msgid "Comments are closed, but %strackbacks%s and pingbacks are open."
+msgstr ""
+
+#: comment/comments-error.php:11
+msgid "Comments are closed."
+msgstr ""
+
+#: comment/comments-nav.php:5
+msgctxt "comments navigation"
+msgid "&larr; Previous"
+msgstr ""
+
+#: comment/comments-nav.php:8
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: comment/comments-nav.php:11
+msgctxt "comments navigation"
+msgid "Next &rarr;"
+msgstr ""
+
+#: content/aside.php:19 content/content.php:17 content/content.php:82
+#: content/page.php:73 content/quote.php:53 content/status.php:49
+msgid "Comment"
+msgstr ""
+
+#: content/aside.php:19 content/content.php:17 content/content.php:82
+#: content/page.php:73 content/quote.php:53 content/status.php:49
+msgid "1 comment"
+msgstr ""
+
+#: content/aside.php:19 content/content.php:17 content/content.php:82
+#: content/page.php:73 content/quote.php:53 content/status.php:49
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: content/aside.php:39 content/quote.php:31 content/status.php:25
+#, php-format
+msgid "Posted in %s"
+msgstr ""
+
+#: content/aside.php:41 content/quote.php:33 content/status.php:27
+#, php-format
+msgid "Tagged %s"
+msgstr ""
+
+#: content/attachment-audio.php:39
+msgid "Audio Info"
+msgstr ""
+
+#: content/attachment-image.php:25
+#, php-format
+msgid "Sizes: %s"
+msgstr ""
+
+#: content/attachment-image.php:84
+msgid "Image Info"
+msgstr ""
+
+#: content/attachment-image.php:96
+msgid "Gallery"
+msgstr ""
+
+#: content/attachment-video.php:39
+msgid "Video Info"
+msgstr ""
+
+#: content/author-box.php:4
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: content/author-box.php:17
+#, php-format
+msgid ""
+"<p>This area is reserved for the author biography and must be edited for "
+"each site author. This setting can be found in the %sBiographical Info%s "
+"section, in the admin panel. If you wish to include links for the author's "
+"social networks, we recommend that you install the WordPress SEO plugin. "
+"After installed, it will appropriately create fields for each social network "
+"in the user administration panel. After filled, they will appear "
+"automatically here.</p>"
+msgstr ""
+
+#: content/author-box.php:23 page-authors.php:110
+#, php-format
+msgid "%s on Twitter"
+msgstr ""
+
+#: content/author-box.php:23 page-authors.php:110
+msgid "Twitter"
+msgstr ""
+
+#: content/author-box.php:27 page-authors.php:114
+#, php-format
+msgid "%s on Facebook"
+msgstr ""
+
+#: content/author-box.php:27 page-authors.php:114
+msgid "Facebook"
+msgstr ""
+
+#: content/author-box.php:31 page-authors.php:118
+#, php-format
+msgid "%s on Google+"
+msgstr ""
+
+#: content/author-box.php:31 page-authors.php:118
+msgid "Google+"
+msgstr ""
+
+#: content/content.php:19 content/content.php:76 content/content.php:116
+#: content/page.php:67
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: content/content.php:116
+msgid "Main category:"
+msgstr ""
+
+#: content/error.php:7
+msgid "Nothing found"
+msgstr ""
+
+#: content/error.php:14
+msgid "Apologies, but no entries were found."
+msgstr ""
+
+#: content/loop-nav.php:5
+msgctxt "posts navigation"
+msgid "&larr; Previous"
+msgstr ""
+
+#: content/loop-nav.php:6
+msgctxt "posts navigation"
+msgid "Next &rarr;"
+msgstr ""
+
+#: content/nav-posts.php:4
+msgid "<span>Previous Post</span> %title"
+msgstr ""
+
+#: content/nav-posts.php:6
+msgid ""
+"<a id=\"no-previous\" class=\"noposts\"><span>First post</span>&times; No "
+"previous post</a>"
+msgstr ""
+
+#: content/nav-posts.php:12
+msgid "<span>Next Post</span> %title"
+msgstr ""
+
+#: content/nav-posts.php:14
+msgid ""
+"<a id=\"no-next\" class=\"noposts\"><span>Last post</span> No post next "
+"&times;</a>"
+msgstr ""
+
+#: content/page.php:102
+msgid "1"
+msgstr ""
+
+#: content/page.php:102
+msgid "%"
+msgstr ""
+
+#: core/admin/meta-box-post-template.php:48
+msgid "Template"
+msgstr ""
+
+#: core/admin/theme-settings.php:134 core/admin/theme-settings.php:199
+#, php-format
+msgid "%s Theme Settings"
+msgstr ""
+
+#: core/admin/theme-settings.php:135
+msgid "Theme Settings"
+msgstr ""
+
+#: core/classes/customize-control-background-image.php:49
+msgctxt "theme customizer tab"
+msgid "Default"
+msgstr ""
+
+#: core/classes/hybrid-media-meta.php:154
+#: core/classes/hybrid-media-meta.php:284 core/functions/template-media.php:102
+#, php-format
+msgid "%1$s &#215; %2$s"
+msgstr ""
+
+#: core/classes/hybrid-media-meta.php:155
+#: core/classes/hybrid-media-meta.php:284
+msgid "Dimensions"
+msgstr ""
+
+#: core/classes/hybrid-media-meta.php:161
+msgid "Date"
+msgstr ""
+
+#: core/classes/hybrid-media-meta.php:165
+msgid "Camera"
+msgstr ""
+
+#: core/classes/hybrid-media-meta.php:169
+msgid "Aperture"
+msgstr ""
+
+#: core/classes/hybrid-media-meta.php:174
+#, php-format
+msgid "%s mm"
+msgstr ""
+
+#: core/classes/hybrid-media-meta.php:174
+msgid "Focal Length"
+msgstr ""
+
+#: core/classes/hybrid-media-meta.php:180
+msgid "International Organization for Standardization"
+msgstr ""
+
+#: core/classes/hybrid-media-meta.php:180
+msgid "ISO"
+msgstr ""
+
+#: core/classes/hybrid-media-meta.php:201
+#, php-format
+msgid "%s sec"
+msgstr ""
+
+#: core/classes/hybrid-media-meta.php:201
+msgid "Shutter Speed"
+msgstr ""
+
+#: core/classes/hybrid-media-meta.php:250
+#: core/classes/hybrid-media-meta.php:287
+msgid "File Name"
+msgstr ""
+
+#: core/classes/hybrid-media-meta.php:258
+#: core/classes/hybrid-media-meta.php:295
+msgid "File Type"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:178
+msgid "Browse:"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:179
+msgid "Home"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:180
+#: core/functions/template-general.php:513
+msgid "404 Not Found"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:181
+#: core/functions/template-general.php:339
+msgid "Archives"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:183
+#: core/functions/template-general.php:494
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:185
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:187
+#: core/functions/template-general.php:455
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:189
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:716
+#: core/functions/template-general.php:474
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:733
+#: core/functions/template-general.php:455
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:750
+#: core/functions/template-general.php:435
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:766
+#: core/extensions/breadcrumb-trail.php:795
+#: core/extensions/breadcrumb-trail.php:822
+#: core/extensions/breadcrumb-trail.php:849
+#: core/extensions/breadcrumb-trail.php:1036
+#: core/functions/template-general.php:377
+#: core/functions/template-general.php:397
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:767
+#: core/extensions/breadcrumb-trail.php:823
+#: core/extensions/breadcrumb-trail.php:1040
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:768
+#: core/extensions/breadcrumb-trail.php:1044
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:796
+#: core/functions/template-general.php:397
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:1135
+#: core/extensions/breadcrumb-trail.php:1171
+#: core/extensions/breadcrumb-trail.php:1188
+#: core/extensions/breadcrumb-trail.php:1219
+msgid "Edit"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:1163
+msgid "Split"
+msgstr ""
+
+#: core/extensions/breadcrumb-trail.php:1167
+msgid "Merge"
+msgstr ""
+
+#: core/extensions/post-stylesheets.php:286
+msgid "Stylesheet"
+msgstr ""
+
+#: core/extensions/theme-layouts.php:363
+msgctxt "theme layout"
+msgid "Default"
+msgstr ""
+
+#: core/extensions/theme-layouts.php:458 core/extensions/theme-layouts.php:565
+#: core/extensions/theme-layouts.php:650
+msgid "Layout"
+msgstr ""
+
+#: core/extensions/theme-layouts.php:683
+msgid "Global Layout"
+msgstr ""
+
+#: core/functions/attr.php:203
+#, php-format
+msgctxt "sidebar aria label"
+msgid "%s Sidebar"
+msgstr ""
+
+#: core/functions/attr.php:236
+#, php-format
+msgctxt "nav menu aria label"
+msgid "%s Menu"
+msgstr ""
+
+#: core/functions/attr.php:462
+msgctxt "post time format"
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: core/functions/attr.php:587
+msgctxt "comment time format"
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: core/functions/head.php:149
+#, php-format
+msgid "%1$s Page %2$s"
+msgstr ""
+
+#: core/functions/media.php:32
+msgid "Post Thumbnail"
+msgstr ""
+
+#: core/functions/media.php:53
+msgid "File Size"
+msgstr ""
+
+#: core/functions/media.php:54
+msgid "Mime Type"
+msgstr ""
+
+#: core/functions/media.php:55
+msgid "Run Time"
+msgstr ""
+
+#: core/functions/media.php:60
+msgid "Genre"
+msgstr ""
+
+#: core/functions/media.php:61
+msgid "Year"
+msgstr ""
+
+#: core/functions/media.php:62
+msgid "Composer"
+msgstr ""
+
+#: core/functions/media.php:63
+msgid "Track"
+msgstr ""
+
+#: core/functions/media.php:66
+msgid "Lyrics"
+msgstr ""
+
+#: core/functions/template-general.php:55
+msgid "State-of-the-art semantic personal publishing platform"
+msgstr ""
+
+#: core/functions/template-general.php:55
+msgid "WordPress"
+msgstr ""
+
+#: core/functions/template-general.php:82
+#: core/functions/template-general.php:115
+#, php-format
+msgid "%s WordPress Theme"
+msgstr ""
+
+#: core/functions/template-general.php:305
+#, php-format
+msgid "You are browsing the search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: core/functions/template-general.php:311
+msgid "You are browsing the site archives by time."
+msgstr ""
+
+#: core/functions/template-general.php:314
+#: core/functions/template-general.php:317
+#: core/functions/template-general.php:320
+#, php-format
+msgid "You are browsing the site archives for %s."
+msgstr ""
+
+#: core/functions/template-general.php:323
+msgid "You are browsing the site archives."
+msgstr ""
+
+#: core/functions/template-general.php:397
+#, php-format
+msgid "Week %1$s of %2$s"
+msgstr ""
+
+#: core/functions/template-general.php:416
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: core/functions/template-post.php:144
+msgctxt "taxonomy terms separator"
+msgid ", "
+msgstr ""
+
+#: core/functions/utility.php:88
+msgid "(Untitled)"
+msgstr ""
+
+#: footer.php:40 lib/kirki/customizer/footer.php:33 page-landing.php:105
+msgid "All rights reserved"
+msgstr ""
+
+#: header.php:87
+msgid "Search"
+msgstr ""
+
+#: inc/epico-theme-updater.php:305
+msgid "Executing upgrader_source_selection filter function..."
+msgstr ""
+
+#: inc/epico-theme-updater.php:315
+msgid "Renamed theme folder successfully."
+msgstr ""
+
+#: inc/epico-theme-updater.php:320
+msgid "**Unable to rename downloaded theme."
+msgstr ""
+
+#: inc/epico-theme-updater.php:326
+msgid "**Source or Remote Source is unavailable."
+msgstr ""
+
+#: inc/epico-theme-updater.php:347
+msgid " Theme Updates"
+msgstr ""
+
+#: inc/epico-theme-updater.php:385
+msgid "Username: "
+msgstr ""
+
+#: inc/epico-theme-updater.php:389
+msgid "Email: "
+msgstr ""
+
+#: inc/epico-theme-updater.php:395
+msgid "Key: "
+msgstr ""
+
+#: inc/epico-theme-updater.php:400
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+
+#: inc/epico-theme-updater.php:404
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+
+#: inc/epico-theme-updater.php:405
+msgid "Edit Key"
+msgstr ""
+
+#: inc/epico-theme-updater.php:409
+msgid "<p>Unable to validate update activation.</p>"
+msgstr ""
+
+#: inc/epico-theme-updater.php:410
+msgid "Try again"
+msgstr ""
+
+#: inc/epico-theme-updater.php:415
+msgid "Add Key"
+msgstr ""
+
+#: inc/epico-theme-updater.php:501
+msgid "User name"
+msgstr ""
+
+#: inc/epico-theme-updater.php:507
+msgid "Email"
+msgstr ""
+
+#: inc/epico-theme-updater.php:516
+msgid "Activation Key"
+msgstr ""
+
+#: inc/epico.php:159
+msgctxt "nav menu location"
+msgid "Main Navigation"
+msgstr ""
+
+#: inc/epico.php:160
+msgctxt "nav menu location"
+msgid "Footer links"
+msgstr ""
+
+#: inc/epico.php:174
+msgctxt "sidebar"
+msgid "Main sidebar"
+msgstr ""
+
+#: inc/epico.php:175
+msgid "The main widget area, beside the main content."
+msgstr ""
+
+#: inc/epico.php:185
+msgctxt "sidebar"
+msgid "Promocional"
+msgstr ""
+
+#: inc/epico.php:186
+msgid "Area located at the website header. Optimized for the Capture widget."
+msgstr ""
+
+#: inc/epico.php:193
+msgctxt "sidebar"
+msgid "After Main Sidebar"
+msgstr ""
+
+#: inc/epico.php:194
+msgid ""
+"Area located right after the main sidebar. Optimized for the Capture widget."
+msgstr ""
+
+#: inc/epico.php:201
+msgctxt "sidebar"
+msgid "Before content"
+msgstr ""
+
+#: inc/epico.php:202
+msgid "Area located before the main content."
+msgstr ""
+
+#: inc/epico.php:209
+msgctxt "sidebar"
+msgid "After posts"
+msgstr ""
+
+#: inc/epico.php:210
+msgid ""
+"Area located after post's or page's content. Optimized for the Capture "
+"widget."
+msgstr ""
+
+#: inc/epico.php:217
+msgctxt "sidebar"
+msgid "Before footer"
+msgstr ""
+
+#: inc/epico.php:218
+msgid ""
+"Area located before the website footer. Optimized for one, two or three "
+"widgets"
+msgstr ""
+
+#: inc/epico.php:225
+msgctxt "sidebar"
+msgid "Footer"
+msgstr ""
+
+#: inc/epico.php:226
+msgid "Area located at website footer."
+msgstr ""
+
+#: inc/epico.php:233
+msgctxt "sidebar"
+msgid "Site top"
+msgstr ""
+
+#: inc/epico.php:234
+msgid ""
+"Auxiliary area located at the top of the website. Optimized for the Notice "
+"widget"
+msgstr ""
+
+#: inc/epico.php:297
+msgid "Continue"
+msgstr ""
+
+#: inc/epico.php:614
+msgid "Set Front Page"
+msgstr ""
+
+#: inc/epico.php:619
+msgid "Main background colors"
+msgstr ""
+
+#: inc/epico.php:622
+msgid "Main background image"
+msgstr ""
+
+#: inc/epico.php:626
+msgid ""
+"Upload a icon for your blog (AKA Favicon). You can edit your icon image "
+"after the upload."
+msgstr ""
+
+#: inc/epico.php:722
+msgid "Post Comment"
+msgstr ""
+
+#: inc/epico.php:746 inc/epico.php:752
+msgid "Add a menu to this position"
+msgstr ""
+
+#: inc/metabox/featured-metabox-display.php:18
+msgid "Show featured image in content"
+msgstr ""
+
+#: inc/metabox/featured-metabox.php:25
+msgid "Featured image in content"
+msgstr ""
+
+#: inc/pointers.php:73
+msgid "Epico successfully activated!"
+msgstr ""
+
+#: inc/pointers.php:74
+msgid ""
+"Before customizing it, we recommend that you install the Epico plugin and "
+"configure at least one navigation menu.<br/><br/>. It's a simple process "
+"that will take just <strong>four steps</strong>."
+msgstr ""
+
+#: inc/pointers.php:80
+msgid "Start theme configuration"
+msgstr ""
+
+#: inc/pointers.php:84
+msgid "Plugin install (Step 1/4)"
+msgstr ""
+
+#: inc/pointers.php:84
+msgid ""
+"To make the most of your theme, install the plugin that came with it. Click "
+"<strong>Choose file</strong> above and upload the plugin's zip file.<br/><br/"
+">After the upload, click <strong>Install now</strong>. If the plugin is "
+"already installed, please click the button below to skip this step."
+msgstr ""
+
+#: inc/pointers.php:90
+msgid "Skip this step"
+msgstr ""
+
+#: inc/pointers.php:94
+msgid "Plugin activation (Step 1/4)"
+msgstr ""
+
+#: inc/pointers.php:94
+msgid ""
+"Next, click the link <strong>Activate plugin</strong> to finish this step "
+"and to wait for the step 2."
+msgstr ""
+
+#: inc/pointers.php:102
+msgid "Plugin activated! (Step 1/4)"
+msgstr ""
+
+#: inc/pointers.php:102
+msgid ""
+"Great! The plugin is ready to rock! Now, we need to configure our menus. "
+"Click the button below to proceed to the step 2."
+msgstr ""
+
+#: inc/pointers.php:108
+msgid "Go to the menu settings"
+msgstr ""
+
+#: inc/pointers.php:112
+msgid "Menu creation (Step 2/4)"
+msgstr ""
+
+#: inc/pointers.php:113
+msgid ""
+"Here you can add menus, assign them to the theme positions and optionally "
+"add icons to the menu items.<br/><br/>Try to keep a low number of menu "
+"items, this will garantee a nice presentation of you menu on the theme.<br/"
+"><br/>If you need assistance for this step, we have a good tutorial at the "
+"<a href='http://minha.uberfacil.com/epico/instalacao-do-tema-epico/"
+"#Configurando_menus' target='_blank'>documentation website</a>."
+msgstr ""
+
+#: inc/pointers.php:119
+msgid "Activate your product"
+msgstr ""
+
+#: inc/pointers.php:123
+msgid "Activate Epico updates (3/4)"
+msgstr ""
+
+#: inc/pointers.php:124
+msgid ""
+"To receive automatic updates for your products, enter your Uberfacil's user "
+"and  registered email address in the Epico Theme and Plugin Updates "
+"dashboard widgets, below.<br><br>You can find your information in your "
+"dashboard at the My Uber section of the <a target='_blank' href='http://"
+"minha.uberfacil.com/epico/area-exclusiva/' >Uberfacil's website</"
+"a><br><br>Just click the Add key button below to reveal the input fields. "
+"Fill them and click submit."
+msgstr ""
+
+#: inc/pointers.php:130
+msgid "Done! Go to customization"
+msgstr ""
+
+#: inc/pointers.php:134
+msgid "Theme customization (Step 4/4)"
+msgstr ""
+
+#: inc/pointers.php:135
+msgid ""
+"Now the last step: the customization happens in this area, where the changes "
+"can be visualized in real time.<br /><br/>Start by adding widgets to the "
+"widget areas and configuring them to your needs. Then, play with the "
+"remaining features to fine tune your theme. Don't forget to save your "
+"changes!<br /><br/>Well, that's it! If you need help, watch the video "
+"walkthrough on our <a href='http://minha.uberfacil.com/epico/personalize-seu-"
+"tema/' target='_blank'>documentation website</a> or get in touch with us <a "
+"href='mailto:contato@uberfacil.com?subject=Help with the customization of "
+"the Epico Premium WordPress theme&body=Sent from the WordPress Customizer' "
+"target='_blank'>by email</a>.<br><br>That's all! We hope you will enjoy your "
+"new theme.<br><br>Uberfacil Team"
+msgstr ""
+
+#: inc/pointers.php:177
+msgid "Next"
+msgstr ""
+
+#: inc/pointers.php:184
+msgid "Close"
+msgstr ""
+
+#: inc/reading-time.php:33
+msgid "less than 1 minute"
+msgstr ""
+
+#: inc/reading-time.php:35
+#, php-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/reading-time.php:69
+msgid "Reading time:"
+msgstr ""
+
+#: inc/social-buttons.php:56
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/social-buttons.php:62
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/social-buttons.php:68
+msgid "Share on Google+"
+msgstr ""
+
+#: inc/social-buttons.php:81
+msgid "Share on Pinterest"
+msgstr ""
+
+#: inc/social-buttons.php:87
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: inc/social-buttons.php:96
+msgid "Share via WhatsApp"
+msgstr ""
+
+#: inc/zen-mode.php:20 lib/kirki/customizer/layout.php:158
+msgid "Focused reading"
+msgstr ""
+
+#: index.php:78 lib/kirki/customizer/layout.php:176
+msgid "Related posts"
+msgstr ""
+
+#: index.php:103
+msgid "Thumbnail"
+msgstr ""
+
+#: index.php:103
+msgid "Post image"
+msgstr ""
+
+#: lib/kirki/customizer.php:16
+msgid ""
+"O tema Épico, da Uberfácil, é a solução ideal para você criar o seu blog "
+"profissional! Neste painel você encontra todas as opções para personalizar o "
+"seu Épico como achar melhor!"
+msgstr ""
+
+#: lib/kirki/customizer/advanced.php:12
+msgid "Advanced"
+msgstr ""
+
+#: lib/kirki/customizer/advanced.php:27
+msgid "Google Tag Manager"
+msgstr ""
+
+#: lib/kirki/customizer/advanced.php:28
+msgid ""
+"If you want to track user behaviour in your website through the free Google "
+"Tag Manager, paste your GTM ID in the field below. You can find it in the "
+"conteiner list of your <a href=\"https://www.google.com/tagmanager\" target="
+"\"_blank\">Google Tag Manager account</a> (e.g., GTM-AB123CD).</br></"
+"br><strong>Note:</strong> If you already use the <a href=\"https://support."
+"google.com/analytics/answer/2790010?hl=pt-BR\" target=\"_blank\">Universal "
+"Analytics</a> in your site, you should remove it first before using the "
+"Google Tag Manager, in order to avoid conflicts in data tracking."
+msgstr ""
+
+#: lib/kirki/customizer/advanced.php:29
+msgid ""
+"The Google Tag Manager is a new (and free) tool from Google that allows "
+"digital marketing professionals manage their campaigns with more "
+"independence from developers, offering powerful tools to track user "
+"behaviour in your website."
+msgstr ""
+
+#: lib/kirki/customizer/advanced.php:38
+msgid "Ignore styles in pages"
+msgstr ""
+
+#: lib/kirki/customizer/advanced.php:39
+msgid ""
+"If you want to remove theme styles from certain pages to avoid conflicts "
+"with page builder plugins, select below the pages that should be ignored by "
+"the Epico theme."
+msgstr ""
+
+#: lib/kirki/customizer/advanced.php:40
+msgid ""
+"If you use some kind of page builder plugin to create pages, please identify "
+"this pages here. This will remove all Epico styles in these pages. This "
+"setting works only for pages, not posts."
+msgstr ""
+
+#: lib/kirki/customizer/branding.php:12
+msgid "Branding"
+msgstr ""
+
+#: lib/kirki/customizer/branding.php:25
+msgid "Site title"
+msgstr ""
+
+#: lib/kirki/customizer/branding.php:26
+msgid "How you would like to call your blog?"
+msgstr ""
+
+#: lib/kirki/customizer/branding.php:27
+msgid "Choose the site title for the header of your site."
+msgstr ""
+
+#: lib/kirki/customizer/branding.php:37
+msgid "Logo"
+msgstr ""
+
+#: lib/kirki/customizer/branding.php:38
+msgid ""
+"Add a logo image instead of a title. Tip: to keep your site performance "
+"optimzed, upload a small image file (400 pixels maximum). Edit your image in "
+"an <a target=\"_blank\" href=\"http://pixlr.com/editor/\">online image "
+"editor</a> if necessary"
+msgstr ""
+
+#: lib/kirki/customizer/branding.php:39
+msgid ""
+"You can use a custom logo instead of just a site title. Click the upload "
+"button to send the logo image from your computer. An image with a white or "
+"transparent background is preferred."
+msgstr ""
+
+#: lib/kirki/customizer/branding.php:49
+msgid "Logo image width"
+msgstr ""
+
+#: lib/kirki/customizer/branding.php:51
+msgid ""
+"After the upload, you can fine tune the image width to perfect it in your "
+"layout."
+msgstr ""
+
+#: lib/kirki/customizer/footer.php:12
+msgid "Footer information"
+msgstr ""
+
+#: lib/kirki/customizer/footer.php:30
+msgid "Add additional information"
+msgstr ""
+
+#: lib/kirki/customizer/footer.php:31
+msgid ""
+"Add optional credits or other subsidiary information in the site footer. If "
+"you need a link in that area, you can use the footer menu, accesible through "
+"the WordPress default menu system."
+msgstr ""
+
+#: lib/kirki/customizer/footer.php:41
+msgid "Site starting date"
+msgstr ""
+
+#: lib/kirki/customizer/footer.php:42
+msgid ""
+"Enter the starting year of your site, if different from the current year "
+"(enter a four digit number . Ex: 2012)."
+msgstr ""
+
+#: lib/kirki/customizer/footer.php:52
+msgid "Upload the footer logo image"
+msgstr ""
+
+#: lib/kirki/customizer/footer.php:53
+msgid ""
+"(Optional) A transparent PNG version with a white logo is preferable to "
+"maintain contrast against the dark background of the footer."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:12
+msgid "Design and layout"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:24
+msgid "Color palettes"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:25
+msgid ""
+"Customize your site colors with one of these color palletes. Make it the way "
+"you want!"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:45
+msgid "Override style main color"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:46
+msgid ""
+"Check this if you want to override the pallete accent color and define a new "
+"custom color."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:55
+msgid "Main color"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:56
+msgid "Choose a value to automatically override the pallete's main color."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:57
+msgid ""
+"Here you can specify a custom color for the main elements of the template, "
+"overriding the chosen pallete. The neutral tones will remain the same."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:66
+msgid "Landing background color"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:75
+msgid "Landing background image"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:84
+msgid "Site layout"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:85
+msgid ""
+"Choose a layout for your content: sidebar on the left or sidebar on the "
+"right."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:98
+msgid "Header font"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:99
+msgid "Choose one typographic style to use with the site headers."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:113
+msgid "Compact listing of posts"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:114
+msgid ""
+"This will enable a more compact display of posts in various listings: "
+"archives, blogs, categories, tags and taxonomies"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:123
+msgid "Estimated reading time of posts"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:124
+msgid ""
+"A small notice with the estimated reading time of the post will appear right "
+"above the post's text. After activating this, you must resave your old posts "
+"to calculate the reading time for them."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:133
+msgid "Ignore reading time in pages"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:134
+msgid ""
+"If you want to remove the reading time from certain pages, select them below."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:135
+msgid ""
+"The reading time does not make sense in some page types. Pages with contact "
+"forms or with video only will not benefit for this information. To correct "
+"this behavior, this option will remove the reading time only from the pages "
+"you select in the text field. This setting works only for pages, not posts."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:145
+msgid "Zen mode (focused reading)"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:146
+msgid ""
+"This will add a small icon for the Zen mode (or focused reading mode), right "
+"above the post or page title. The Zen mode will allow the site visitor to "
+"temporally remove all layout distractions from the site's interface, like "
+"sidebars, widgets and background colors or images."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:155
+msgid "Zen mode button text"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:156
+msgid ""
+"Specify the text that will show when the mouse is hovering over the Zen mode "
+"icon."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:165
+msgid "Author box"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:166
+msgid "Enable or disable the author box below posts."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:167
+msgid ""
+"Uncheck to remove the author box feature from articles, located at the end "
+"of the post content. Pages are automatically ignored by default."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:177
+msgid "Enable or disable the automatic related posts feature."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:178
+msgid ""
+"Uncheck to remove the related posts feature from articles. Pages are "
+"automatically ignored by default."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:187
+msgid "Post navigation"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:188
+msgid "Enable or disable the automatic post navigation feature."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:189
+msgid ""
+"Uncheck to remove the navigation posts feature from articles, before the "
+"comment form. Pages are automatically ignored by default."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:198
+msgid "Sidebar columns in mobile"
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:199
+msgid "Enable or disable the multiple column sidebar on mobile."
+msgstr ""
+
+#: lib/kirki/customizer/layout.php:200
+msgid ""
+"Uncheck to let the sidebar widgets span across the entire sidebar in "
+"resolutions below 1020 pixels wide. The default behavior is a sidebar with "
+"two columns in tablets and smartphones."
+msgstr ""
+
+#: lib/kirki/customizer/social.php:12
+msgid "Social sharing buttons"
+msgstr ""
+
+#: lib/kirki/customizer/social.php:27
+msgid "Enable in pages"
+msgstr ""
+
+#: lib/kirki/customizer/social.php:28
+msgid "Control the display of the social buttons in pages."
+msgstr ""
+
+#: lib/kirki/customizer/social.php:37
+msgid "Enable in posts"
+msgstr ""
+
+#: lib/kirki/customizer/social.php:38
+msgid "Control the display of the social buttons in posts."
+msgstr ""
+
+#: lib/kirki/customizer/social.php:47
+msgid "Sticky share box"
+msgstr ""
+
+#: lib/kirki/customizer/social.php:48
+msgid ""
+"By default the box remains fixed when the page scrolls. You can control this "
+"behavior here."
+msgstr ""
+
+#: lib/kirki/customizer/social.php:57
+msgid "Close button"
+msgstr ""
+
+#: lib/kirki/customizer/social.php:58
+msgid ""
+"A close button to dismiss the social button bar. For this feature to work, "
+"you must have installed the theme's funcionality plugin."
+msgstr ""
+
+#: lib/kirki/customizer/social.php:67
+msgid "Total number of shares"
+msgstr ""
+
+#: lib/kirki/customizer/social.php:68
+msgid "The total number of shares for all social networks shown."
+msgstr ""
+
+#: lib/kirki/customizer/social.php:77
+msgid "Shares per social network"
+msgstr ""
+
+#: lib/kirki/customizer/social.php:78
+msgid "Individual number or shares for each social network."
+msgstr ""
+
+#: lib/kirki/customizer/social.php:87
+msgid "Button styles"
+msgstr ""
+
+#: lib/kirki/customizer/social.php:100
+msgid "Facebook button"
+msgstr ""
+
+#: lib/kirki/customizer/social.php:101
+msgid "Hide Facebook button."
+msgstr ""
+
+#: lib/kirki/customizer/social.php:110
+msgid "Twitter button"
+msgstr ""
+
+#: lib/kirki/customizer/social.php:111
+msgid "Hide Twitter button."
+msgstr ""
+
+#: lib/kirki/customizer/social.php:120
+msgid "Google+ button"
+msgstr ""
+
+#: lib/kirki/customizer/social.php:121
+msgid "Hide Google Plus button."
+msgstr ""
+
+#: lib/kirki/customizer/social.php:130
+msgid "Pinterest button"
+msgstr ""
+
+#: lib/kirki/customizer/social.php:131
+msgid "Hide Pinterest button."
+msgstr ""
+
+#: lib/kirki/customizer/social.php:140
+msgid "LinkedIn button"
+msgstr ""
+
+#: lib/kirki/customizer/social.php:141
+msgid "Hide LinkedIn button."
+msgstr ""
+
+#: lib/kirki/customizer/social.php:150
+msgid "WhatsApp button (mobile)"
+msgstr ""
+
+#: lib/kirki/customizer/social.php:151
+msgid ""
+"Hide WhatsApp button. Notice: this button is available only in mobile "
+"devices (Android or iOS)"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:52
+msgid "Background Color"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:53
+msgid "Background Image"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:54
+msgid "No Repeat"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:55
+msgid "Repeat All"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:56
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:57
+msgid "Repeat Vertically"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:58
+msgid "Inherit"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:59
+msgid "Background Repeat"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:60
+msgid "Cover"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:61
+msgid "Contain"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:62
+msgid "Background Size"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:63
+msgid "Fixed"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:64
+msgid "Scroll"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:65
+msgid "Background Attachment"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:66
+msgid "Left Top"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:67
+msgid "Left Center"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:68
+msgid "Left Bottom"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:69
+msgid "Right Top"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:70
+msgid "Right Center"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:71
+msgid "Right Bottom"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:72
+msgid "Center Top"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:73
+msgid "Center Center"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:74
+msgid "Center Bottom"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:75
+msgid "Background Position"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:76
+msgid "Background Opacity"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:77
+msgid "ON"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:78
+msgid "OFF"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:79
+msgid "All"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:80
+msgid "Cyrillic"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:81
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:82
+msgid "Devanagari"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:83
+msgid "Greek"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:84
+msgid "Greek Extended"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:85
+msgid "Khmer"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:86
+msgid "Latin"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:87
+msgid "Latin Extended"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:88
+msgid "Vietnamese"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:89
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:90
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: lib/kirki/includes/class-kirki-toolkit.php:91
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: lib/kirki/kirki.php:132
+msgid "LIG"
+msgstr ""
+
+#: lib/kirki/kirki.php:133
+msgid "DESL"
+msgstr ""
+
+#: menu/primary.php:6
+msgid "Toggle navigation"
+msgstr ""
+
+#: menu/primary.php:6
+msgid "Menu"
+msgstr ""
+
+#: menu/primary.php:9
+msgid "Skip to content"
+msgstr ""
+
+#: page-authors.php:95
+msgid "Editor"
+msgstr ""
+
+#: page-authors.php:97
+msgid "Admin"
+msgstr ""
+
+#: searchform.php:7
+msgid "&#xf002; Search for:"
+msgstr ""
+
+#: searchform.php:8
+msgid "Go &#xf0a9;"
+msgstr ""
+
+#: sidebar/primary.php:40
+msgid "Example Widget"
+msgstr ""
+
+#: sidebar/primary.php:41
+#, php-format
+msgid ""
+"<p>This is just an example widget to show how the Primary sidebar looks by "
+"default. To enhance your blog and get better results, install the companion "
+"Epico plugin and add here the special blog widgets. You can do this from the "
+"%scustomize screen%s, in the WordPress admin.</p>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Épico"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://minha.uberfacil.com/epico"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Épico, da Uberfácil, é um tema especializado para blogs, cuidadosamente "
+"projetado para facilitar estratégias de marketing de conteúdo online. Seu "
+"exclusivo design centrado em conversões é inspirado em técnicas testadas e "
+"bem sucedidas, que o ajudarão a impulsionar fortemente a sua audiência."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Uberfácil"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://uberfacil.com"
+msgstr ""

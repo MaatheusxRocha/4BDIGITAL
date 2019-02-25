@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-09-04 00:01:58 --> 404 Page Not Found: Category/blog
+ERROR - 2018-09-04 06:57:52 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-09-04 07:50:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-04 08:02:58 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-04 08:02:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-04 08:02:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-04 08:11:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-04 08:41:12 --> 404 Page Not Found: Apple-app-site-association/index
+ERROR - 2018-09-04 10:38:29 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-04 10:38:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-04 10:38:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-04 10:41:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-04 11:06:54 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-09-04 12:41:42 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-04 15:03:46 --> 404 Page Not Found: Env/index
+ERROR - 2018-09-04 16:53:41 --> 404 Page Not Found: User/password
+ERROR - 2018-09-04 16:53:44 --> 404 Page Not Found: User/register
+ERROR - 2018-09-04 17:59:59 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-09-04 19:55:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-04 21:16:44 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-04 21:17:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-04 21:17:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-04 21:50:27 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2018-09-04 22:25:25 --> 404 Page Not Found: Ui/img
+ERROR - 2018-09-04 23:25:35 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-04 23:25:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-04 23:25:36 --> 404 Page Not Found: Faviconico/index

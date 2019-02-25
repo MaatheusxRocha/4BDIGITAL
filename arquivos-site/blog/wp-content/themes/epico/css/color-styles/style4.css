@@ -1,0 +1,407 @@
+/*-------------------------------------------------------------
+	25.6 ESTILO 4
+--------------------------------------------------------------*/
+.epc-s4 {
+	background-color: #edf1f2;
+	}
+.epc-s4 #sidebar-top {
+	background-color: #edf1f2;
+	}
+.epc-s4 #sidebar-top ul {
+	padding: 0.8rem 0.8rem 0.32rem;
+	}
+.epc-s4 #sidebar-top a {
+	color: #5f7781;
+	}
+.epc-s4 #sidebar-top a:hover {
+	color: #344146;
+	}
+.epc-s4 #sidebar-top li:before {
+	color: #b3c1c7;
+	}
+.epc-s4 #sidebar-top li:hover:before {
+	color: #00c7c0;
+	}
+
+/*  Navegacao
+--------------------------------------------------------------*/
+.epc-s4 #menu-primary-items .sub-menu li:hover {
+	border-left: 5px solid #00c7c0;
+	}
+.epc-s4 #menu-primary .sub-menu li:hover:before,
+.epc-s4 #menu-secondary li:hover:before,
+.epc-s4 #footer .menu li:hover:before,
+.epc-s4 #menu-primary li.menu-item-has-children:hover:before,
+.epc-s4 #menu-secondary li:hover:before {
+	color: #00c7c0;
+	}
+
+@media only screen and (max-width: 680px) {
+	.epc-s4 #menu-primary-items > li:hover {
+		border-left: 5px solid #00c7c0;
+		}
+	.epc-s4 #menu-primary li:hover:before {
+		color: #00c7c0;
+		}
+	.epc-s4 .nav-active #nav-toggle span:before,
+	.epc-s4 .nav-active #nav-toggle span:after {
+		background: #00c7c0;
+		}
+	.epc-s4 #nav-toggle:hover .nav-text {
+		color: #00c7c0;
+		}
+	.epc-s4 #nav-toggle:hover .screen-reader-text,
+	.epc-s4 #nav-toggle:hover .screen-reader-text:after,
+	.epc-s4 #nav-toggle:hover .screen-reader-text:before {
+		background: #00c7c0;
+		}
+	.epc-s4 .nav-active #nav-toggle .nav-text {
+		color: #00c7c0;
+		}
+	.epc-s4 #menu-primary-items ul li:hover,
+	.epc-s4 #menu-primary-items ul li,
+	.epc-s4 #menu-primary-items .sub-menu li,
+	.epc-s4 #menu-primary-items .sub-menu li:hover {
+		border-left: 0;
+		}
+	}
+/*  Busca
+--------------------------------------------------------------*/
+.epc-s4 #search-toggle:hover:after,
+.epc-s4 .search-close .search-text,
+.epc-s4 #search-toggle:before,
+.epc-s4 #search-toggle:hover .search-text,
+.epc-s4 .search-text:hover {
+	color: #00c7c0;
+	}
+.epc-s4 #footer .search-field:hover,
+.epc-s4 #footer .search-field:focus {
+	border: 1px solid #00c7c0;
+	}
+
+/* Modo Leitura focada
+--------------------------------------------------------------*/
+.epc-s4.zen {
+	background: white;
+	}
+.epc-s4 #zen:hover i,
+.epc-s4 #zen.zen-active i {
+	color: #00c7c0;
+	}
+.epc-s4 #zen.zen-active:hover i {
+	color: #00948f;
+	}
+.epc-s4.zen #footer a {
+	color: #00c7c0;
+	}
+
+/* Aviso
+--------------------------------------------------------------*/
+.epc-s4 .uberaviso {
+	background: #00c7c0;
+	}
+
+/* Capture
+--------------------------------------------------------------*/
+.epc-s4 .fw.capture-wrap {
+	color: #4a5c64;
+	background: #f3f5f6;
+	}
+.epc-s4 .fw.capture-wrap .capture-form {
+	border-bottom: 10px solid #c1cdd1;
+	background: #dfe5e7 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAPCAYAAAD3T6+hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMFJREFUeNq0lAsKwjAQRBON38a7eRTvbq1K08QpTEGlabYJGRhCoTDZ3ZfV6npTMzrRUj3gt+RH8/et4QbeC4M83MJOerPvwA1sZy4R0wDfGarWBm7hC0Ml6llZUCtl2L6G7ZToBT9zwqZAWwOOiI7SeQXOy2UGjd07wwcjhKPlmaMfGE0tOGIwLgWOs+oKwnasTC89/EkdacyGgzNLbprAFvalcEg2jSeJQ0GYZSuTm8axMl8Ah+WZfPhV4IjpI8AA2toq/P/m8wgAAAAASUVORK5CYII=) repeat-x 0 0;
+	}
+.epc-s4 .fw.capture-wrap form .button,
+.epc-s4 .fw.capture-wrap form button,
+.epc-s4 .fw.capture-wrap form input[type=submit],
+.epc-s4 .fw.capture-wrap form input[name*=submit] {
+	box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.1);
+	}
+.epc-s4 .fw.capture-wrap form .button:hover,
+.epc-s4 .fw.capture-wrap form button:hover,
+.epc-s4 .fw.capture-wrap form input[type=submit]:hover,
+.epc-s4 .fw.capture-wrap form input[name*=submit]:hover {
+	background: #cc4d30;
+	box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.2);
+	}
+.epc-s4 .fw.capture-wrap form input[type=email]:hover,
+.epc-s4 .fw.capture-wrap form input[name*=signup]:hover,
+.epc-s4 .fw.capture-wrap form input[name*=email]:hover {
+	border: 1px solid #c1cdd1;
+	box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.1);
+	}
+.epc-s4 .fw.capture-wrap form input[type=email]:focus,
+.epc-s4 .fw.capture-wrap form input[name*=signup]:focus,
+.epc-s4 .fw.capture-wrap form input[name*=email]:focus {
+	border: 1px solid #b3c1c7;
+	box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.15);
+	}
+.epc-s4 .fw.capture-wrap .capture-close i {
+	color: #d0d9dc;
+	font-size: 20px;
+	}
+.epc-s4 .fw.capture-wrap .capture-close i:hover {
+	color: #78919b;
+	}
+.epc-s4 .fw.capture-wrap .capture-icon i:before {
+	color: #d0d9dc;
+	text-shadow: none;
+	}
+.epc-s4 .fw.capture-wrap .capture-title,
+.epc-s4 .fw.capture-wrap .capture-intro {
+	color: #4a5c64;
+	}
+.epc-s4 .fw.capture-wrap .capture-intro strong {
+	color: #78919b;
+	}
+.epc-s4 .fw.capture-wrap .capture-notice,
+.epc-s4 .fw.capture-wrap .capture-notice strong {
+	color: #95a9b1;
+	}
+
+.epc-s4 .ip.capture-wrap {
+	border-bottom: 10px solid #d0d9dc;
+	background: #e5eaeb url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAPCAYAAAD3T6+hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMFJREFUeNq0lAsKwjAQRBON38a7eRTvbq1K08QpTEGlabYJGRhCoTDZ3ZfV6npTMzrRUj3gt+RH8/et4QbeC4M83MJOerPvwA1sZy4R0wDfGarWBm7hC0Ml6llZUCtl2L6G7ZToBT9zwqZAWwOOiI7SeQXOy2UGjd07wwcjhKPlmaMfGE0tOGIwLgWOs+oKwnasTC89/EkdacyGgzNLbprAFvalcEg2jSeJQ0GYZSuTm8axMl8Ah+WZfPhV4IjpI8AA2toq/P/m8wgAAAAASUVORK5CYII=) repeat-x 0 0;
+	}
+.epc-s4 .ip.capture-wrap .capture-iconinner i:before {
+	color: #b3c1c7;
+	text-shadow: none;
+	}
+
+.epc-s4 .fw.capture-wrap .uf-arrow svg polygon,
+.epc-s4 .sb.capture-wrap .uf-arrow svg polygon {
+	fill: #00C7C0;
+	}
+
+/* Capture - barra lateral
+--------------------------------------------------------------*/
+.epc-s4 .sb.capture-wrap,
+.epc-s4 .sc.capture-wrap,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap,
+.epc-s4 #sidebar-after-content .sb.capture-wrap {
+	color: #4a5c64;
+	background: white;
+	}
+.epc-s4 .sb.capture-wrap .capture-form,
+.epc-s4 .sc.capture-wrap .capture-form,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap .capture-form,
+.epc-s4 #sidebar-after-content .sb.capture-wrap .capture-form {
+	border-top: 1px solid rgba(0, 0, 0, 0.05);
+	background: #dfe5e7 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAPCAYAAAD3T6+hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMFJREFUeNq0lAsKwjAQRBON38a7eRTvbq1K08QpTEGlabYJGRhCoTDZ3ZfV6npTMzrRUj3gt+RH8/et4QbeC4M83MJOerPvwA1sZy4R0wDfGarWBm7hC0Ml6llZUCtl2L6G7ZToBT9zwqZAWwOOiI7SeQXOy2UGjd07wwcjhKPlmaMfGE0tOGIwLgWOs+oKwnasTC89/EkdacyGgzNLbprAFvalcEg2jSeJQ0GYZSuTm8axMl8Ah+WZfPhV4IjpI8AA2toq/P/m8wgAAAAASUVORK5CYII=) repeat-x 0 0;
+	}
+.epc-s4 .sb.capture-wrap form .button,
+.epc-s4 .sb.capture-wrap form button,
+.epc-s4 .sb.capture-wrap form input[type=submit],
+.epc-s4 .sb.capture-wrap form input[name*=submit],
+.epc-s4 .sc.capture-wrap form .button,
+.epc-s4 .sc.capture-wrap form button,
+.epc-s4 .sc.capture-wrap form input[type=submit],
+.epc-s4 .sc.capture-wrap form input[name*=submit],
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap form .button,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap form button,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap form input[type=submit],
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap form input[name*=submit],
+.epc-s4 #sidebar-after-content .sb.capture-wrap form .button,
+.epc-s4 #sidebar-after-content .sb.capture-wrap form button,
+.epc-s4 #sidebar-after-content .sb.capture-wrap form input[type=submit],
+.epc-s4 #sidebar-after-content .sb.capture-wrap form input[name*=submit] {
+	box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.1);
+	}
+.epc-s4 .sb.capture-wrap form .button:hover,
+.epc-s4 .sb.capture-wrap form button:hover,
+.epc-s4 .sb.capture-wrap form input[type=submit]:hover,
+.epc-s4 .sb.capture-wrap form input[name*=submit]:hover,
+.epc-s4 .sc.capture-wrap form .button:hover,
+.epc-s4 .sc.capture-wrap form button:hover,
+.epc-s4 .sc.capture-wrap form input[type=submit]:hover,
+.epc-s4 .sc.capture-wrap form input[name*=submit]:hover,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap form .button:hover,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap form button:hover,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap form input[type=submit]:hover,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap form input[name*=submit]:hover,
+.epc-s4 #sidebar-after-content .sb.capture-wrap form .button:hover,
+.epc-s4 #sidebar-after-content .sb.capture-wrap form button:hover,
+.epc-s4 #sidebar-after-content .sb.capture-wrap form input[type=submit]:hover,
+.epc-s4 #sidebar-after-content .sb.capture-wrap form input[name*=submit]:hover {
+	box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.2);
+	}
+.epc-s4 .sb.capture-wrap form input[type=email],
+.epc-s4 .sb.capture-wrap form input[name*=signup],
+.epc-s4 .sb.capture-wrap form input[name*=email],
+.epc-s4 .sc.capture-wrap form input[type=email],
+.epc-s4 .sc.capture-wrap form input[name*=signup],
+.epc-s4 .sc.capture-wrap form input[name*=email],
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap form input[type=email],
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap form input[name*=signup],
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap form input[name*=email],
+.epc-s4 #sidebar-after-content .sb.capture-wrap form input[type=email],
+.epc-s4 #sidebar-after-content .sb.capture-wrap form input[name*=signup],
+.epc-s4 #sidebar-after-content .sb.capture-wrap form input[name*=email] {
+	color: #78919b;
+	}
+.epc-s4 .sb.capture-wrap form input[type=email]:hover,
+.epc-s4 .sb.capture-wrap form input[name*=signup]:hover,
+.epc-s4 .sb.capture-wrap form input[name*=email]:hover,
+.epc-s4 .sc.capture-wrap form input[type=email]:hover,
+.epc-s4 .sc.capture-wrap form input[name*=signup]:hover,
+.epc-s4 .sc.capture-wrap form input[name*=email]:hover,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap form input[type=email]:hover,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap form input[name*=signup]:hover,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap form input[name*=email]:hover,
+.epc-s4 #sidebar-after-content .sb.capture-wrap form input[type=email]:hover,
+.epc-s4 #sidebar-after-content .sb.capture-wrap form input[name*=signup]:hover,
+.epc-s4 #sidebar-after-content .sb.capture-wrap form input[name*=email]:hover {
+	border: 1px solid #c1cdd1;
+	box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.1);
+	}
+.epc-s4 .sb.capture-wrap form input[type=email]:focus,
+.epc-s4 .sb.capture-wrap form input[name*=signup]:focus,
+.epc-s4 .sb.capture-wrap form input[name*=email]:focus,
+.epc-s4 .sc.capture-wrap form input[type=email]:focus,
+.epc-s4 .sc.capture-wrap form input[name*=signup]:focus,
+.epc-s4 .sc.capture-wrap form input[name*=email]:focus,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap form input[type=email]:focus,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap form input[name*=signup]:focus,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap form input[name*=email]:focus,
+.epc-s4 #sidebar-after-content .sb.capture-wrap form input[type=email]:focus,
+.epc-s4 #sidebar-after-content .sb.capture-wrap form input[name*=signup]:focus,
+.epc-s4 #sidebar-after-content .sb.capture-wrap form input[name*=email]:focus {
+	border: 1px solid #b3c1c7;
+	box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.15);
+	}
+.epc-s4 .sb.capture-wrap .capture-close i,
+.epc-s4 .sc.capture-wrap .capture-close i,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap .capture-close i,
+.epc-s4 #sidebar-after-content .sb.capture-wrap .capture-close i {
+	color: #d0d9dc;
+	}
+.epc-s4 .sb.capture-wrap .capture-close i:hover,
+.epc-s4 .sc.capture-wrap .capture-close i:hover,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap .capture-close i:hover,
+.epc-s4 #sidebar-after-content .sb.capture-wrap .capture-close i:hover {
+	color: #78919b;
+	}
+.epc-s4 .sb.capture-wrap .capture-icon i:before,
+.epc-s4 .sc.capture-wrap .capture-icon i:before,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap .capture-icon i:before,
+.epc-s4 #sidebar-after-content .sb.capture-wrap .capture-icon i:before {
+	color: #d0d9dc;
+	text-shadow: none;
+	}
+.epc-s4 .sb.capture-wrap .capture-title,
+.epc-s4 .sb.capture-wrap .capture-intro,
+.epc-s4 .sc.capture-wrap .capture-title,
+.epc-s4 .sc.capture-wrap .capture-intro,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap .capture-title,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap .capture-intro,
+.epc-s4 #sidebar-after-content .sb.capture-wrap .capture-title,
+.epc-s4 #sidebar-after-content .sb.capture-wrap .capture-intro {
+	color: #4a5c64;
+	}
+.epc-s4 .sb.capture-wrap .capture-intro strong,
+.epc-s4 .sc.capture-wrap .capture-intro strong,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap .capture-intro strong,
+.epc-s4 #sidebar-after-content .sb.capture-wrap .capture-intro strong {
+	color: #78919b;
+	}
+.epc-s4 .sb.capture-wrap .capture-notice,
+.epc-s4 .sb.capture-wrap .capture-notice strong,
+.epc-s4 .sc.capture-wrap .capture-notice,
+.epc-s4 .sc.capture-wrap .capture-notice strong,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap .capture-notice,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap .capture-notice strong,
+.epc-s4 #sidebar-after-content .sb.capture-wrap .capture-notice,
+.epc-s4 #sidebar-after-content .sb.capture-wrap .capture-notice strong {
+	color: #95a9b1;
+	}
+
+.epc-s4 .sc.capture-wrap,
+.epc-s4.zen #sidebar-after-content .sb.capture-wrap {
+	border: 1px solid #edf1f2;
+	background: #f6f8f8;
+	}
+
+/* Capture - apos os artigos
+--------------------------------------------------------------*/
+.epc-s4 #sidebar-after-content .sb.capture-wrap {
+	border-bottom: 10px solid #c1cdd1;
+	background: #f3f5f6;
+	}
+.epc-s4 #sidebar-after-content .sb.capture-wrap .capture-form {
+	border-bottom: 1px solid #dfe5e7;
+	}
+
+/* Autor
+--------------------------------------------------------------*/
+.epc-s4 #sidebar-primary .widget_epico_author-id:after {
+	background: #f3f5f6;
+	background-image: repeating-linear-gradient(-45deg,transparent,transparent 25px,#fafbfc 25px,#fafbfc 50px);
+	}
+.epc-s4 #sidebar-primary .widget_epico_author-id {
+	background: #fff;
+	border-bottom: 10px solid #d0d9dc;
+}
+
+/*  Artigos populares
+--------------------------------------------------------------*/
+.epc-s4 #sidebar-primary .widget_epico_pop-id {
+	border-bottom: 10px solid #00c7c0;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	background: #dfe5e7;
+	}
+.epc-s4 #sidebar-primary .widget_epico_pop-id a {
+	color: #00c7c0;
+	}
+.epc-s4 #sidebar-primary .widget_epico_pop-id a:hover,
+.epc-s4 #sidebar-primary .widget_epico_pop-id li:hover a {
+	color: #344146;
+	}
+.epc-s4 #sidebar-primary .widget_epico_pop-id h3[class*="title"] {
+	color: #78919b;
+	background: #d0d9dc;
+	font-weight: 300;
+	}
+.epc-s4 #sidebar-primary .widget_epico_pop-id h3[class*="title"]:before {
+	color: #00c7c0;
+	font-size: 1.26563rem;
+	}
+.epc-s4 #sidebar-primary .widget_epico_pop-id li:before {
+	color: #a4b5bc;
+	}
+.epc-s4 #sidebar-primary .widget_epico_pop-id li:hover:before {
+	color: #344146;
+	}
+
+/* Paginacao
+--------------------------------------------------------------*/
+.epc-s4.plural .page-numbers {
+	background: #95A9B1;
+	}
+.epc-s4 .pagination .page-numbers:hover {
+	color: #fff;
+	background: #78919b;
+	}
+.epc-s4 .pagination .page-numbers.current {
+	color: white;
+	background: #00c7c0;
+	font-weight: 600;
+	}
+.epc-s4 .pagination .page-numbers.current:active {
+	background: #00ada8;
+	}
+.epc-s4 .pagination .page-numbers.current:hover {
+	background: #00ada8;
+	}
+.epc-s4.plural .page-numbers {
+	background: #95A9B1;
+	}
+
+/* Template de pagina Zen
+--------------------------------------------------------------*/
+.epc-s4.page-template-zen {
+	border-bottom:10px solid #00D1D0
+	}
+
+
+/* Fim do estilo 4 */

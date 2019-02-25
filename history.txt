@@ -1,0 +1,193 @@
+1  cd /var/www/html/
+    2  ls
+    3  rm index.html
+    4  ls
+    5  apt-get update
+    6  apt-get install -y mysql-client apache2 apache2-bin libapache2-mod-php7.0 php7.0-curl php7.0-ldap php7.0-gd php7.0-mysql php7.0-mbstring php7.0-bcmath php7.0-json php7.0-snmp libbz2-1.0 libc6 libcomerr2 libcurl3 libffi6 libfreetype6 libgcc1 libgcrypt20 libgmp10 libgnutls30 libgpg-error0 libgssapi-krb5-2 libhogweed4 libicu57 libidn11 libidn2-0 libjpeg62-turbo libk5crypto3 libkeyutils1 libkrb5-3 libkrb5support0 libldap-2.4-2 liblzma5 libmcrypt4 libncurses5 libnettle6 libnghttp2-14 libp11-kit0 libpng16-16 libpq5 libpsl5 libreadline7 librtmp1 libsasl2-2 libssh2-1 libssl1.0.2 libssl1.1 libstdc++6 libsybdb5 libtasn1-6 libtidy5 libtinfo5 libunistring0 libxml2 libxslt1.1 zlib1g
+    7  apt-get install -y libbz2-1.0 libc6 libcomerr2 libcurl3 libffi6 libfreetype6 libgcc1 libgcrypt20 libgmp10 libgnutls30 libgpg-error0 libgssapi-krb5-2 libhogweed4 libidn11 libidn2-0 libk5crypto3 libkeyutils1 libkrb5-3 libkrb5support0 libldap-2.4-2 liblzma5 libmcrypt4 libncurses5 libnettle6 libnghttp2-14 libp11-kit0 libpng16-16 libpq5 librtmp1 libsasl2-2 libssh2-1 libssl1.0.2 libstdc++6 libsybdb5 libtasn1-6 libtidy5 libtinfo5 libunistring0 libxml2 libxslt1.1 zlib1g
+    8  apt-get install -y libbz2-1.0 libc6 libcomerr2 libcurl3 libffi6 libfreetype6 libgcc1 libgcrypt20 libgmp10 libgnutls30 libgpg-error0 libgssapi-krb5-2 libhogweed4 libidn11 libidn2-0 libk5crypto3 libkeyutils1 libkrb5-3 libkrb5support0 libldap-2.4-2 liblzma5 libmcrypt4 libncurses5 libnettle6 libnghttp2-14 libp11-kit0 libpng16-16 libpq5 librtmp1 libsasl2-2 libssh2-1  libstdc++6 libsybdb5 libtasn1-6 libtinfo5 libunistring0 libxml2 libxslt1.1 zlib1g
+    9  dpkg -l
+   10  apt-get install php7.0-xml
+   11  apt-get install php7.0-zip
+   12  dpkg -l
+   13  apt-get install php-*
+   14  apt-get install php-auth-ssl
+   15  apt-get install php-auth-sasl
+   16  apt-get install php-mail
+   17  apt-get install php-net-socket
+   18  apt-get install php-net-smtp
+   19  apt-get install php-pear
+   20  apt-get install php-7.0
+   21  apt-get install php7.0
+   22  dpkg -l
+   23  ls
+   24  vim
+   25  apt install vim
+   26  apt install nano
+   27  nano .htaccess
+   28  cd ..
+   29  l
+   30  cd html
+   31  ls
+   32  chmod 777 .htaccess
+   33  ping
+   34  apt-get install ping
+   35  apt-get install inetutils-ping
+   36  ping
+   37  ping www.brascloud.com.br
+   38  nano /etc/hosts
+   39  ping www.brascloud.com.br
+   40  nano /etc/hosts
+   41  ping www.brascloud.com.br
+   42  nano /etc/hosts
+   43  ping www.brascloud.com.br
+   44  ls
+   45  cd ..
+   46  chmod -R 777 html
+   47  service apache2 restart
+   48  systemctl apache2 restart
+   49  systemctl apache2 status
+   50  systemctl status apache2
+   51  systemctl restart apache2
+   52  service apache2 status
+   53  service apache2 start
+   54  service apache2 status
+   55  service apache2 restart
+   56  service apache2 reload
+   57  vim /etc/apache2/apache2.conf
+   58  nano /etc/apache2/apache2.conf
+   59  nano /etc/apache2/apache2.conf1
+   60  mv /etc/apache2/apache2.conf1 /etc/apache2/apache2.conf
+   61  service apache2 reload
+   62  vim /etc/apache2/apache2.conf
+   63  nano /etc/apache2/apache2.conf
+   64  service apache2 reload
+   65  nano /etc/apache2/apache2.conf
+   66  service apache2 reload
+   67  nano /etc/apache2/apache2.conf
+   68  nano /etc/apache2/apache2.conf
+   69  service apache2 reload
+   70  nano /etc/apache2/apache2.conf
+   71  service apache2 reload
+   72  nano /etc/apache2/apache2.conf
+   73  service apache2 reload
+   74  nano /etc/apache2/apache2.conf
+   75  service apache2 reload
+   76  nano /etc/apache2/apache2.conf
+   77  nano /etc/apache2/apache2.conf1
+   78  apt install vim
+   79  vim teste
+   80  mv teste /etc/apache2/apache2.conf
+   81  service apache2 reload
+   82  service apache2 restart
+   83  vim /etc/apache2/apache2.conf
+   84  nano /etc/apache2/apache2.conf
+   85  y
+   86  nano /etc/apache2/ports.conf
+   87  env
+   88  cat /var/log/apache2/error.log
+   89  cd html/
+   90  nano .htaccess
+   91  apache2ctl -M | grep  headers_module
+   92  a2enmod headers
+   93  service apache2 restart
+   94  cat /var/log/apache2/error.log
+   95  tail -f /var/log/apache2/error.log
+   96  tail -f /var/log/apache2/access.log
+   97  cd /etc/php/7.0/apache2/
+   98  nano php.ini
+   99  service apache2 restart
+  100  service apache2 re
+  101  service apache2 restart
+  102  cd ..
+  103  ls
+  104  cd cli/
+  105  ls
+  106  nano php.ini
+  107  apt update
+  108  apt install libapache2-mod-php
+  109  apt install libapache2-mod-php7.0
+  110  apt install libapache2-mod-php
+  111  apt install libapache2-mod-php7.0
+  112  a2query a2enmod php7
+  113  a2query a2enmod php
+  114  a2query -m php
+  115  a2query -m php7.0
+  116  cd ..
+  117  cd apache2/
+  118  ls
+  119  cd conf.d/
+  120  ls
+  121  cd ..
+  122  ls
+  123  nano php.ini
+  124  service apache2 reload
+  125  service apache2 restart
+  126  tailf /var/log/apache2/access.log
+  127  apt-install ntp
+  128  apt update
+  129  apt isntall ntp
+  130  apt install ntp
+  131  nano /etc/timezone
+  132  echo "America/Sao_Paulo" | sudo tee /etc/timezone
+  133  echo "America/Sao_Paulo" | tee /etc/timezone
+  134  nano /etc/timezone
+  135  dpkg-reconfigure --frontend noninteractive tzdata
+  136  timedatectl set-timezone "America/Sao_Paulo"
+  137  timedatectl set-timezone America/Sao_Paulo
+  138  timedatectl list-timezones
+  139  timedate
+  140  timedatectl
+  141  tailf /var/log/apache2/access.log
+  142  php -m
+  143  sudo apt-get install mcrypt php5-mcrypt
+  144  apt-get install mcrypt php5-mcrypt
+  145  apt-get update
+  146  apt-get install mcrypt
+  147  apt-get install php7.0-mcrypt
+  148  systemctl restart apache1
+  149  systemctl restart apache2
+  150  systemctl restart apache2.service
+  151  ps aux
+  152  service apache2 restart
+  153  service apache2 start
+  154  service apache2 status
+  155  phpenmod mcrypt
+  156  php7.0enmod mcrypt
+  157  php7enmod mcrypt
+  158  service apache2 restart
+  159  apt-get install php7.0-intl
+  160  service apache2 restart
+  161  apt-get install php-intl
+  162  service apache2 restart
+  163  a2enmod intl
+  164  a2enmod php-intl
+  165  a2enmod php7.0-intl
+  166  phpenmod php7.0-intl
+  167  phpenmod php-intl
+  168  a2enmod
+  169  a2enmod php7.0-intl
+  170  php7.0enmod php7.0-intl
+  171  phpenmod php7.0-intl
+  172  phpenmod intl
+  173  service apache2 restart
+  174  cat /var/log/apache2/access.log
+  175  date
+  176  tailf /var/log/apache2/access.log
+  177  time
+  178  date
+  179  dpkg-reconfigure tzdata
+  180  date
+  181  tailf /var/log/apache2/access.log
+  182  apache2ctl -M
+  183  a2enmod rewrite
+  184  service apache2 restart
+  185  service apache2 status
+  186  service apache2 start
+  187  tailf /var/log/apache2/access.log
+  188  service apache2 status
+  189  service apache2 restart
+  190  tailf /var/log/apache2/access.log
+  191  service apache2 restart
+  192  tailf /var/log/apache2/access.log
+  193  history

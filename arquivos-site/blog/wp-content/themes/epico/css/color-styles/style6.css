@@ -1,0 +1,600 @@
+/*-------------------------------------------------------------
+	25.8 ESTILO 6
+--------------------------------------------------------------*/
+.epc-s6 {
+	background-color: #edf1f2;
+	}
+.epc-s6 #footer ::selection,
+.epc-s6 #sidebar-promo ::selection,
+.epc-s6 section[class*="pop-id"] ::selection,
+.epc-s6 .capture-wrap ::selection {
+	background: #d95454;
+	}
+.epc-s6 #footer ::-moz-selection,
+.epc-s6 #sidebar-promo ::-moz-selection,
+.epc-s6 section[class*="pop-id"] ::-moz-selection,
+.epc-s6 .capture-wrap ::-moz-selection {
+	background: #d95454;
+	}
+.epc-s6 #sidebar-top {
+	background-color: #edf1f2;
+	}
+.epc-s6 #credits {
+	border-bottom: 10px solid #d95454;
+	}
+.epc-s6 .loop-meta {
+	border-left: 10px solid #d95454;
+	}
+.epc-s6 a,
+.epc-s6 #footer .widget_tag_cloud a:hover:before {
+	color: #d95454;
+	}
+.epc-s6 .wp-calendar > caption {
+	background-color: #d95454;
+	}
+.epc-s6 .widget_social-id a {
+	color: white;
+	}
+.epc-s6 input[type="submit"] {
+	background: #d95454;
+	}
+.epc-s6 .epc-button-border-primary,
+.epc-s6 #comments .comment-reply-link,
+#comments .epc-s6 .comment-reply-link,
+.epc-s6 #comments .comment-reply-login,
+#comments .epc-s6 .comment-reply-login {
+	border: 2px solid #d95454;
+	color: #d95454;
+	}
+.epc-s6 input[type="submit"]:hover {
+	background: #ad4343;
+	}
+.epc-s6 .epc-button-border-primary:hover,
+.epc-s6 #comments .comment-reply-link:hover,
+#comments .epc-s6 .comment-reply-link:hover,
+.epc-s6 #comments .comment-reply-login:hover,
+#comments .epc-s6 .comment-reply-login:hover {
+	border: 2px solid #344146;
+	color: #344146;
+	}
+.epc-s6 #footer .widget_social-id a:hover {
+	border: 1px solid #d95454;
+	color: #d95454;
+	}
+.epc-s6 #footer .widget_tag_cloud a:hover {
+	border-bottom: 5px solid #d95454;
+	}
+.epc-s6 #sidebar-top a {
+	color: #5f7781;
+	}
+.epc-s6 #sidebar-top a:hover {
+	color: #344146;
+	}
+.epc-s6 #sidebar-top li:before {
+	color: #b3c1c7;
+	}
+.epc-s6 #sidebar-top li:hover:before {
+	color: #d95454;
+	}
+
+/*  Navegacao
+--------------------------------------------------------------*/
+.epc-s6 #menu-primary-items .sub-menu li:hover {
+	border-left: 5px solid #d95454;
+	}
+.epc-s6 #menu-primary .sub-menu li:hover:before,
+.epc-s6 #footer li:hover:before {
+	color: #d95454;
+	}
+.epc-s6 #menu-primary li.menu-item-has-children:hover:before,
+.epc-s6 #menu-secondary li:hover:before {
+	color: #d95454;
+	}
+
+@media only screen and (max-width: 680px) {
+	.epc-s6 #menu-primary > ul > li:hover:before {
+		color: #d95454;
+		}
+	.epc-s6 #menu-primary-items > li:hover {
+		border-left: 5px solid #d95454;
+		}
+	.epc-s6 #menu-primary li:hover:before {
+		color: #d95454;
+		}
+	.epc-s6 .nav-active #nav-toggle span:before,
+	.epc-s6 .nav-active #nav-toggle span:after {
+		background: #d95454;
+		}
+	.epc-s6 #nav-toggle:hover .nav-text {
+		color: #d95454;
+		}
+	.epc-s6 #nav-toggle:hover .screen-reader-text,
+	.epc-s6 #nav-toggle:hover .screen-reader-text:after,
+	.epc-s6 #nav-toggle:hover .screen-reader-text:before {
+		background: #d95454;
+		}
+	.epc-s6 .nav-active #nav-toggle .nav-text {
+		color: #d95454;
+		}
+	.epc-s6 #menu-primary-items ul li:hover,
+	.epc-s6 #menu-primary-items ul li,
+	.epc-s6 #menu-primary-items .sub-menu li,
+	.epc-s6 #menu-primary-items .sub-menu li:hover {
+		border-left: 0;
+		}
+	}
+/*  Busca
+--------------------------------------------------------------*/
+.epc-s6 #search-toggle:hover:after,
+.epc-s6 .search-close .search-text,
+.epc-s6 #search-toggle:before,
+.epc-s6 #search-toggle:hover .search-text,
+.epc-s6 .search-text:hover {
+	color: #d95454;
+	}
+.epc-s6 #footer .search-field:hover,
+.epc-s6 #footer .search-field:focus {
+	border: 1px solid #d95454;
+	}
+.epc-s6 #nav input.search-submit[type="submit"],
+.epc-s6 .not-found input.search-submit[type="submit"] {
+	background: #d95454;
+	}
+.epc-s6 #nav input.search-submit[type="submit"]:hover,
+.epc-s6 .not-found input.search-submit[type="submit"]:hover,
+.epc-s6 #nav input.search-submit[type="submit"]:active,
+.epc-s6 .not-found input.search-submit[type="submit"]:active {
+	background: #cd2d2d;
+	}
+
+/* Modo Leitura focada
+--------------------------------------------------------------*/
+.epc-s6.zen {
+	background: white;
+	}
+.epc-s6 #zen:hover i,
+.epc-s6 #zen.zen-active i {
+	color: #d95454;
+	}
+.epc-s6 #zen.zen-active:hover i {
+	color: #cd2d2d;
+	}
+.epc-s6.zen #footer a {
+	color: #d95454;
+	}
+
+/* Aviso
+--------------------------------------------------------------*/
+.epc-s6 .uberaviso {
+	background: #d95454;
+	}
+.epc-s6 .uberaviso a[class*="button"] {
+	background: #4a5c64;
+	box-shadow: 0 0 0 4px rgba(0,0,0,0.06);
+	}
+.epc-s6 .uberaviso a[class*="button"]:hover {
+	background: #344146;
+	}
+
+/* Capture
+--------------------------------------------------------------*/
+.epc-s6 .fw.capture-wrap {
+	color: #4a5c64;
+	background: #edf1f2;
+	}
+.epc-s6 .fw.capture-wrap .capture-form {
+	border-bottom: 10px solid #c1cdd1;
+	background: #dfe5e7 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAPCAYAAAD3T6+hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMFJREFUeNq0lAsKwjAQRBON38a7eRTvbq1K08QpTEGlabYJGRhCoTDZ3ZfV6npTMzrRUj3gt+RH8/et4QbeC4M83MJOerPvwA1sZy4R0wDfGarWBm7hC0Ml6llZUCtl2L6G7ZToBT9zwqZAWwOOiI7SeQXOy2UGjd07wwcjhKPlmaMfGE0tOGIwLgWOs+oKwnasTC89/EkdacyGgzNLbprAFvalcEg2jSeJQ0GYZSuTm8axMl8Ah+WZfPhV4IjpI8AA2toq/P/m8wgAAAAASUVORK5CYII=) repeat-x 0 0;
+	}
+.epc-s6 .fw.capture-wrap form .button,
+.epc-s6 .fw.capture-wrap form button,
+.epc-s6 .fw.capture-wrap form input[type=submit],
+.epc-s6 .fw.capture-wrap form input[name*=submit] {
+	background: #d95454;
+	box-shadow: 0 0 0 5px rgba(0,
+	0,
+	0,
+	0.1);
+	}
+.epc-s6 .fw.capture-wrap form .button:hover,
+.epc-s6 .fw.capture-wrap form button:hover,
+.epc-s6 .fw.capture-wrap form input[type=submit]:hover,
+.epc-s6 .fw.capture-wrap form input[name*=submit]:hover {
+	background: #ad4343;
+	box-shadow: 0 0 0 5px rgba(0,
+	0,
+	0,
+	0.2);
+	}
+.epc-s6 .fw.capture-wrap form input[type=email]:hover,
+.epc-s6 .fw.capture-wrap form input[name*=signup]:hover,
+.epc-s6 .fw.capture-wrap form input[name*=email]:hover {
+	border: 1px solid #c1cdd1;
+	box-shadow: 0 0 0 5px rgba(0,
+	0,
+	0,
+	0.1);
+	}
+.epc-s6 .fw.capture-wrap form .button:active,
+.epc-s6 .fw.capture-wrap form button:active,
+.epc-s6 .fw.capture-wrap form input[type=submit]:active,
+.epc-s6 .fw.capture-wrap form input[name*=submit]:active {
+	color: rgba(0,
+	0,
+	0,
+	0.5);
+	}
+.epc-s6 .fw.capture-wrap form input[type=email]:focus,
+.epc-s6 .fw.capture-wrap form input[name*=signup]:focus,
+.epc-s6 .fw.capture-wrap form input[name*=email]:focus {
+	border: 1px solid #b3c1c7;
+	box-shadow: 0 0 0 5px rgba(0,
+	0,
+	0,
+	0.15);
+	}
+.epc-s6 .fw.capture-wrap .capture-close i {
+	color: #d0d9dc;
+	font-size: 20px;
+	}
+.epc-s6 .fw.capture-wrap .capture-close i:hover {
+	color: #78919b;
+	}
+.epc-s6 .fw.capture-wrap .capture-icon i:before {
+	color: #d0d9dc;
+	text-shadow: none;
+	}
+.epc-s6 .fw.capture-wrap .capture-title,
+.epc-s6 .fw.capture-wrap .capture-intro {
+	color: #4a5c64;
+	}
+.epc-s6 .fw.capture-wrap .capture-intro strong {
+	color: #78919b;
+	}
+.epc-s6 .fw.capture-wrap .capture-notice,
+.epc-s6 .fw.capture-wrap .capture-notice strong {
+	color: #95a9b1;
+	}
+.epc-s6 .fw.capture-wrap .uf-arrow svg polygon {
+	fill: #d95454;
+	}
+
+.epc-s6 .ip.capture-wrap {
+	border-bottom: 10px solid #d0d9dc;
+	background: #e5eaeb url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAPCAYAAAD3T6+hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMFJREFUeNq0lAsKwjAQRBON38a7eRTvbq1K08QpTEGlabYJGRhCoTDZ3ZfV6npTMzrRUj3gt+RH8/et4QbeC4M83MJOerPvwA1sZy4R0wDfGarWBm7hC0Ml6llZUCtl2L6G7ZToBT9zwqZAWwOOiI7SeQXOy2UGjd07wwcjhKPlmaMfGE0tOGIwLgWOs+oKwnasTC89/EkdacyGgzNLbprAFvalcEg2jSeJQ0GYZSuTm8axMl8Ah+WZfPhV4IjpI8AA2toq/P/m8wgAAAAASUVORK5CYII=) repeat-x 0 0;
+	}
+.epc-s6 .ip.capture-wrap .capture-iconinner i:before {
+	color: #b3c1c7;
+	text-shadow: none;
+	}
+
+/* Capture - barra lateral
+--------------------------------------------------------------*/
+.epc-s6 .sb.capture-wrap,
+.epc-s6 .sc.capture-wrap,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap,
+.epc-s6 #sidebar-after-content .sb.capture-wrap {
+	color: #4a5c64;
+	background: white;
+	}
+.epc-s6 .sb.capture-wrap .capture-form,
+.epc-s6 .sc.capture-wrap .capture-form,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap .capture-form,
+.epc-s6 #sidebar-after-content .sb.capture-wrap .capture-form {
+	border-top: 1px solid rgba(0,
+	0,
+	0,
+	0.05);
+	background: #dfe5e7 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAPCAYAAAD3T6+hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMFJREFUeNq0lAsKwjAQRBON38a7eRTvbq1K08QpTEGlabYJGRhCoTDZ3ZfV6npTMzrRUj3gt+RH8/et4QbeC4M83MJOerPvwA1sZy4R0wDfGarWBm7hC0Ml6llZUCtl2L6G7ZToBT9zwqZAWwOOiI7SeQXOy2UGjd07wwcjhKPlmaMfGE0tOGIwLgWOs+oKwnasTC89/EkdacyGgzNLbprAFvalcEg2jSeJQ0GYZSuTm8axMl8Ah+WZfPhV4IjpI8AA2toq/P/m8wgAAAAASUVORK5CYII=) repeat-x 0 0;
+	}
+.epc-s6 .sb.capture-wrap form .button,
+.epc-s6 .sb.capture-wrap form button,
+.epc-s6 .sb.capture-wrap form input[type=submit],
+.epc-s6 .sb.capture-wrap form input[name=submit],
+.epc-s6 .sb.capture-wrap form input[name^=submit],
+.epc-s6 .sc.capture-wrap form .button,
+.epc-s6 .sc.capture-wrap form button,
+.epc-s6 .sc.capture-wrap form input[type=submit],
+.epc-s6 .sc.capture-wrap form input[name=submit],
+.epc-s6 .sc.capture-wrap form input[name^=submit],
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form .button,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form button,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[type=submit],
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[name=submit],
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[name^=submit],
+.epc-s6 #sidebar-after-content .sb.capture-wrap form .button,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form button,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[type=submit],
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[name=submit],
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[name^=submit] {
+	background: #d95454;
+	box-shadow: 0 0 0 5px rgba(0,
+	0,
+	0,
+	0.1);
+	}
+.epc-s6 .sb.capture-wrap form .button:hover,
+.epc-s6 .sb.capture-wrap form button:hover,
+.epc-s6 .sb.capture-wrap form input[type=submit]:hover,
+.epc-s6 .sb.capture-wrap form input[name=submit]:hover,
+.epc-s6 .sb.capture-wrap form input[name^=submit]:hover,
+.epc-s6 .sc.capture-wrap form .button:hover,
+.epc-s6 .sc.capture-wrap form button:hover,
+.epc-s6 .sc.capture-wrap form input[type=submit]:hover,
+.epc-s6 .sc.capture-wrap form input[name=submit]:hover,
+.epc-s6 .sc.capture-wrap form input[name^=submit]:hover,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form .button:hover,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form button:hover,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[type=submit]:hover,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[name=submit]:hover,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[name^=submit]:hover,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form .button:hover,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form button:hover,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[type=submit]:hover,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[name=submit]:hover,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[name^=submit]:hover {
+	background: #ad4343;
+	box-shadow: 0 0 0 5px rgba(0,
+	0,
+	0,
+	0.2);
+	}
+.epc-s6 .sb.capture-wrap form input[type=email],
+.epc-s6 .sb.capture-wrap form input[name^=signup],
+.epc-s6 .sb.capture-wrap form input[name=email],
+.epc-s6 .sb.capture-wrap form input[name^=email],
+.epc-s6 .sc.capture-wrap form input[type=email],
+.epc-s6 .sc.capture-wrap form input[name^=signup],
+.epc-s6 .sc.capture-wrap form input[name=email],
+.epc-s6 .sc.capture-wrap form input[name^=email],
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[type=email],
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[name^=signup],
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[name=email],
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[name^=email],
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[type=email],
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[name^=signup],
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[name=email],
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[name^=email] {
+	color: #78919b;
+	}
+.epc-s6 .sb.capture-wrap form input[type=email]:hover,
+.epc-s6 .sb.capture-wrap form input[name^=signup]:hover,
+.epc-s6 .sb.capture-wrap form input[name=email]:hover,
+.epc-s6 .sb.capture-wrap form input[name^=email]:hover,
+.epc-s6 .sc.capture-wrap form input[type=email]:hover,
+.epc-s6 .sc.capture-wrap form input[name^=signup]:hover,
+.epc-s6 .sc.capture-wrap form input[name=email]:hover,
+.epc-s6 .sc.capture-wrap form input[name^=email]:hover,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[type=email]:hover,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[name^=signup]:hover,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[name=email]:hover,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[name^=email]:hover,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[type=email]:hover,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[name^=signup]:hover,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[name=email]:hover,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[name^=email]:hover {
+	border: 1px solid #c1cdd1;
+	box-shadow: 0 0 0 5px rgba(0,
+	0,
+	0,
+	0.1);
+	}
+.epc-s6 .sb.capture-wrap form .button:active,
+.epc-s6 .sb.capture-wrap form button:active,
+.epc-s6 .sb.capture-wrap form input[type=submit]:active,
+.epc-s6 .sb.capture-wrap form input[name=submit]:active,
+.epc-s6 .sb.capture-wrap form input[name^=submit]:active,
+.epc-s6 .sc.capture-wrap form .button:active,
+.epc-s6 .sc.capture-wrap form button:active,
+.epc-s6 .sc.capture-wrap form input[type=submit]:active,
+.epc-s6 .sc.capture-wrap form input[name=submit]:active,
+.epc-s6 .sc.capture-wrap form input[name^=submit]:active,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form .button:active,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form button:active,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[type=submit]:active,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[name=submit]:active,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[name^=submit]:active,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form .button:active,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form button:active,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[type=submit]:active,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[name=submit]:active,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[name^=submit]:active {
+	color: rgba(0,
+	0,
+	0,
+	0.5);
+	}
+.epc-s6 .sb.capture-wrap form input[type=email]:focus,
+.epc-s6 .sb.capture-wrap form input[name^=signup]:focus,
+.epc-s6 .sb.capture-wrap form input[name=email]:focus,
+.epc-s6 .sb.capture-wrap form input[name^=email]:focus,
+.epc-s6 .sc.capture-wrap form input[type=email]:focus,
+.epc-s6 .sc.capture-wrap form input[name^=signup]:focus,
+.epc-s6 .sc.capture-wrap form input[name=email]:focus,
+.epc-s6 .sc.capture-wrap form input[name^=email]:focus,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[type=email]:focus,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[name^=signup]:focus,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[name=email]:focus,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap form input[name^=email]:focus,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[type=email]:focus,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[name^=signup]:focus,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[name=email]:focus,
+.epc-s6 #sidebar-after-content .sb.capture-wrap form input[name^=email]:focus {
+	border: 1px solid #b3c1c7;
+	box-shadow: 0 0 0 5px rgba(0,
+	0,
+	0,
+	0.15);
+	}
+.epc-s6 .sb.capture-wrap .capture-close i,
+.epc-s6 .sc.capture-wrap .capture-close i,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap .capture-close i,
+.epc-s6 #sidebar-after-content .sb.capture-wrap .capture-close i {
+	color: #d0d9dc;
+	}
+.epc-s6 .sb.capture-wrap .capture-close i:hover,
+.epc-s6 .sc.capture-wrap .capture-close i:hover,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap .capture-close i:hover,
+.epc-s6 #sidebar-after-content .sb.capture-wrap .capture-close i:hover {
+	color: #78919b;
+	}
+.epc-s6 .sb.capture-wrap .capture-icon i:before,
+.epc-s6 .sc.capture-wrap .capture-icon i:before,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap .capture-icon i:before,
+.epc-s6 #sidebar-after-content .sb.capture-wrap .capture-icon i:before {
+	color: #d0d9dc;
+	text-shadow: none;
+	}
+.epc-s6 .sb.capture-wrap .capture-title,
+.epc-s6 .sb.capture-wrap .capture-intro,
+.epc-s6 .sc.capture-wrap .capture-title,
+.epc-s6 .sc.capture-wrap .capture-intro,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap .capture-title,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap .capture-intro,
+.epc-s6 #sidebar-after-content .sb.capture-wrap .capture-title,
+.epc-s6 #sidebar-after-content .sb.capture-wrap .capture-intro {
+	color: #4a5c64;
+	}
+.epc-s6 .sb.capture-wrap .capture-intro strong,
+.epc-s6 .sc.capture-wrap .capture-intro strong,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap .capture-intro strong,
+.epc-s6 #sidebar-after-content .sb.capture-wrap .capture-intro strong {
+	color: #78919b;
+	}
+.epc-s6 .sb.capture-wrap .capture-notice,
+.epc-s6 .sb.capture-wrap .capture-notice strong,
+.epc-s6 .sc.capture-wrap .capture-notice,
+.epc-s6 .sc.capture-wrap .capture-notice strong,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap .capture-notice,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap .capture-notice strong,
+.epc-s6 #sidebar-after-content .sb.capture-wrap .capture-notice,
+.epc-s6 #sidebar-after-content .sb.capture-wrap .capture-notice strong {
+	color: #95a9b1;
+	}
+.epc-s6 .sb.capture-wrap .uf-arrow svg polygon,
+.epc-s6 .sc.capture-wrap .uf-arrow svg polygon,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap .uf-arrow svg polygon,
+.epc-s6 #sidebar-after-content .sb.capture-wrap .uf-arrow svg polygon {
+	fill: #d95454;
+	}
+
+.epc-s6 .sc.capture-wrap,
+.epc-s6.zen #sidebar-after-content .sb.capture-wrap {
+	border: 1px solid #edf1f2;
+	background: #f6f8f8;
+	}
+
+/* Capture - apos os artigos
+--------------------------------------------------------------*/
+.epc-s6 #sidebar-after-content .sb.capture-wrap {
+	border-bottom: 10px solid #c1cdd1;
+	background: #f3f5f6;
+	}
+.epc-s6 #sidebar-after-content .sb.capture-wrap .capture-form {
+	border-bottom: 1px solid #dfe5e7;
+	}
+
+/* Autor
+--------------------------------------------------------------*/
+.epc-s6 .widget_epico_author-id a[class*="button"] {
+	background: #d95454;
+	}
+.epc-s6 .widget_epico_author-id a[class*="button"]:hover {
+	background: #a32424;
+	}
+
+.epc-s6 .author-profile,
+.epc-s6 .author-profile .editor,
+.epc-s6 .author-profile .administrador {
+	border-left: 10px solid #d95454;
+	}
+
+/*  Artigos populares
+--------------------------------------------------------------*/
+.epc-s6 #sidebar-primary .widget_epico_pop-id {
+	border-bottom: 10px solid #d95454;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	background: #dfe5e7;
+	}
+.epc-s6 #sidebar-primary .widget_epico_pop-id a {
+	color: #d95454;
+	}
+.epc-s6 #sidebar-primary .widget_epico_pop-id a:hover,
+.epc-s6 #sidebar-primary .widget_epico_pop-id li:hover a {
+	color: #344146;
+	}
+.epc-s6 #sidebar-primary .widget_epico_pop-id h3[class*="title"] {
+	color: #78919b;
+	background: #d0d9dc;
+	font-weight: 300;
+	}
+.epc-s6 #sidebar-primary .widget_epico_pop-id h3[class*="title"]:before {
+	color: #d95454;
+	font-size: 1.26563rem;
+	}
+.epc-s6 #sidebar-primary .widget_epico_pop-id li:before {
+	color: #a4b5bc;
+	}
+.epc-s6 #sidebar-primary .widget_epico_pop-id li:hover:before {
+	color: #344146;
+	}
+
+/* Paginas especiais
+--------------------------------------------------------------*/
+.epc-s6 #sidebar-primary section[class*="epico_pages"] h3[class*="title"]:before,
+.epc-s6 #sidebar-primary section[class*="epico_links"] h3[class*="title"]:before {
+	color: #d95454;
+	}
+.epc-s6 #sidebar-primary section[class*="epico_pages"] a,
+.epc-s6 #sidebar-primary section[class*="epico_links"] a {
+	background: #dc6565;
+	}
+.epc-s6 #sidebar-primary section[class*="epico_pages"] a:hover,
+.epc-s6 #sidebar-primary section[class*="epico_links"] a:hover {
+	border-left: 10px solid #4a5c64;
+	background: #c34b4b;
+	}
+.epc-s6 #sidebar-primary section[class*="epico_pages"] a:hover:after,
+.epc-s6 #sidebar-primary section[class*="epico_links"] a:hover:after {
+	border-color: transparent transparent transparent #4a5c64;
+	}
+
+/* Paginacao
+--------------------------------------------------------------*/
+.epc-s6.plural .page-numbers {
+	background: #95A9B1;
+	}
+.epc-s6 .pagination .page-numbers:hover {
+	color: #fff;
+	background: #78919b;
+	}
+.epc-s6 .pagination .page-numbers.current {
+	color: white;
+	background: #d95454;
+	font-weight: 600;
+	}
+.epc-s6 .pagination .page-numbers.current:active {
+	background: #d53f3f;
+	}
+.epc-s6 .pagination .page-numbers.current:hover {
+	background: #d53f3f;
+	}
+.epc-s6.plural .page-numbers{
+	background: #95A9B1
+	}
+
+/* Template de pagina Zen
+--------------------------------------------------------------*/
+.epc-s6.page-template-zen {
+	border-bottom:10px solid #FF594D
+	}
+
+/* Template de pagina Landing
+--------------------------------------------------------------*/
+.epc-s6.page-template-landing #footer a {
+	color: #d95454;
+}
+
+
+/* Fim do estilo 6 */

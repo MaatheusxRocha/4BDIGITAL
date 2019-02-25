@@ -1,0 +1,323 @@
+/*-------------------------------------------------------------
+	25.4 ESTILO 2
+--------------------------------------------------------------*/
+.epc-s2 {
+	background: #eef1f2;
+	}
+.epc-s2 #footer ::selection,
+.epc-s2 #sidebar-promo ::selection,
+.epc-s2 section[class*="pop-id"] ::selection,
+.epc-s2 .capture-wrap ::selection {
+	background: #3396ff;
+	}
+.epc-s2 #footer ::-moz-selection,
+.epc-s2 #sidebar-promo ::-moz-selection,
+.epc-s2 section[class*="pop-id"] ::-moz-selection,
+.epc-s2 .capture-wrap ::-moz-selection {
+	background: #3396ff;
+	}
+.epc-s2 .loop-meta {
+	border-left: 10px solid #3396ff;
+	}
+.epc-s2 #credits {
+	border-bottom: 10px solid #3396ff;
+	}
+.epc-s2 a,
+.epc-s2 #footer .widget_tag_cloud a:hover:before {
+	color: #3396ff;
+	}
+.epc-s2 .wp-calendar > caption {
+	background-color: #3396ff;
+	}
+.epc-s2 .widget_social-id a {
+	color: white;
+	}
+.epc-s2 input[type="submit"] {
+	background: #3396ff;
+	}
+.epc-s2 .epc-button-border-primary,
+.epc-s2 #comments .comment-reply-link,
+#comments .epc-s2 .comment-reply-link,
+.epc-s2 #comments .comment-reply-login,
+#comments .epc-s2 .comment-reply-login {
+	border: 2px solid #3396ff;
+	color: #3396ff;
+	}
+.epc-s2 input[type="submit"]:hover {
+	background: #2878cc;
+	}
+.epc-s2 .epc-button-border-primary:hover,
+.epc-s2 #comments .comment-reply-link:hover,
+#comments .epc-s2 .comment-reply-link:hover,
+.epc-s2 #comments .comment-reply-login:hover,
+#comments .epc-s2 .comment-reply-login:hover {
+	border: 2px solid #344146;
+	color: #344146;
+	}
+.epc-s2 #footer .widget_social-id a:hover {
+	border: 1px solid #3396ff;
+	color: #3396ff;
+	}
+.epc-s2 #footer tbody a:hover {
+	background: #3396ff;
+	}
+.epc-s2 #footer .widget_tag_cloud a:hover {
+	border-bottom: 5px solid #3396ff;
+	}
+.epc-s2 #sidebar-top li:hover:before {
+	color: #3396ff;
+	}
+
+/*  Navegacao
+--------------------------------------------------------------*/
+.epc-s2 #menu-primary-items .sub-menu li:hover {
+	border-left: 5px solid #3396ff;
+	}
+.epc-s2 #menu-primary .sub-menu li:hover:before,
+.epc-s2 #menu-secondary li:hover:before,
+.epc-s2 #footer li:hover:before,
+.epc-s2 #menu-primary li.menu-item-has-children:hover:before,
+.epc-s2 #menu-secondary li:hover:before {
+	color: #3396ff;
+	}
+
+@media only screen and (max-width: 680px) {
+	.epc-s2 #menu-primary > ul > li:hover:before {
+		color: #3396ff;
+		}
+	.epc-s2 #menu-primary-items > li:hover {
+		border-left: 5px solid #3396ff;
+		}
+	.epc-s2 #menu-primary li:hover:before,
+	.epc-s2 #nav-toggle:hover .nav-text,
+	.epc-s2 .nav-active #nav-toggle .nav-text {
+		color: #3396ff;
+		}
+	.epc-s2 .nav-active #nav-toggle span:before,
+	.epc-s2 .nav-active #nav-toggle span:after,
+	.epc-s2 #nav-toggle:hover .screen-reader-text,
+	.epc-s2 #nav-toggle:hover .screen-reader-text:after,
+	.epc-s2 #nav-toggle:hover .screen-reader-text:before {
+		background: #3396ff;
+		}
+	.epc-s2 #menu-primary-items ul li:hover,
+	.epc-s2 #menu-primary-items ul li,
+	.epc-s2 #menu-primary-items .sub-menu li,
+	.epc-s2 #menu-primary-items .sub-menu li:hover {
+		border-left: 0;
+		}
+	}
+/*  Busca
+--------------------------------------------------------------*/
+.epc-s2 #search-toggle:hover:after,
+.epc-s2 .search-close .search-text,
+.epc-s2 #search-toggle:before,
+.epc-s2 #search-toggle:hover .search-text,
+.epc-s2 .search-text:hover {
+	color: #3396ff;
+	}
+.epc-s2 #footer .search-field:hover,
+.epc-s2 #footer .search-field:focus {
+	border: 1px solid #3396ff;
+	}
+.epc-s2 #nav input.search-submit[type="submit"],
+.epc-s2 .not-found input.search-submit[type="submit"] {
+	background: #3396ff;
+	}
+.epc-s2 #nav input.search-submit[type="submit"]:hover,
+.epc-s2 .not-found input.search-submit[type="submit"]:hover,
+.epc-s2 #nav input.search-submit[type="submit"]:active,
+.epc-s2 .not-found input.search-submit[type="submit"]:active {
+	background: #007bff;
+	}
+
+/* Modo Leitura focada
+--------------------------------------------------------------*/
+.epc-s2.zen {
+	background: white;
+	}
+.epc-s2 #zen:hover i,
+.epc-s2 #zen.zen-active i {
+	color: #3396ff;
+	}
+.epc-s2 #zen.zen-active:hover i {
+	color: #007bff;
+	}
+.epc-s2.zen #footer a {
+	color: #3396ff;
+	}
+
+/* Aviso
+--------------------------------------------------------------*/
+.epc-s2 .uberaviso {
+	background: #3396ff;
+	}
+.epc-s2 .uberaviso a[class*="button"] {
+	background: #4a5c64;
+	box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.06);
+	}
+.epc-s2 .uberaviso a[class*="button"]:hover {
+	background: #344146;
+	}
+
+/* Capture
+--------------------------------------------------------------*/
+.epc-s2 .fw.capture-wrap form .button,
+.epc-s2 .fw.capture-wrap form button,
+.epc-s2 .fw.capture-wrap form input[type=submit],
+.epc-s2 .fw.capture-wrap form input[name*=submit] {
+	background: #d95454;
+	box-shadow: 0 0 0 5px rgba(255,
+		255,
+	255,
+	0.1);
+	}
+.epc-s2 .fw.capture-wrap form .button:hover,
+.epc-s2 .fw.capture-wrap form button:hover,
+.epc-s2 .fw.capture-wrap form input[type=submit]:hover,
+.epc-s2 .fw.capture-wrap form input[name*=submit]:hover {
+	background: #ad4343;
+	box-shadow: 0 0 0 5px rgba(0,
+		0,
+	0,
+	0.2);
+	}
+.epc-s2 .fw.capture-wrap .uf-arrow svg polygon {
+	fill: #3396ff;
+	}
+
+/* Capture - barra lateral
+--------------------------------------------------------------*/
+.epc-s2 .sb.capture-wrap form .button,
+.epc-s2 .sb.capture-wrap form button,
+.epc-s2 .sb.capture-wrap form input[type=submit],
+.epc-s2 .sb.capture-wrap form input[name*=submit],
+.epc-s2 .sc.capture-wrap form .button,
+.epc-s2 .sc.capture-wrap form button,
+.epc-s2 .sc.capture-wrap form input[type=submit],
+.epc-s2 .sc.capture-wrap form input[name*=submit],
+.epc-s2.zen #sidebar-after-content .sb.capture-wrap form .button,
+.epc-s2.zen #sidebar-after-content .sb.capture-wrap form button,
+.epc-s2.zen #sidebar-after-content .sb.capture-wrap form input[type=submit],
+.epc-s2.zen #sidebar-after-content .sb.capture-wrap form input[name*=submit] {
+	background: #d95454;
+	box-shadow: 0 0 0 5px rgba(0,0,0,.1);
+	}
+.epc-s2 .sb.capture-wrap form .button:hover,
+.epc-s2 .sb.capture-wrap form button:hover,
+.epc-s2 .sb.capture-wrap form input[type=submit]:hover,
+.epc-s2 .sb.capture-wrap form input[name*=submit]:hover,
+.epc-s2 .sc.capture-wrap form .button:hover,
+.epc-s2 .sc.capture-wrap form button:hover,
+.epc-s2 .sc.capture-wrap form input[type=submit]:hover,
+.epc-s2 .sc.capture-wrap form input[name*=submit]:hover,
+.epc-s2.zen #sidebar-after-content .sb.capture-wrap form .button:hover,
+.epc-s2.zen #sidebar-after-content .sb.capture-wrap form button:hover,
+.epc-s2.zen #sidebar-after-content .sb.capture-wrap form input[type=submit]:hover,
+.epc-s2.zen #sidebar-after-content .sb.capture-wrap form input[name*=submit]:hover {
+	background: #ad4343;
+	}
+.epc-s2 .sb.capture-wrap .uf-arrow svg polygon,
+.epc-s2 .sc.capture-wrap .uf-arrow svg polygon,
+.epc-s2.zen #sidebar-after-content .sb.capture-wrap .uf-arrow svg polygon {
+	fill: #3396ff;
+	}
+
+/* Capture - apos os artigos
+--------------------------------------------------------------*/
+.epc-s2 #sidebar-after-content .sb.capture-wrap form .button,
+.epc-s2 #sidebar-after-content .sb.capture-wrap form button,
+.epc-s2 #sidebar-after-content .sb.capture-wrap form input[type=submit],
+.epc-s2 #sidebar-after-content .sb.capture-wrap form input[name*=submit] {
+	background: #d95454;
+	}
+.epc-s2 #sidebar-after-content .sb.capture-wrap form .button:hover,
+.epc-s2 #sidebar-after-content .sb.capture-wrap form button:hover,
+.epc-s2 #sidebar-after-content .sb.capture-wrap form input[type=submit]:hover,
+.epc-s2 #sidebar-after-content .sb.capture-wrap form input[name*=submit]:hover {
+	background: #ad4343;
+	}
+.epc-s2 #sidebar-after-content .sb.capture-wrap .uf-arrow svg polygon {
+	fill: #3396ff;
+	}
+
+/* Autor
+--------------------------------------------------------------*/
+.epc-s2 .widget_epico_author-id a[class*="button"] {
+	background: #3396ff;
+	}
+.epc-s2 .widget_epico_author-id a[class*="button"]:hover {
+	background: #0063cc;
+	}
+.epc-s2 .author-profile,
+.epc-s2 .author-profile .editor,
+.epc-s2 .author-profile .administrador {
+	border-left: 10px solid #3396ff;
+	}
+.epc-s2 #sidebar-primary .widget_epico_author-id:after {
+	background: #f3f5f6;
+	background-image: repeating-linear-gradient(-45deg,transparent,transparent 25px,#fafbfc 25px,#fafbfc 50px);
+	}
+.epc-s2 #sidebar-primary .widget_epico_author-id {
+	background: #fff;
+	border-bottom: 10px solid #d0d9dc;
+}
+
+
+/*  Artigos populares
+--------------------------------------------------------------*/
+.epc-s2 #sidebar-primary .widget_epico_pop-id {
+	border-bottom: 10px solid #3396ff;
+	}
+.epc-s2 #sidebar-primary .widget_epico_pop-id h3[class*="title"]:before,
+.epc-s2 #sidebar-primary .widget_epico_pop-id li:hover:before {
+	color: #3396ff;
+	}
+
+/* Paginas especiais
+--------------------------------------------------------------*/
+.epc-s2 #sidebar-primary section[class*="epico_pages"] h3[class*="title"]:before,
+.epc-s2 #sidebar-primary section[class*="epico_links"] h3[class*="title"]:before {
+	color: #3396ff;
+	}
+.epc-s2 #sidebar-primary section[class*="epico_pages"] a,
+.epc-s2 #sidebar-primary section[class*="epico_links"] a {
+	background: #5babff;
+	}
+.epc-s2 #sidebar-primary section[class*="epico_pages"] a:hover,
+.epc-s2 #sidebar-primary section[class*="epico_links"] a:hover {
+	background: #308ef2;
+	}
+
+/* Paginacao
+--------------------------------------------------------------*/
+.epc-s2.plural .page-numbers {
+	background: #95A9B1;
+	}
+.epc-s2 .pagination .page-numbers:hover {
+	color: #fff;
+	background: #78919b;
+	}
+.epc-s2 .pagination .page-numbers.current {
+	background: #3396ff;
+	}
+.epc-s2 .pagination .page-numbers.current:active {
+	background: #1a88ff;
+	}
+.epc-s2 .pagination .page-numbers.current:hover {
+	background: #1a88ff;
+	}
+
+/* Template de pagina Zen
+--------------------------------------------------------------*/
+.epc-s2.page-template-zen {
+	border-bottom:10px solid #009CFF;
+	}
+
+/* Template de pagina Landing
+--------------------------------------------------------------*/
+.epc-s2.page-template-landing #footer a {
+	color: #3396ff;
+}
+
+/* Fim do estilo 2 */

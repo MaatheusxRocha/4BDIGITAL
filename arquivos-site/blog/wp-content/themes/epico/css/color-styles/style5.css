@@ -1,0 +1,578 @@
+/*-------------------------------------------------------------
+	25.7 ESTILO 5
+--------------------------------------------------------------*/
+.epc-s5 {
+	background-color: #edf1f2;
+	}
+.epc-s5 #footer ::selection,
+.epc-s5 #sidebar-promo ::selection,
+.epc-s5 section[class*="pop-id"] ::selection,
+.epc-s5 .capture-wrap ::selection {
+	background: #3396ff;
+	}
+.epc-s5 #footer ::-moz-selection,
+.epc-s5 #sidebar-promo ::-moz-selection,
+.epc-s5 section[class*="pop-id"] ::-moz-selection,
+.epc-s5 .capture-wrap ::-moz-selection {
+	background: #3396ff;
+	}
+.epc-s5 #sidebar-top {
+	background-color: #edf1f2;
+	}
+.epc-s5 #credits {
+	border-bottom: 10px solid #3396ff;
+	}
+.epc-s5 .loop-meta {
+	border-left: 10px solid #3396ff;
+	}
+.epc-s5 a,
+.epc-s5 #footer .widget_tag_cloud a:hover:before {
+	color: #3396ff;
+	}
+.epc-s5 .wp-calendar > caption {
+	background-color: #3396ff;
+	}
+.epc-s5 .widget_social-id a {
+	color: white;
+	}
+.epc-s5 input[type="submit"] {
+	background: #3396ff;
+	}
+.epc-s5 .epc-button-border-primary,
+.epc-s5 #comments .comment-reply-link,
+#comments .epc-s5 .comment-reply-link,
+.epc-s5 #comments .comment-reply-login,
+#comments .epc-s5 .comment-reply-login {
+	border: 2px solid #3396ff;
+	color: #3396ff;
+	}
+.epc-s5 input[type="submit"]:hover {
+	background: #2878cc;
+	}
+.epc-s5 .epc-button-border-primary:hover,
+.epc-s5 #comments .comment-reply-link:hover,
+#comments .epc-s5 .comment-reply-link:hover,
+.epc-s5 #comments .comment-reply-login:hover,
+#comments .epc-s5 .comment-reply-login:hover {
+	border: 2px solid #344146;
+	color: #344146;
+	}
+.epc-s5 #footer .widget_social-id a:hover {
+	border: 1px solid #3396ff;
+	color: #3396ff;
+	}
+.epc-s5 #footer tbody a:hover {
+	background: #3396ff;
+	}
+.epc-s5 #footer .widget_tag_cloud a:hover {
+	border-bottom: 5px solid #3396ff;
+	}
+.epc-s5 #sidebar-top a {
+	color: #5f7781;
+	}
+.epc-s5 #sidebar-top a:hover {
+	color: #344146;
+	}
+.epc-s5 #sidebar-top li:before {
+	color: #b3c1c7;
+	}
+.epc-s5 #sidebar-top li:hover:before {
+	color: #3396ff;
+	}
+
+/*  Navegacao
+--------------------------------------------------------------*/
+.epc-s5 #menu-primary-items .sub-menu li:hover {
+	border-left: 5px solid #3396ff;
+	}
+.epc-s5 #menu-primary .sub-menu li:hover:before,
+.epc-s5 #footer li:hover:before {
+	color: #3396ff;
+	}
+.epc-s5 #menu-primary li.menu-item-has-children:hover:before,
+.epc-s5 #menu-secondary li:hover:before {
+	color: #3396ff;
+	}
+
+@media only screen and (max-width: 680px) {
+	.epc-s5 #menu-primary > ul > li:hover:before {
+		color: #3396ff;
+		}
+	.epc-s5 #menu-primary-items > li:hover {
+		border-left: 5px solid #3396ff;
+		}
+	.epc-s5 #menu-primary li:hover:before {
+		color: #3396ff;
+		}
+	.epc-s5 .nav-active #nav-toggle span:before,
+	.epc-s5 .nav-active #nav-toggle span:after {
+		background: #3396ff;
+		}
+	.epc-s5 #nav-toggle:hover .nav-text {
+		color: #3396ff;
+		}
+	.epc-s5 #nav-toggle:hover .screen-reader-text,
+	.epc-s5 #nav-toggle:hover .screen-reader-text:after,
+	.epc-s5 #nav-toggle:hover .screen-reader-text:before {
+		background: #3396ff;
+		}
+	.epc-s5 .nav-active #nav-toggle .nav-text {
+		color: #3396ff;
+		}
+	.epc-s5 #menu-primary-items ul li:hover,
+	.epc-s5 #menu-primary-items ul li,
+	.epc-s5 #menu-primary-items .sub-menu li,
+	.epc-s5 #menu-primary-items .sub-menu li:hover {
+		border-left: 0;
+		}
+	}
+/*  Busca
+--------------------------------------------------------------*/
+.epc-s5 #search-toggle:hover:after,
+.epc-s5 .search-close .search-text,
+.epc-s5 #search-toggle:before,
+.epc-s5 #search-toggle:hover .search-text,
+.epc-s5 .search-text:hover {
+	color: #3396ff;
+	}
+.epc-s5 #footer .search-field:hover,
+.epc-s5 #footer .search-field:focus {
+	border: 1px solid #3396ff;
+	}
+.epc-s5 #nav input.search-submit[type="submit"],
+.epc-s5 .not-found input.search-submit[type="submit"] {
+	background: #3396ff;
+	}
+.epc-s5 #nav input.search-submit[type="submit"]:hover,
+.epc-s5 .not-found input.search-submit[type="submit"]:hover,
+.epc-s5 #nav input.search-submit[type="submit"]:active,
+.epc-s5 .not-found input.search-submit[type="submit"]:active {
+	background: #007bff;
+	}
+
+/* Modo Leitura focada
+--------------------------------------------------------------*/
+.epc-s5.zen {
+	background: white;
+	}
+.epc-s5 #zen:hover i,
+.epc-s5 #zen.zen-active i {
+	color: #3396ff;
+	}
+.epc-s5 #zen.zen-active:hover i {
+	color: #007bff;
+	}
+.epc-s5.zen #footer a {
+	color: #3396ff;
+	}
+
+/* Aviso
+--------------------------------------------------------------*/
+.epc-s5 .uberaviso {
+	background: #3396ff;
+	}
+.epc-s5 .uberaviso a[class*="button"] {
+	background: #4a5c64;
+	box-shadow: 0 0 0 4px rgba(0,
+	0,
+	0,
+	0.06);
+	}
+.epc-s5 .uberaviso a[class*="button"]:hover {
+	background: #344146;
+	}
+
+/* Capture
+--------------------------------------------------------------*/
+.epc-s5 .fw.capture-wrap {
+	color: #4a5c64;
+	background: #f3f5f6;
+	}
+.epc-s5 .fw.capture-wrap .capture-form {
+	border-bottom: 10px solid #c1cdd1;
+	background: #dfe5e7 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAPCAYAAAD3T6+hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMFJREFUeNq0lAsKwjAQRBON38a7eRTvbq1K08QpTEGlabYJGRhCoTDZ3ZfV6npTMzrRUj3gt+RH8/et4QbeC4M83MJOerPvwA1sZy4R0wDfGarWBm7hC0Ml6llZUCtl2L6G7ZToBT9zwqZAWwOOiI7SeQXOy2UGjd07wwcjhKPlmaMfGE0tOGIwLgWOs+oKwnasTC89/EkdacyGgzNLbprAFvalcEg2jSeJQ0GYZSuTm8axMl8Ah+WZfPhV4IjpI8AA2toq/P/m8wgAAAAASUVORK5CYII=) repeat-x 0 0;
+	}
+.epc-s5 .fw.capture-wrap form .button,
+.epc-s5 .fw.capture-wrap form button,
+.epc-s5 .fw.capture-wrap form input[type=submit],
+.epc-s5 .fw.capture-wrap form input[name*=submit] {
+	background: #d95454;
+	box-shadow: 0 0 0 5px rgba(0,
+	0,
+	0,
+	0.1);
+	}
+.epc-s5 .fw.capture-wrap form .button:hover,
+.epc-s5 .fw.capture-wrap form button:hover,
+.epc-s5 .fw.capture-wrap form input[type=submit]:hover,
+.epc-s5 .fw.capture-wrap form input[name*=submit]:hover {
+	background: #ad4343;
+	box-shadow: 0 0 0 5px rgba(0,
+	0,
+	0,
+	0.2);
+	}
+.epc-s5 .fw.capture-wrap form input[type=email]:hover,
+.epc-s5 .fw.capture-wrap form input[name*=signup]:hover,
+.epc-s5 .fw.capture-wrap form input[name*=email]:hover {
+	border-color: 1px solid #344146,
+	55;
+	box-shadow: 0 0 0 5px rgba(0,
+	0,
+	0,
+	0.1);
+	}
+.epc-s5 .fw.capture-wrap form .button:active,
+.epc-s5 .fw.capture-wrap form button:active,
+.epc-s5 .fw.capture-wrap form input[type=submit]:active,
+.epc-s5 .fw.capture-wrap form input[name*=submit]:active {
+	color: rgba(0,
+	0,
+	0,
+	0.5);
+	}
+.epc-s5 .fw.capture-wrap form input[type=email]:focus,
+.epc-s5 .fw.capture-wrap form input[name*=signup]:focus,
+.epc-s5 .fw.capture-wrap form input[name*=email]:focus {
+	border: 1px solid #b3c1c7;
+	box-shadow: 0 0 0 5px rgba(0,
+	0,
+	0,
+	0.15);
+	}
+.epc-s5 .fw.capture-wrap .capture-close i {
+	color: #d0d9dc;
+	font-size: 20px;
+	}
+.epc-s5 .fw.capture-wrap .capture-close i:hover {
+	color: #78919b;
+	}
+.epc-s5 .fw.capture-wrap .capture-icon i:before {
+	color: #d0d9dc;
+	text-shadow: none;
+	}
+.epc-s5 .fw.capture-wrap .capture-title,
+.epc-s5 .fw.capture-wrap .capture-intro {
+	color: #4a5c64;
+	}
+.epc-s5 .fw.capture-wrap .capture-intro strong {
+	color: #78919b;
+	}
+.epc-s5 .fw.capture-wrap .capture-notice,
+.epc-s5 .fw.capture-wrap .capture-notice strong {
+	color: #95a9b1;
+	}
+.epc-s5 .fw.capture-wrap .uf-arrow svg polygon {
+	fill: #3396ff;
+	}
+
+.epc-s5 .ip.capture-wrap {
+	border-bottom: 10px solid #d0d9dc;
+	background: #e5eaeb url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAPCAYAAAD3T6+hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMFJREFUeNq0lAsKwjAQRBON38a7eRTvbq1K08QpTEGlabYJGRhCoTDZ3ZfV6npTMzrRUj3gt+RH8/et4QbeC4M83MJOerPvwA1sZy4R0wDfGarWBm7hC0Ml6llZUCtl2L6G7ZToBT9zwqZAWwOOiI7SeQXOy2UGjd07wwcjhKPlmaMfGE0tOGIwLgWOs+oKwnasTC89/EkdacyGgzNLbprAFvalcEg2jSeJQ0GYZSuTm8axMl8Ah+WZfPhV4IjpI8AA2toq/P/m8wgAAAAASUVORK5CYII=) repeat-x 0 0;
+	}
+.epc-s5 .ip.capture-wrap .capture-iconinner i:before {
+	color: #b3c1c7;
+	text-shadow: none;
+	}
+
+/* Capture - barra lateral
+--------------------------------------------------------------*/
+.epc-s5 .sb.capture-wrap,
+.epc-s5 .sc.capture-wrap,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap,
+.epc-s5 #sidebar-after-content .sb.capture-wrap {
+	color: #4a5c64;
+	background: white;
+	}
+.epc-s5 .sb.capture-wrap .capture-form,
+.epc-s5 .sc.capture-wrap .capture-form,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap .capture-form,
+.epc-s5 #sidebar-after-content .sb.capture-wrap .capture-form {
+	border-top: 1px solid rgba(0,
+	0,
+	0,
+	0.05);
+	background: #dfe5e7 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAPCAYAAAD3T6+hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMFJREFUeNq0lAsKwjAQRBON38a7eRTvbq1K08QpTEGlabYJGRhCoTDZ3ZfV6npTMzrRUj3gt+RH8/et4QbeC4M83MJOerPvwA1sZy4R0wDfGarWBm7hC0Ml6llZUCtl2L6G7ZToBT9zwqZAWwOOiI7SeQXOy2UGjd07wwcjhKPlmaMfGE0tOGIwLgWOs+oKwnasTC89/EkdacyGgzNLbprAFvalcEg2jSeJQ0GYZSuTm8axMl8Ah+WZfPhV4IjpI8AA2toq/P/m8wgAAAAASUVORK5CYII=) repeat-x 0 0;
+	}
+.epc-s5 .sb.capture-wrap form .button,
+.epc-s5 .sb.capture-wrap form button,
+.epc-s5 .sb.capture-wrap form input[type=submit],
+.epc-s5 .sb.capture-wrap form input[name*=submit],
+.epc-s5 .sc.capture-wrap form .button,
+.epc-s5 .sc.capture-wrap form button,
+.epc-s5 .sc.capture-wrap form input[type=submit],
+.epc-s5 .sc.capture-wrap form input[name*=submit],
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form .button,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form button,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form input[type=submit],
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form input[name*=submit],
+.epc-s5 #sidebar-after-content .sb.capture-wrap form .button,
+.epc-s5 #sidebar-after-content .sb.capture-wrap form button,
+.epc-s5 #sidebar-after-content .sb.capture-wrap form input[type=submit],
+.epc-s5 #sidebar-after-content .sb.capture-wrap form input[name*=submit] {
+	background: #d95454;
+	box-shadow: 0 0 0 5px rgba(0,
+	0,
+	0,
+	0.1);
+	}
+.epc-s5 .sb.capture-wrap form .button:hover,
+.epc-s5 .sb.capture-wrap form button:hover,
+.epc-s5 .sb.capture-wrap form input[type=submit]:hover,
+.epc-s5 .sb.capture-wrap form input[name*=submit]:hover,
+.epc-s5 .sc.capture-wrap form .button:hover,
+.epc-s5 .sc.capture-wrap form button:hover,
+.epc-s5 .sc.capture-wrap form input[type=submit]:hover,
+.epc-s5 .sc.capture-wrap form input[name*=submit]:hover,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form .button:hover,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form button:hover,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form input[type=submit]:hover,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form input[name*=submit]:hover,
+.epc-s5 #sidebar-after-content .sb.capture-wrap form .button:hover,
+.epc-s5 #sidebar-after-content .sb.capture-wrap form button:hover,
+.epc-s5 #sidebar-after-content .sb.capture-wrap form input[type=submit]:hover,
+.epc-s5 #sidebar-after-content .sb.capture-wrap form input[name*=submit]:hover {
+	background: #ad4343;
+	box-shadow: 0 0 0 5px rgba(0,
+	0,
+	0,
+	0.2);
+	}
+.epc-s5 .sb.capture-wrap form .button:active,
+.epc-s5 .sb.capture-wrap form button:active,
+.epc-s5 .sb.capture-wrap form input[type=submit]:active,
+.epc-s5 .sb.capture-wrap form input[name*=submit]:active,
+.epc-s5 .sc.capture-wrap form .button:active,
+.epc-s5 .sc.capture-wrap form button:active,
+.epc-s5 .sc.capture-wrap form input[type=submit]:active,
+.epc-s5 .sc.capture-wrap form input[name*=submit]:active,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form .button:active,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form button:active,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form input[type=submit]:active,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form input[name*=submit]:active,
+.epc-s5 #sidebar-after-content .sb.capture-wrap form .button:active,
+.epc-s5 #sidebar-after-content .sb.capture-wrap form button:active,
+.epc-s5 #sidebar-after-content .sb.capture-wrap form input[type=submit]:active,
+.epc-s5 #sidebar-after-content .sb.capture-wrap form input[name*=submit]:active {
+	color: rgba(0,
+	0,
+	0,
+	0.5);
+	}
+.epc-s5 .sb.capture-wrap form input[type=email],
+.epc-s5 .sb.capture-wrap form input[name*=signup],
+.epc-s5 .sb.capture-wrap form input[name*=email],
+.epc-s5 .sc.capture-wrap form input[type=email],
+.epc-s5 .sc.capture-wrap form input[name*=signup],
+.epc-s5 .sc.capture-wrap form input[name*=email],
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form input[type=email],
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form input[name*=signup],
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form input[name*=email],
+.epc-s5 #sidebar-after-content .sb.capture-wrap form input[type=email],
+.epc-s5 #sidebar-after-content .sb.capture-wrap form input[name*=signup],
+.epc-s5 #sidebar-after-content .sb.capture-wrap form input[name*=email] {
+	color: #78919b;
+	}
+.epc-s5 .sb.capture-wrap form input[type=email]:hover,
+.epc-s5 .sb.capture-wrap form input[name*=signup]:hover,
+.epc-s5 .sb.capture-wrap form input[name*=email]:hover,
+.epc-s5 .sc.capture-wrap form input[type=email]:hover,
+.epc-s5 .sc.capture-wrap form input[name*=signup]:hover,
+.epc-s5 .sc.capture-wrap form input[name*=email]:hover,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form input[type=email]:hover,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form input[name*=signup]:hover,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form input[name*=email]:hover,
+.epc-s5 #sidebar-after-content .sb.capture-wrap form input[type=email]:hover,
+.epc-s5 #sidebar-after-content .sb.capture-wrap form input[name*=signup]:hover,
+.epc-s5 #sidebar-after-content .sb.capture-wrap form input[name*=email]:hover {
+	border: 1px solid #c1cdd1;
+	box-shadow: 0 0 0 5px #d6dee1;
+	}
+.epc-s5 .sb.capture-wrap form input[type=email]:focus,
+.epc-s5 .sb.capture-wrap form input[name*=signup]:focus,
+.epc-s5 .sb.capture-wrap form input[name*=email]:focus,
+.epc-s5 .sc.capture-wrap form input[type=email]:focus,
+.epc-s5 .sc.capture-wrap form input[name*=signup]:focus,
+.epc-s5 .sc.capture-wrap form input[name*=email]:focus,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form input[type=email]:focus,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form input[name*=signup]:focus,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap form input[name*=email]:focus,
+.epc-s5 #sidebar-after-content .sb.capture-wrap form input[type=email]:focus,
+.epc-s5 #sidebar-after-content .sb.capture-wrap form input[name*=signup]:focus,
+.epc-s5 #sidebar-after-content .sb.capture-wrap form input[name*=email]:focus {
+	border: 1px solid #b3c1c7;
+	box-shadow: 0 0 0 5px #cad4d8;
+	}
+.epc-s5 .sb.capture-wrap .capture-close i,
+.epc-s5 .sc.capture-wrap .capture-close i,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap .capture-close i,
+.epc-s5 #sidebar-after-content .sb.capture-wrap .capture-close i {
+	color: #d0d9dc;
+	}
+.epc-s5 .sb.capture-wrap .capture-close i:hover,
+.epc-s5 .sc.capture-wrap .capture-close i:hover,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap .capture-close i:hover,
+.epc-s5 #sidebar-after-content .sb.capture-wrap .capture-close i:hover {
+	color: #78919b;
+	}
+.epc-s5 .sb.capture-wrap .capture-icon i:before,
+.epc-s5 .sc.capture-wrap .capture-icon i:before,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap .capture-icon i:before,
+.epc-s5 #sidebar-after-content .sb.capture-wrap .capture-icon i:before {
+	color: #d0d9dc;
+	text-shadow: none;
+	}
+.epc-s5 .sb.capture-wrap .capture-title,
+.epc-s5 .sb.capture-wrap .capture-intro,
+.epc-s5 .sc.capture-wrap .capture-title,
+.epc-s5 .sc.capture-wrap .capture-intro,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap .capture-title,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap .capture-intro,
+.epc-s5 #sidebar-after-content .sb.capture-wrap .capture-title,
+.epc-s5 #sidebar-after-content .sb.capture-wrap .capture-intro {
+	color: #4a5c64;
+	}
+.epc-s5 .sb.capture-wrap .capture-intro strong,
+.epc-s5 .sc.capture-wrap .capture-intro strong,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap .capture-intro strong,
+.epc-s5 #sidebar-after-content .sb.capture-wrap .capture-intro strong {
+	color: #78919b;
+	}
+.epc-s5 .sb.capture-wrap .capture-notice,
+.epc-s5 .sb.capture-wrap .capture-notice strong,
+.epc-s5 .sc.capture-wrap .capture-notice,
+.epc-s5 .sc.capture-wrap .capture-notice strong,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap .capture-notice,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap .capture-notice strong,
+.epc-s5 #sidebar-after-content .sb.capture-wrap .capture-notice,
+.epc-s5 #sidebar-after-content .sb.capture-wrap .capture-notice strong {
+	color: #95a9b1;
+	}
+.epc-s5 .sb.capture-wrap .uf-arrow svg polygon,
+.epc-s5 .sc.capture-wrap .uf-arrow svg polygon,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap .uf-arrow svg polygon,
+.epc-s5 #sidebar-after-content .sb.capture-wrap .uf-arrow svg polygon {
+	fill: #3396ff;
+	}
+
+.epc-s5 .sc.capture-wrap,
+.epc-s5.zen #sidebar-after-content .sb.capture-wrap {
+	border: 1px solid #edf1f2;
+	background: #f6f8f8;
+	}
+
+/* Capture - apos os artigos
+--------------------------------------------------------------*/
+.epc-s5 #sidebar-after-content .sb.capture-wrap {
+	border-bottom: 10px solid #c1cdd1;
+	background: #f3f5f6;
+	}
+.epc-s5 #sidebar-after-content .sb.capture-wrap .capture-form {
+	border-bottom: 1px solid #dfe5e7;
+	}
+
+/* Autor
+--------------------------------------------------------------*/
+.epc-s5 .widget_epico_author-id a[class*="button"] {
+	background: #3396ff;
+	}
+.epc-s5 .widget_epico_author-id a[class*="button"]:hover {
+	background: #0063cc;
+	}
+.epc-s5 .author-profile,
+.epc-s5 .author-profile .editor,
+.epc-s5 .author-profile .administrador {
+	border-left: 10px solid #3396ff;
+	}
+.epc-s5 #sidebar-primary .widget_epico_author-id:after {
+	background: #f3f5f6;
+	background-image: repeating-linear-gradient(-45deg,transparent,transparent 25px,#fafbfc 25px,#fafbfc 50px);
+	}
+.epc-s5 #sidebar-primary .widget_epico_author-id {
+	background: #fff;
+	border-bottom: 10px solid #d0d9dc;
+	}
+
+/*  Artigos populares
+--------------------------------------------------------------*/
+.epc-s5 #sidebar-primary .widget_epico_pop-id {
+	border-bottom: 10px solid #3396ff;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	background: #dfe5e7;
+	}
+.epc-s5 #sidebar-primary .widget_epico_pop-id a {
+	color: #3396ff;
+	}
+.epc-s5 #sidebar-primary .widget_epico_pop-id a:hover,
+.epc-s5 #sidebar-primary .widget_epico_pop-id li:hover a {
+	color: #344146;
+	}
+.epc-s5 #sidebar-primary .widget_epico_pop-id h3[class*="title"] {
+	color: #78919b;
+	background: #d0d9dc;
+	font-weight: 300;
+	}
+.epc-s5 #sidebar-primary .widget_epico_pop-id h3[class*="title"]:before {
+	color: #3396ff;
+	font-size: 1.26563rem;
+	}
+.epc-s5 #sidebar-primary .widget_epico_pop-id li:before {
+	color: #a4b5bc;
+	}
+.epc-s5 #sidebar-primary .widget_epico_pop-id li:hover:before {
+	color: #344146;
+	}
+
+/* Paginas especiais
+--------------------------------------------------------------*/
+.epc-s5 #sidebar-primary section[class*="epico_pages"] h3[class*="title"]:before,
+.epc-s5 #sidebar-primary section[class*="epico_links"] h3[class*="title"]:before {
+	color: #3396ff;
+	}
+.epc-s5 #sidebar-primary section[class*="epico_pages"] a,
+.epc-s5 #sidebar-primary section[class*="epico_links"] a {
+	background: #5babff;
+	}
+.epc-s5 #sidebar-primary section[class*="epico_pages"] a:hover,
+.epc-s5 #sidebar-primary section[class*="epico_links"] a:hover {
+	background: #308ef2;
+	}
+
+/* Paginacao
+--------------------------------------------------------------*/
+.epc-s5.plural .page-numbers {
+	background: #95A9B1;
+	}
+.epc-s5 .pagination .page-numbers:hover {
+	color: #fff;
+	background: #78919b;
+	}
+.epc-s5 .pagination .page-numbers.current {
+	color: white;
+	background: #3396ff;
+	font-weight: 600;
+	}
+.epc-s5 .pagination .page-numbers.current:active {
+	background: #1a88ff;
+	}
+.epc-s5 .pagination .page-numbers.current:hover {
+	background: #1a88ff;
+	}
+.epc-s5.plural .page-numbers{
+	background: #95A9B1
+	}
+
+/* Template de pagina Zen
+--------------------------------------------------------------*/
+.epc-s5.page-template-zen {
+	border-bottom:10px solid #3396FF
+	}
+
+/* Template de pagina Landing
+--------------------------------------------------------------*/
+.epc-s5.page-template-landing #footer a {
+	color: #3396ff;
+}
+
+/* Fim do estilo 5 */

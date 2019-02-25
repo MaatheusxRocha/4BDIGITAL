@@ -1,0 +1,44 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-08-20 00:48:33 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2018-08-20 00:48:57 --> 404 Page Not Found: Sementes-de-feijao/index
+ERROR - 2018-08-20 03:37:36 --> 404 Page Not Found: Homepage/networking
+ERROR - 2018-08-20 05:06:51 --> 404 Page Not Found: Feed/index
+ERROR - 2018-08-20 06:06:11 --> 404 Page Not Found: Wls-wsat/CoordinatorPortType
+ERROR - 2018-08-20 06:24:06 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-08-20 07:57:09 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-20 07:57:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-20 07:57:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-20 09:23:40 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-20 09:23:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-20 09:23:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-20 10:25:17 --> 404 Page Not Found: Brascloud-automacao-disponibilidade-e-crescimento-dos-seus-negocios/index
+ERROR - 2018-08-20 10:53:39 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-08-20 13:02:14 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-20 13:02:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-20 13:02:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-20 13:08:19 --> E-mail de contato enviado com sucesso
+ERROR - 2018-08-20 13:58:03 --> 404 Page Not Found: Beneficios-do-gerenciamento-avancado-em-ambiente-de-cloud-publica/index
+ERROR - 2018-08-20 14:25:19 --> 404 Page Not Found: Homepage/cloud-privada-2
+ERROR - 2018-08-20 15:29:23 --> 404 Page Not Found: Sites/default
+ERROR - 2018-08-20 15:53:11 --> 404 Page Not Found: Homepage/produtividade-e-colaboracao
+ERROR - 2018-08-20 16:01:19 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2018-08-20 16:02:57 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-20 16:39:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-20 16:39:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-20 16:39:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-20 16:55:17 --> 404 Page Not Found: Account/forgotPassword
+ERROR - 2018-08-20 16:55:37 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-08-20 18:29:08 --> 404 Page Not Found: Armazenamento-2/index
+ERROR - 2018-08-20 18:44:22 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-20 18:44:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-20 18:44:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-20 19:25:10 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-08-20 19:47:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-20 21:19:28 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-20 21:19:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-20 21:19:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-20 22:08:00 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2018-08-20 22:17:00 --> 404 Page Not Found: Homepage/vmware
+ERROR - 2018-08-20 22:41:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-20 22:58:57 --> 404 Page Not Found: Homepage/blog

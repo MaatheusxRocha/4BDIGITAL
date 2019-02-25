@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-08-29 00:01:54 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2018-08-29 00:23:25 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-08-29 02:44:34 --> 404 Page Not Found: Login/index
+ERROR - 2018-08-29 05:38:46 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-08-29 06:50:48 --> 404 Page Not Found: Cloud-stack/index
+ERROR - 2018-08-29 07:12:55 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-29 07:12:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-29 07:12:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-29 07:44:54 --> 404 Page Not Found: Homepage/cloud-publica-2
+ERROR - 2018-08-29 11:43:29 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-08-29 14:33:22 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-29 14:33:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-29 14:33:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-29 14:59:37 --> 404 Page Not Found: Tag/auto-scaling-cloud-publica
+ERROR - 2018-08-29 16:45:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-29 17:47:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-29 18:25:50 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-08-29 18:40:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-29 18:55:16 --> 404 Page Not Found: Homepage/parceiros
+ERROR - 2018-08-29 18:55:17 --> 404 Page Not Found: Paint-pots-da-mac-por-que-usar/index
+ERROR - 2018-08-29 18:55:23 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2018-08-29 18:55:34 --> 404 Page Not Found: 44/179-e
+ERROR - 2018-08-29 18:55:35 --> 404 Page Not Found: Homepage/networking
+ERROR - 2018-08-29 20:19:55 --> 404 Page Not Found: Licensephp/index
+ERROR - 2018-08-29 21:56:27 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-29 21:56:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-29 21:56:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-08-29 21:57:57 --> 404 Page Not Found: Login/auth
+ERROR - 2018-08-29 23:06:25 --> 404 Page Not Found: Homepage/cloud-publica-2

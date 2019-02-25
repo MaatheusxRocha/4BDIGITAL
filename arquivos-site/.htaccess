@@ -1,0 +1,36 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTPS} !=on
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+          RewriteCond %{HTTP_HOST} !^www\.(.*)
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+      RewriteRule (.*) http://www.%{HTTP_HOST}/$1 [R=301,L]
+
+      RewriteCond $1 !\.(gif|jpe?g|png)$ [NC]
+      RewriteCond %{REQUEST_FILENAME} !-f
+      RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+      RewriteRule ^(.*)$ /index.php?/$1 [L]
+</IfModule>
+<IfModule !mod_rewrite.c>
+    ErrorDocument 404 /index.php
+</IfModule>
+
+<FilesMatch ".(eot|ttf|otf|woff)">
+        Header set Access-Control-Allow-Origin "*"
+</FilesMatch>
+
+<filesMatch ".(css|jpg|jpeg|png|gif|js|ico)$">
+    Header set Cache-Control "max-age=2628000, public"
+</filesMatch>
+
+
+Redirect 302 /backup https://mspbackups.com/Admin/
+Redirect 302 /instaladorwindows http://s3.amazonaws.com/cb_setups/MBS/C4359542-C457-4172-BBC0-9A720AB99260/BRASCLOUDOnlineBackup_v5.9.0.330_netv4.0_ALLEDITIONS_Setup_20180621180751.exe
+
