@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-03-30 02:56:49 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-30 04:23:09 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-30 04:23:10 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-30 04:53:58 --> 404 Page Not Found: Homepage/blog
+ERROR - 2020-03-30 05:47:00 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-03-30 05:47:10 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-30 06:54:29 --> 404 Page Not Found: Dojo-1104/dojo
+ERROR - 2020-03-30 10:23:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-30 10:28:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-30 10:34:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-30 11:28:25 --> 404 Page Not Found: Dologinaction/index
+ERROR - 2020-03-30 11:28:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-30 13:16:20 --> 404 Page Not Found: Indexatom/index
+ERROR - 2020-03-30 13:16:20 --> 404 Page Not Found: Rssxml/index
+ERROR - 2020-03-30 13:16:20 --> 404 Page Not Found: Indexrss/index
+ERROR - 2020-03-30 13:16:20 --> 404 Page Not Found: Indexrdf/index
+ERROR - 2020-03-30 13:16:20 --> 404 Page Not Found: Atomxml/index
+ERROR - 2020-03-30 13:16:20 --> 404 Page Not Found: Indexxml/index
+ERROR - 2020-03-30 13:16:20 --> 404 Page Not Found: Feeds/index
+ERROR - 2020-03-30 13:16:20 --> 404 Page Not Found: Feed/index
+ERROR - 2020-03-30 14:31:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-30 15:10:26 --> 404 Page Not Found: Pages/Cloud
+ERROR - 2020-03-30 15:12:47 --> 404 Page Not Found: Pages/Cloud
+ERROR - 2020-03-30 17:36:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-30 20:02:02 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-03-30 20:10:09 --> 404 Page Not Found: Ui/img
+ERROR - 2020-03-30 20:41:22 --> 404 Page Not Found: Faviconico/index

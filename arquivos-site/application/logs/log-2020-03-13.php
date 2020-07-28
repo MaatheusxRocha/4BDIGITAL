@@ -1,0 +1,39 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-03-13 00:45:26 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-13 00:45:27 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-13 04:13:36 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-13 04:13:38 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-13 05:43:24 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-13 05:45:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 05:51:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 05:52:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 05:58:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 06:02:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 06:04:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 06:07:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 06:13:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 07:27:17 --> 404 Page Not Found: Cms/license.txt
+ERROR - 2020-03-13 09:00:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 09:02:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 09:22:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 09:22:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 09:22:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 09:22:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 09:22:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 10:36:39 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-13 10:54:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 11:05:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 12:34:16 --> 404 Page Not Found: Wwwbrascloudcombr/index
+ERROR - 2020-03-13 12:37:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 13:11:15 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-13 13:56:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 15:29:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 16:37:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 16:38:57 --> E-mail de parceria enviado com sucesso
+ERROR - 2020-03-13 16:41:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 17:13:55 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-03-13 17:42:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-13 18:52:01 --> 404 Page Not Found: Homepage/contato
+ERROR - 2020-03-13 18:52:31 --> 404 Page Not Found: W/license.txt
+ERROR - 2020-03-13 19:19:46 --> 404 Page Not Found: Dojo/dojo-1.10.4

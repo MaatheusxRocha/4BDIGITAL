@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-12-01 00:09:57 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-12-01 02:40:24 --> 404 Page Not Found: Dompdf/dompdf.php
+ERROR - 2019-12-01 02:40:25 --> 404 Page Not Found: Dompdf/dompdf.php
+ERROR - 2019-12-01 04:56:29 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-01 04:56:31 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-01 09:31:38 --> 404 Page Not Found: Homepage/monitoramento-avancado
+ERROR - 2019-12-01 10:59:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-01 11:32:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-01 11:40:13 --> 404 Page Not Found: Author/rsantos
+ERROR - 2019-12-01 12:49:36 --> 404 Page Not Found: Well-known/apple-app-site-association
+ERROR - 2019-12-01 12:49:37 --> 404 Page Not Found: Apple-app-site-association/index
+ERROR - 2019-12-01 12:51:20 --> 404 Page Not Found: Homepage/seguranca
+ERROR - 2019-12-01 13:02:13 --> 404 Page Not Found: Cloud-stack/index
+ERROR - 2019-12-01 13:11:47 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-01 13:47:51 --> 404 Page Not Found: E/install
+ERROR - 2019-12-01 13:49:53 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2019-12-01 15:23:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-01 15:23:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-01 15:23:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-01 16:56:14 --> 404 Page Not Found: Homepage/cloud-privada-2
+ERROR - 2019-12-01 18:11:17 --> 404 Page Not Found: Login/auth
+ERROR - 2019-12-01 18:51:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-01 19:59:28 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2019-12-01 20:02:05 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2019-12-01 20:43:49 --> 404 Page Not Found: Homepage/contato
+ERROR - 2019-12-01 20:52:40 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2019-12-01 23:10:22 --> 404 Page Not Found: Wp-loadphp/index

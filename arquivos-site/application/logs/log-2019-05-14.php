@@ -1,0 +1,47 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-05-14 01:28:35 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2019-05-14 01:30:41 --> 404 Page Not Found: Login/auth
+ERROR - 2019-05-14 02:25:43 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2019-05-14 02:39:32 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2019-05-14 04:48:35 --> 404 Page Not Found: Homepage/contato
+ERROR - 2019-05-14 05:19:26 --> 404 Page Not Found: Script%3E/index
+ERROR - 2019-05-14 05:19:43 --> 404 Page Not Found: Script%3E%3C/index
+ERROR - 2019-05-14 05:20:09 --> 404 Page Not Found: Siteroot/top.html
+ERROR - 2019-05-14 05:20:34 --> 404 Page Not Found: Havent/you
+ERROR - 2019-05-14 05:20:58 --> 404 Page Not Found: Dont/mess
+ERROR - 2019-05-14 05:21:23 --> 404 Page Not Found: Dont/mess
+ERROR - 2019-05-14 05:21:49 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2019-05-14 05:42:25 --> 404 Page Not Found: Feed/index
+ERROR - 2019-05-14 05:49:31 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-05-14 06:38:39 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2019-05-14 07:38:10 --> E-mail de ligue-me enviado com sucesso
+ERROR - 2019-05-14 07:51:08 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2019-05-14 08:20:55 --> 404 Page Not Found: Login/index
+ERROR - 2019-05-14 08:39:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-14 08:42:12 --> 404 Page Not Found: Homepage/index
+ERROR - 2019-05-14 09:14:36 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-05-14 09:24:12 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-05-14 11:05:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-14 11:53:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-14 11:58:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-14 12:53:04 --> 404 Page Not Found: Homepage/cloud-publica-2
+ERROR - 2019-05-14 13:04:50 --> 404 Page Not Found: Mais-um-pouco-de-definicao-de-cloud-computing/index
+ERROR - 2019-05-14 15:30:38 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2019-05-14 15:39:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-14 16:08:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-14 16:31:40 --> 404 Page Not Found: Ss/index.php
+ERROR - 2019-05-14 16:31:53 --> 404 Page Not Found: Sunshop/index.php
+ERROR - 2019-05-14 16:31:58 --> 404 Page Not Found: Shop/index.php
+ERROR - 2019-05-14 17:12:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-14 17:16:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-14 17:38:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-14 17:46:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-14 17:46:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-14 17:50:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-14 18:29:39 --> 404 Page Not Found: Category/blog
+ERROR - 2019-05-14 20:38:37 --> 404 Page Not Found: Ui/img
+ERROR - 2019-05-14 21:00:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-14 22:12:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-14 22:15:35 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-05-14 22:39:15 --> 404 Page Not Found: Homepage/email-hosting

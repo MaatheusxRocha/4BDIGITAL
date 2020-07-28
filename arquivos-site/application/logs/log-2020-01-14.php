@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-01-14 01:33:45 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-14 02:14:01 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2020-01-14 05:23:05 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2020-01-14 07:50:27 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-01-14 09:15:31 --> 404 Page Not Found: 1111/feed
+ERROR - 2020-01-14 09:16:01 --> 404 Page Not Found: 1111/feed
+ERROR - 2020-01-14 09:22:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-14 09:32:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-14 09:33:20 --> 404 Page Not Found: 81cf0a4d-2866-44e5-b53a-a7ab96c710f3/index
+ERROR - 2020-01-14 09:33:22 --> 404 Page Not Found: E63c108c-f789-4a22-a61b-5739d8b73ffd/index
+ERROR - 2020-01-14 09:33:49 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2020-01-14 09:33:53 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2020-01-14 11:00:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-14 11:05:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-14 11:30:03 --> 404 Page Not Found: Login/auth
+ERROR - 2020-01-14 11:30:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-14 12:20:26 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-14 12:20:28 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-14 13:35:20 --> 404 Page Not Found: Login/auth
+ERROR - 2020-01-14 15:03:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-14 15:14:00 --> 404 Page Not Found: Statics/js
+ERROR - 2020-01-14 16:43:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-14 19:53:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-14 20:16:27 --> 404 Page Not Found: Tag/auto-scaling-cloud-publica
+ERROR - 2020-01-14 20:53:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-14 20:53:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-14 21:09:43 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-01-14 22:36:33 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2020-01-14 23:32:30 --> 404 Page Not Found: Homepage/contato

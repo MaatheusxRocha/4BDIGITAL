@@ -1,0 +1,42 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-05-06 01:21:26 --> 404 Page Not Found: Homepage/cloud-privada-2
+ERROR - 2019-05-06 01:58:51 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-05-06 01:58:52 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-05-06 02:11:42 --> 404 Page Not Found: Wp-admin/index
+ERROR - 2019-05-06 03:32:23 --> 404 Page Not Found: Homepage/contato
+ERROR - 2019-05-06 03:40:58 --> 404 Page Not Found: Paint-pots-da-mac-por-que-usar/index
+ERROR - 2019-05-06 04:49:35 --> 404 Page Not Found: Homepage/servicos-profissionais
+ERROR - 2019-05-06 05:00:22 --> 404 Page Not Found: Author/rsantos
+ERROR - 2019-05-06 07:17:14 --> 404 Page Not Found: Homepage/index
+ERROR - 2019-05-06 07:18:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-06 07:26:03 --> 404 Page Not Found: Feed/index
+ERROR - 2019-05-06 07:27:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-06 07:48:10 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-05-06 09:17:01 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2019-05-06 09:23:43 --> 404 Page Not Found: Login/auth
+ERROR - 2019-05-06 10:12:58 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2019-05-06 10:31:41 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2019-05-06 10:33:33 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-05-06 10:49:45 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-05-06 11:13:29 --> 404 Page Not Found: Homepage/disaster-recovery
+ERROR - 2019-05-06 12:04:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-06 12:33:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-06 15:09:56 --> 404 Page Not Found: Beneficios-do-gerenciamento-avancado-em-ambiente-de-cloud-publica/index
+ERROR - 2019-05-06 15:27:26 --> 404 Page Not Found: Homepage/cloud-publica-2
+ERROR - 2019-05-06 15:39:27 --> 404 Page Not Found: Category/blog
+ERROR - 2019-05-06 15:41:50 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-05-06 15:51:02 --> E-mail de ligue-me enviado com sucesso
+ERROR - 2019-05-06 16:01:47 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-05-06 16:14:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-06 16:33:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-06 17:02:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-06 17:44:34 --> 404 Page Not Found: Armazenamento-2/index
+ERROR - 2019-05-06 19:06:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-06 19:21:55 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2019-05-06 19:52:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-06 20:00:31 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-05-06 21:06:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-06 21:18:03 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-05-06 21:34:35 --> 404 Page Not Found: Homepage/seguranca
+ERROR - 2019-05-06 23:17:59 --> 404 Page Not Found: Homepage/seguranca

@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-06-19 03:20:52 --> 404 Page Not Found: Login/index
+ERROR - 2019-06-19 04:30:22 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-06-19 04:49:28 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-06-19 05:56:33 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2019-06-19 06:02:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-19 06:33:24 --> 404 Page Not Found: Login/auth
+ERROR - 2019-06-19 06:33:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-19 06:33:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-19 06:33:32 --> 404 Page Not Found: Login/auth
+ERROR - 2019-06-19 06:33:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-19 06:33:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-19 07:22:17 --> 404 Page Not Found: Homepage/cloud-publica-2
+ERROR - 2019-06-19 09:14:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-19 09:18:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-19 09:29:48 --> 404 Page Not Found: Mais-um-pouco-de-definicao-de-cloud-computing/index
+ERROR - 2019-06-19 10:05:36 --> 404 Page Not Found: Login/auth
+ERROR - 2019-06-19 10:05:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-19 10:05:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-19 11:25:35 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-06-19 12:23:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-19 12:53:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-19 12:53:46 --> 404 Page Not Found: Login/auth
+ERROR - 2019-06-19 12:53:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-19 12:53:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-19 16:11:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-19 16:39:37 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-06-19 17:29:45 --> 404 Page Not Found: Ui/img
+ERROR - 2019-06-19 17:48:50 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-06-19 20:44:03 --> 404 Page Not Found: Login/auth
+ERROR - 2019-06-19 20:44:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-19 20:44:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-19 21:04:00 --> 404 Page Not Found: Homepage/parceiros
+ERROR - 2019-06-19 22:29:27 --> 404 Page Not Found: Login/auth
+ERROR - 2019-06-19 22:29:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-19 22:29:28 --> 404 Page Not Found: Faviconico/index

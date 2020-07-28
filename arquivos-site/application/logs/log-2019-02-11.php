@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-02-11 03:53:58 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-02-11 05:54:21 --> 404 Page Not Found: Login/auth
+ERROR - 2019-02-11 05:54:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-11 05:54:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-11 06:57:36 --> 404 Page Not Found: Login/auth
+ERROR - 2019-02-11 06:57:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-11 06:57:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-11 08:07:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-11 09:23:29 --> 404 Page Not Found: Ui/img
+ERROR - 2019-02-11 10:20:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-11 10:21:15 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2019-02-11 12:52:30 --> 404 Page Not Found: Homepage/monitoramento-avancado
+ERROR - 2019-02-11 16:19:59 --> 404 Page Not Found: Login/auth
+ERROR - 2019-02-11 16:19:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-11 16:20:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-11 18:03:25 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-02-11 18:03:25 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-02-11 21:30:25 --> 404 Page Not Found: Login/auth
+ERROR - 2019-02-11 21:30:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-11 21:30:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-11 22:19:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-11 22:23:06 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-02-11 22:24:43 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-02-11 22:24:53 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2019-02-11 22:45:38 --> 404 Page Not Found: Login/auth
+ERROR - 2019-02-11 22:45:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-11 22:45:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-11 23:14:19 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-02-11 23:24:13 --> 404 Page Not Found: Faviconico/index

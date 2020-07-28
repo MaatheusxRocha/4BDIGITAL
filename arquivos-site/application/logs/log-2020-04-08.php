@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-04-08 01:02:34 --> 404 Page Not Found: Ea569372-9f7b-4d78-8ac3-4287940c3843/index
+ERROR - 2020-04-08 01:03:05 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2020-04-08 02:59:07 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-08 03:26:28 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-08 04:14:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-04-08 06:00:46 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-04-08 06:29:47 --> 404 Page Not Found: Data/backupdata.zip
+ERROR - 2020-04-08 06:29:48 --> 404 Page Not Found: Data/backupdata.rar
+ERROR - 2020-04-08 06:29:49 --> 404 Page Not Found: Data/backupdata.rar
+ERROR - 2020-04-08 06:29:50 --> 404 Page Not Found: Data/backup_data.zip
+ERROR - 2020-04-08 06:29:51 --> 404 Page Not Found: Data/backup_data.tar.gz
+ERROR - 2020-04-08 06:29:55 --> 404 Page Not Found: Data/backup_data.rar
+ERROR - 2020-04-08 06:38:29 --> 404 Page Not Found: Brascloud-automacao-disponibilidade-e-crescimento-dos-seus-negocios/index
+ERROR - 2020-04-08 07:03:08 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-04-08 09:21:58 --> 404 Page Not Found: 1111/feed
+ERROR - 2020-04-08 09:21:59 --> 404 Page Not Found: Rss/index
+ERROR - 2020-04-08 11:54:37 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-08 11:54:38 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-08 12:12:03 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-08 12:12:25 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-08 15:23:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-04-08 15:23:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-04-08 15:38:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-04-08 18:41:24 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2020-04-08 19:47:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-04-08 21:07:10 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-08 21:35:46 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-04-08 22:53:26 --> 404 Page Not Found: Templates/index.html
+ERROR - 2020-04-08 23:24:10 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-08 23:53:53 --> 404 Page Not Found: Faviconico/index

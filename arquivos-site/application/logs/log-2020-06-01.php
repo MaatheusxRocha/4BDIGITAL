@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-06-01 03:04:22 --> 404 Page Not Found: OLD/index
+ERROR - 2020-06-01 03:04:48 --> 404 Page Not Found: OLD/index
+ERROR - 2020-06-01 03:19:30 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-06-01 03:27:44 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-06-01 04:24:14 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-06-01 05:10:03 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-06-01 05:22:47 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-06-01 06:10:23 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-06-01 10:45:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-01 10:54:38 --> 404 Page Not Found: Env/index
+ERROR - 2020-06-01 13:14:50 --> 404 Page Not Found: Wp-admin/admin-ajax.php
+ERROR - 2020-06-01 14:26:11 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-06-01 14:59:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-01 15:14:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-01 15:19:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-01 16:11:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-01 16:43:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-01 19:53:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-01 19:53:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-01 19:53:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-01 19:53:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-01 20:07:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-01 20:36:56 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-06-01 20:36:57 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-06-01 21:00:12 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-06-01 23:10:53 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-06-01 23:42:09 --> 404 Page Not Found: Old/index
+ERROR - 2020-06-01 23:57:50 --> 404 Page Not Found: Wp-loginphp/index

@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-03-23 00:23:13 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-03-23 05:47:15 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-03-23 07:38:42 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-03-23 07:38:42 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-03-23 09:01:34 --> 404 Page Not Found: Beneficios-do-gerenciamento-avancado-em-ambiente-de-cloud-publica/feed
+ERROR - 2019-03-23 09:09:04 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-23 09:09:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-23 09:09:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-23 11:03:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-23 12:19:59 --> 404 Page Not Found: Openings/index
+ERROR - 2019-03-23 12:21:56 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-23 12:22:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-23 12:22:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-23 15:56:05 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-23 15:56:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-23 15:56:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-23 16:35:49 --> 404 Page Not Found: Author/rsantos
+ERROR - 2019-03-23 17:53:07 --> 404 Page Not Found: Statics/js
+ERROR - 2019-03-23 17:53:07 --> 404 Page Not Found: Include/charset.func.php
+ERROR - 2019-03-23 18:20:51 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-03-23 18:20:51 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-03-23 18:55:59 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-23 18:56:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-23 18:56:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-23 20:45:29 --> 404 Page Not Found: Cloud-stack/index
+ERROR - 2019-03-23 22:02:51 --> 404 Page Not Found: Ui/img
+ERROR - 2019-03-23 23:43:57 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-23 23:43:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-23 23:43:58 --> 404 Page Not Found: Faviconico/index

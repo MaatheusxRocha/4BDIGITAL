@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-04-27 00:05:52 --> 404 Page Not Found: Homepage/disaster-recovery
+ERROR - 2020-04-27 04:19:36 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-27 05:33:57 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-04-27 08:17:28 --> 404 Page Not Found: Google35a6c6f41b3ceeb6html/index
+ERROR - 2020-04-27 08:17:28 --> 404 Page Not Found: Google36a163bfb2ff2cbfhtml/index
+ERROR - 2020-04-27 10:02:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-04-27 10:09:13 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-27 10:09:14 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-27 10:42:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-04-27 10:42:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-04-27 10:56:11 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-04-27 11:04:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-04-27 11:43:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-04-27 11:43:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-04-27 11:43:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-04-27 14:00:54 --> 404 Page Not Found: Google128688865c305e57html/index
+ERROR - 2020-04-27 14:00:55 --> 404 Page Not Found: Google9a91f411848e2a5ehtml/index
+ERROR - 2020-04-27 14:05:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-04-27 14:05:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-04-27 14:08:35 --> 404 Page Not Found: AutoDiscover/autodiscover.xml
+ERROR - 2020-04-27 14:08:45 --> 404 Page Not Found: AutoDiscover/autodiscover.xml
+ERROR - 2020-04-27 15:38:41 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-27 16:03:52 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-04-27 18:08:20 --> 404 Page Not Found: Https:/www.brascloud.com.br
+ERROR - 2020-04-27 18:35:11 --> 404 Page Not Found: Wwwbrascloudcombr/index
+ERROR - 2020-04-27 19:52:55 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-04-27 20:05:38 --> 404 Page Not Found: Var/index
+ERROR - 2020-04-27 20:35:54 --> 404 Page Not Found: Apple-app-site-association/index
+ERROR - 2020-04-27 21:31:47 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-27 21:31:49 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-27 22:47:16 --> 404 Page Not Found: Xxsssseee/index

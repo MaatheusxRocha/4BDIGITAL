@@ -21,3 +21,15 @@ ERROR - 2018-09-05 10:25:27 --> 404 Page Not Found: Faviconico/index
 ERROR - 2018-09-05 10:58:19 --> 404 Page Not Found: Nossos-precos/index
 ERROR - 2018-09-05 11:08:53 --> 404 Page Not Found: Wp-loginphp/index
 ERROR - 2018-09-05 12:20:13 --> 404 Page Not Found: A-primeira-cloud-publica-100-brasileira-com-faturamento-por-hora/index
+ERROR - 2018-09-05 15:24:30 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-05 15:24:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-05 15:24:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-05 16:45:33 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2018-09-05 16:47:11 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-05 19:19:29 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-09-05 20:27:39 --> 404 Page Not Found: Homepage/index
+ERROR - 2018-09-05 20:54:54 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2018-09-05 22:16:50 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-05 22:16:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-05 22:16:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-05 23:05:16 --> 404 Page Not Found: Homepage/licenciamento

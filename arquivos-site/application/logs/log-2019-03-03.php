@@ -1,0 +1,40 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-03-03 00:19:17 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-03-03 02:26:10 --> 404 Page Not Found: Brascloud-automacao-disponibilidade-e-crescimento-dos-seus-negocios/index
+ERROR - 2019-03-03 03:57:03 --> 404 Page Not Found: Homepage/armazenamento
+ERROR - 2019-03-03 03:57:09 --> 404 Page Not Found: Homepage/produtividade-e-colaboracao
+ERROR - 2019-03-03 03:57:41 --> E-mail de ligue-me enviado com sucesso
+ERROR - 2019-03-03 05:23:19 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-03-03 06:04:09 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-03-03 06:54:28 --> 404 Page Not Found: Account/forgotPassword
+ERROR - 2019-03-03 07:54:54 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-03 07:54:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-03 07:54:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-03 08:47:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-03 09:05:23 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-03 09:05:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-03 09:05:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-03 09:35:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-03 12:35:26 --> 404 Page Not Found: Homepage/pagina-inicial
+ERROR - 2019-03-03 12:35:50 --> 404 Page Not Found: Feed/index
+ERROR - 2019-03-03 14:59:05 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-03 14:59:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-03 14:59:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-03 15:52:30 --> 404 Page Not Found: Openings/index
+ERROR - 2019-03-03 15:53:36 --> 404 Page Not Found: Career/index
+ERROR - 2019-03-03 15:54:26 --> 404 Page Not Found: Jobs/index
+ERROR - 2019-03-03 15:55:23 --> 404 Page Not Found: Vacancies/index
+ERROR - 2019-03-03 15:56:15 --> 404 Page Not Found: Apply/index
+ERROR - 2019-03-03 17:23:59 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-03-03 18:14:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-03 18:21:32 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-03 18:21:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-03 18:21:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-03 18:29:58 --> 404 Page Not Found: Cloud-stack/index
+ERROR - 2019-03-03 20:34:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-03 20:35:21 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-03-03 22:52:39 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-03 22:52:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-03 22:52:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-03 23:58:42 --> 404 Page Not Found: Homepage/nossos-precos-linux

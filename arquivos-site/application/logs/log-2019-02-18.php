@@ -1,0 +1,42 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-02-18 00:42:48 --> 404 Page Not Found: Category/blog
+ERROR - 2019-02-18 05:04:44 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2019-02-18 06:11:42 --> 404 Page Not Found: Login/auth
+ERROR - 2019-02-18 06:11:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 06:11:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 08:17:44 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2019-02-18 09:18:24 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-02-18 10:11:13 --> 404 Page Not Found: Dbphp/index
+ERROR - 2019-02-18 10:11:15 --> 404 Page Not Found: Dbphp/index
+ERROR - 2019-02-18 11:20:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 12:00:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 12:23:49 --> 404 Page Not Found: Login/auth
+ERROR - 2019-02-18 12:23:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 12:23:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 13:41:36 --> 404 Page Not Found: Login/auth
+ERROR - 2019-02-18 13:41:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 13:41:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 13:41:51 --> 404 Page Not Found: Login/auth
+ERROR - 2019-02-18 13:41:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 13:41:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 14:16:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 14:50:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 14:54:28 --> E-mail de ligue-me enviado com sucesso
+ERROR - 2019-02-18 15:08:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 15:16:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 15:20:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 15:27:12 --> 404 Page Not Found: Ui/img
+ERROR - 2019-02-18 15:42:46 --> 404 Page Not Found: Login/auth
+ERROR - 2019-02-18 15:42:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 15:42:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 16:59:00 --> 404 Page Not Found: Login/auth
+ERROR - 2019-02-18 16:59:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 16:59:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 18:19:32 --> 404 Page Not Found: Login/auth
+ERROR - 2019-02-18 18:19:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 18:19:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 20:00:52 --> 404 Page Not Found: Login/auth
+ERROR - 2019-02-18 20:00:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 20:00:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-18 20:46:38 --> 404 Page Not Found: Cloud-stack/feed

@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-01-18 01:43:27 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-18 05:20:29 --> 404 Page Not Found: Brascloud-automacao-disponibilidade-e-crescimento-dos-seus-negocios/feed
+ERROR - 2020-01-18 05:54:21 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-18 06:55:39 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-01-18 07:33:33 --> 404 Page Not Found: Mais-um-pouco-de-definicao-de-cloud-computing/feed
+ERROR - 2020-01-18 07:55:22 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-18 07:55:22 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-18 09:54:23 --> 404 Page Not Found: Js/common.js
+ERROR - 2020-01-18 10:08:01 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-18 10:25:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-18 10:25:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-18 10:25:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-18 10:25:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-18 10:26:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-18 10:26:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-18 11:11:21 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2020-01-18 11:21:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-18 15:50:49 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-18 15:50:50 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-18 17:37:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-18 17:37:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-18 17:50:44 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-18 17:55:45 --> 404 Page Not Found: Web7z/index
+ERROR - 2020-01-18 18:08:21 --> 404 Page Not Found: Homepage/contato
+ERROR - 2020-01-18 20:47:25 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-01-18 20:54:54 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-18 23:18:17 --> 404 Page Not Found: Faviconico/index

@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-03-07 00:18:07 --> 404 Page Not Found: Bitrix/admin
+ERROR - 2020-03-07 00:48:50 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-07 02:50:59 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-07 02:51:00 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-07 03:25:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-07 03:25:18 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-07 04:44:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-07 07:07:03 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-07 08:04:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-07 08:04:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-07 08:12:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-07 09:51:53 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-07 12:32:47 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-07 12:32:48 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-07 17:28:07 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-03-07 18:53:41 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-03-07 19:38:58 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-07 19:38:59 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-07 20:11:05 --> 404 Page Not Found: This_page_does_not_exist/wp-login.php
+ERROR - 2020-03-07 20:11:06 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-07 20:11:08 --> 404 Page Not Found: Wordpress/wp-login.php
+ERROR - 2020-03-07 20:11:09 --> 404 Page Not Found: Wp/wp-login.php
+ERROR - 2020-03-07 20:11:10 --> 404 Page Not Found: Site/wp-login.php
+ERROR - 2020-03-07 20:11:10 --> 404 Page Not Found: Novo/wp-login.php
+ERROR - 2020-03-07 20:11:11 --> 404 Page Not Found: Old/wp-login.php
+ERROR - 2020-03-07 20:11:12 --> 404 Page Not Found: New/wp-login.php
+ERROR - 2020-03-07 20:11:12 --> 404 Page Not Found: Teste/wp-login.php
+ERROR - 2020-03-07 20:11:15 --> 404 Page Not Found: Portal/wp-login.php
+ERROR - 2020-03-07 20:11:15 --> 404 Page Not Found: Login/wp-login.php
+ERROR - 2020-03-07 20:11:16 --> 404 Page Not Found: admin/Wp-loginphp/index
+ERROR - 2020-03-07 20:11:18 --> 404 Page Not Found: Entrar/wp-login.php
+ERROR - 2020-03-07 20:11:19 --> 404 Page Not Found: Painel/wp-login.php
+ERROR - 2020-03-07 20:20:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-07 22:05:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-07 23:27:57 --> 404 Page Not Found: Adstxt/index

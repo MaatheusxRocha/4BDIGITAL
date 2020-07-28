@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-01-10 00:29:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-10 02:57:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-10 03:08:43 --> 404 Page Not Found: Homepage/networking
+ERROR - 2020-01-10 06:22:41 --> 404 Page Not Found: Public/js
+ERROR - 2020-01-10 06:22:41 --> 404 Page Not Found: Include/calendar
+ERROR - 2020-01-10 06:22:42 --> 404 Page Not Found: Public/ui
+ERROR - 2020-01-10 08:18:20 --> 404 Page Not Found: %E2%A0%80%E2%A0%80/index
+ERROR - 2020-01-10 08:18:20 --> 404 Page Not Found: %E2%A0%80%E2%A0%80/index
+ERROR - 2020-01-10 08:50:57 --> 404 Page Not Found: Ui/css
+ERROR - 2020-01-10 09:57:29 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-10 09:57:32 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-10 10:09:07 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-10 10:09:08 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-10 10:09:14 --> 404 Page Not Found: Tag/auto-scaling-cloud-publica
+ERROR - 2020-01-10 11:25:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-10 11:25:59 --> 404 Page Not Found: Homepage/sobre-nos
+ERROR - 2020-01-10 13:16:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-10 14:00:36 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-01-10 14:30:23 --> 404 Page Not Found: E/install
+ERROR - 2020-01-10 16:43:30 --> 404 Page Not Found: Google9d6f293c8b12defehtml/index
+ERROR - 2020-01-10 16:43:30 --> 404 Page Not Found: Googled1e1a94e3465bdc6html/index
+ERROR - 2020-01-10 17:26:45 --> 404 Page Not Found: Googlec922a8a154d97c1dhtml/index
+ERROR - 2020-01-10 17:26:46 --> 404 Page Not Found: Google6ae974d4e9389328html/index
+ERROR - 2020-01-10 18:29:11 --> 404 Page Not Found: %E2%A0%80%E2%A0%80/index
+ERROR - 2020-01-10 18:29:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-10 19:25:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-10 19:34:08 --> 404 Page Not Found: %E2%A0%80%E2%A0%80/index
+ERROR - 2020-01-10 19:34:09 --> 404 Page Not Found: %E2%A0%80%E2%A0%80/index
+ERROR - 2020-01-10 19:39:12 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-10 20:27:00 --> 404 Page Not Found: Ui/css
+ERROR - 2020-01-10 21:13:35 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-01-10 22:15:50 --> 404 Page Not Found: Bak7z/index
+ERROR - 2020-01-10 23:41:59 --> 404 Page Not Found: Datarar/index

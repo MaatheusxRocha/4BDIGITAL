@@ -6,12 +6,15 @@
  */
 
 /**
- * Class WPSEO_Plugin_Importers
+ * Class WPSEO_Plugin_Importers.
  *
  * Object which contains all importers.
  */
 class WPSEO_Plugin_Importers {
+
 	/**
+	 * List of supported importers.
+	 *
 	 * @var array
 	 */
 	private static $importers = array(
@@ -22,6 +25,7 @@ class WPSEO_Plugin_Importers {
 		'WPSEO_Import_WP_Meta_SEO',
 		'WPSEO_Import_Platinum_SEO',
 		'WPSEO_Import_Premium_SEO_Pack',
+		'WPSEO_Import_RankMath',
 		'WPSEO_Import_SEOPressor',
 		'WPSEO_Import_SEO_Framework',
 		'WPSEO_Import_Smartcrawl_SEO',

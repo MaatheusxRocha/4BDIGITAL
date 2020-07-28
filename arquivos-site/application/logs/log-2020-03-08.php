@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-03-08 07:07:11 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-08 07:59:46 --> 404 Page Not Found: Shop/license.txt
+ERROR - 2020-03-08 11:06:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-08 11:44:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-08 13:01:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-08 13:57:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-08 14:31:18 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-08 16:01:32 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-08 16:01:34 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-08 16:28:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-08 17:54:13 --> 404 Page Not Found: Public/router.php
+ERROR - 2020-03-08 17:54:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-08 19:13:45 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-03-08 19:49:25 --> 404 Page Not Found: This_page_does_not_exist/wp-login.php
+ERROR - 2020-03-08 19:49:26 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-08 19:49:27 --> 404 Page Not Found: Wordpress/wp-login.php
+ERROR - 2020-03-08 19:49:28 --> 404 Page Not Found: Wp/wp-login.php
+ERROR - 2020-03-08 19:49:29 --> 404 Page Not Found: Site/wp-login.php
+ERROR - 2020-03-08 19:49:30 --> 404 Page Not Found: Novo/wp-login.php
+ERROR - 2020-03-08 19:49:31 --> 404 Page Not Found: Old/wp-login.php
+ERROR - 2020-03-08 19:49:31 --> 404 Page Not Found: New/wp-login.php
+ERROR - 2020-03-08 19:49:32 --> 404 Page Not Found: Teste/wp-login.php
+ERROR - 2020-03-08 19:49:35 --> 404 Page Not Found: Portal/wp-login.php
+ERROR - 2020-03-08 19:49:36 --> 404 Page Not Found: Login/wp-login.php
+ERROR - 2020-03-08 19:49:36 --> 404 Page Not Found: admin/Wp-loginphp/index
+ERROR - 2020-03-08 19:49:37 --> 404 Page Not Found: Entrar/wp-login.php
+ERROR - 2020-03-08 19:49:38 --> 404 Page Not Found: Painel/wp-login.php
+ERROR - 2020-03-08 21:29:03 --> 404 Page Not Found: Wp-loginphp/index

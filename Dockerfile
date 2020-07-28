@@ -2,7 +2,6 @@ FROM ubuntu:16.04
 
 RUN apt-get update && apt-get upgrade -y && apt-get install -y telnet curl net-tools vim mysql-client apache2 apache2-bin libapache2-mod-php7.0 php7.0-curl php7.0-ldap php7.0-gd php7.0-mysql php7.0-mbstring php7.0-bcmath php7.0-json php7.0-snmp mcrypt php7.0-mcrypt php7.0-intl && apt-get clean && rm -rf /var/lib/apt/lists/*
 
-COPY arquivos-site /var/www/html
 COPY AlphaSSLroot.crt /etc/ssl/certs/AlphaSSLroot.crt
 COPY brascloud.pem /etc/ssl/certs/brascloud.pem
 COPY brascloud.key /etc/ssl/private/brascloud.key

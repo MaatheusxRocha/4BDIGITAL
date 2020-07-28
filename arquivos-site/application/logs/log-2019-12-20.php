@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-12-20 00:58:23 --> 404 Page Not Found: Js/comm.js
+ERROR - 2019-12-20 01:13:52 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-20 01:13:53 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-20 09:05:09 --> 404 Page Not Found: %e2%a0%80/index
+ERROR - 2019-12-20 09:05:09 --> 404 Page Not Found: %e2%a0%80/index
+ERROR - 2019-12-20 09:05:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-20 09:05:10 --> 404 Page Not Found: %e2%a0%80/index
+ERROR - 2019-12-20 09:05:10 --> 404 Page Not Found: %e2%a0%80/index
+ERROR - 2019-12-20 09:05:10 --> 404 Page Not Found: %e2%a0%80/index
+ERROR - 2019-12-20 09:05:10 --> 404 Page Not Found: %e2%a0%80/index
+ERROR - 2019-12-20 09:05:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-20 09:05:11 --> 404 Page Not Found: %e2%a0%80/index
+ERROR - 2019-12-20 09:05:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-20 09:05:34 --> 404 Page Not Found: %e2%a0%80/index
+ERROR - 2019-12-20 09:05:35 --> 404 Page Not Found: %e2%a0%80/index
+ERROR - 2019-12-20 09:05:35 --> 404 Page Not Found: %e2%a0%80/index
+ERROR - 2019-12-20 09:05:36 --> 404 Page Not Found: %e2%a0%80/index
+ERROR - 2019-12-20 09:05:36 --> 404 Page Not Found: %e2%a0%80/index
+ERROR - 2019-12-20 09:05:38 --> 404 Page Not Found: %e2%a0%80/index
+ERROR - 2019-12-20 09:05:38 --> 404 Page Not Found: %e2%a0%80/index
+ERROR - 2019-12-20 09:10:40 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-20 09:28:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-20 10:01:23 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2019-12-20 17:07:14 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-20 22:36:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-20 22:52:34 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-12-20 23:06:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-20 23:06:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-20 23:54:37 --> 404 Page Not Found: Category/blog

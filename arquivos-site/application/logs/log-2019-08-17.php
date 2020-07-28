@@ -1,0 +1,43 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-08-17 00:15:44 --> 404 Page Not Found: Login/index
+ERROR - 2019-08-17 00:39:49 --> 404 Page Not Found: Homepage/blog
+ERROR - 2019-08-17 02:05:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 02:34:23 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-08-17 02:45:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 03:13:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 03:15:29 --> E-mail de ligue-me enviado com sucesso
+ERROR - 2019-08-17 03:16:00 --> 404 Page Not Found: Login/auth
+ERROR - 2019-08-17 03:16:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 03:16:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 04:10:40 --> 404 Page Not Found: Homepage/cloud-publica-2
+ERROR - 2019-08-17 06:23:17 --> 404 Page Not Found: Login/auth
+ERROR - 2019-08-17 06:23:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 06:23:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 08:16:27 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-08-17 10:08:40 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-08-17 11:17:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 11:21:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 11:31:22 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-08-17 11:31:23 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-08-17 12:05:40 --> 404 Page Not Found: Login/auth
+ERROR - 2019-08-17 12:05:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 12:05:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 12:07:13 --> 404 Page Not Found: Login/auth
+ERROR - 2019-08-17 12:07:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 12:07:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 13:49:45 --> 404 Page Not Found: Login/auth
+ERROR - 2019-08-17 13:49:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 13:49:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 14:12:33 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-08-17 17:31:37 --> 404 Page Not Found: Login/auth
+ERROR - 2019-08-17 17:31:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 17:31:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 19:13:21 --> 404 Page Not Found: Login/auth
+ERROR - 2019-08-17 19:13:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 19:13:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 22:56:37 --> 404 Page Not Found: Login/auth
+ERROR - 2019-08-17 22:56:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 22:56:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-17 23:57:42 --> 404 Page Not Found: Author/rsantos
+ERROR - 2019-08-17 23:59:30 --> 404 Page Not Found: Homepage/seguranca

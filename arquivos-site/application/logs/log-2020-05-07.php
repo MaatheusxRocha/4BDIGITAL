@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-05-07 01:29:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-07 04:03:04 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2020-05-07 05:03:05 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2020-05-07 05:40:45 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-05-07 07:01:01 --> 404 Page Not Found: Homepage/contato
+ERROR - 2020-05-07 07:45:52 --> 404 Page Not Found: Https:/www.brascloud.com.br
+ERROR - 2020-05-07 09:44:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-07 10:03:04 --> 404 Page Not Found: Pma/index
+ERROR - 2020-05-07 10:24:24 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-05-07 10:24:25 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-05-07 13:13:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-07 13:27:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-07 14:17:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-07 14:17:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-07 14:17:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-07 14:17:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-07 16:04:15 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-05-07 16:47:24 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-05-07 16:47:37 --> 404 Page Not Found: Wp/index
+ERROR - 2020-05-07 16:48:02 --> 404 Page Not Found: New/index
+ERROR - 2020-05-07 16:48:23 --> 404 Page Not Found: Old/index
+ERROR - 2020-05-07 16:48:46 --> 404 Page Not Found: Test/index
+ERROR - 2020-05-07 16:48:52 --> 404 Page Not Found: Main/index
+ERROR - 2020-05-07 16:49:03 --> 404 Page Not Found: Site/index
+ERROR - 2020-05-07 18:35:16 --> 404 Page Not Found: Blog%E2%A0%80/index
+ERROR - 2020-05-07 18:35:17 --> 404 Page Not Found: Blog%E2%A0%80/index
+ERROR - 2020-05-07 18:54:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-07 19:04:42 --> 404 Page Not Found: 2016/08
+ERROR - 2020-05-07 19:39:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-07 20:33:47 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-05-07 20:33:49 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-05-07 21:51:09 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-05-07 22:09:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-07 23:43:55 --> 404 Page Not Found: Plus/search.php

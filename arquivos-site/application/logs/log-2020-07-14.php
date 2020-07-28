@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-14 03:54:52 --> 404 Page Not Found: Wordpress/wp-admin
+ERROR - 2020-07-14 05:05:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-14 05:21:05 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-14 09:13:15 --> 404 Page Not Found: 1111/feed
+ERROR - 2020-07-14 09:13:16 --> 404 Page Not Found: Rss/index
+ERROR - 2020-07-14 11:55:37 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-14 12:27:07 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-07-14 13:42:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-14 14:31:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-14 15:36:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-14 16:43:17 --> 404 Page Not Found: Feeds/index
+ERROR - 2020-07-14 16:43:17 --> 404 Page Not Found: Indexrdf/index
+ERROR - 2020-07-14 16:43:17 --> 404 Page Not Found: Indexxml/index
+ERROR - 2020-07-14 16:43:17 --> 404 Page Not Found: Feed/index
+ERROR - 2020-07-14 16:43:17 --> 404 Page Not Found: Rssxml/index
+ERROR - 2020-07-14 16:43:17 --> 404 Page Not Found: Feed/index
+ERROR - 2020-07-14 16:43:17 --> 404 Page Not Found: Indexatom/index
+ERROR - 2020-07-14 16:43:17 --> 404 Page Not Found: Atomxml/index
+ERROR - 2020-07-14 16:43:17 --> 404 Page Not Found: Indexrss/index
+ERROR - 2020-07-14 16:43:17 --> 404 Page Not Found: Feeds/index
+ERROR - 2020-07-14 16:52:15 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-14 16:52:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-14 17:54:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-14 18:18:34 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-07-14 18:31:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-14 18:33:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-14 18:36:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-14 19:56:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-14 22:05:20 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-14 23:59:00 --> 404 Page Not Found: Account/retailSignup

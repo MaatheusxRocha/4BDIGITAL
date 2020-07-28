@@ -1,0 +1,50 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-06-12 00:05:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 00:45:27 --> 404 Page Not Found: Homepage/pagina-inicial
+ERROR - 2019-06-12 00:46:06 --> 404 Page Not Found: Feed/index
+ERROR - 2019-06-12 01:06:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 01:28:54 --> 404 Page Not Found: Mais-um-pouco-de-definicao-de-cloud-computing/index
+ERROR - 2019-06-12 02:06:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 02:37:51 --> 404 Page Not Found: Homepage/cloud-publica-2
+ERROR - 2019-06-12 02:58:15 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-06-12 02:58:16 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-06-12 03:17:10 --> 404 Page Not Found: Category/blog
+ERROR - 2019-06-12 03:36:12 --> 404 Page Not Found: Login/auth
+ERROR - 2019-06-12 04:19:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 06:23:25 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-06-12 06:26:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 06:37:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 07:10:59 --> 404 Page Not Found: Login/auth
+ERROR - 2019-06-12 07:10:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 07:11:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 07:37:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 07:47:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 08:38:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 09:17:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 09:29:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 09:39:50 --> 404 Page Not Found: Wp-admin/index
+ERROR - 2019-06-12 10:05:05 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-06-12 11:11:11 --> 404 Page Not Found: Homepage/seguranca
+ERROR - 2019-06-12 11:43:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 11:55:14 --> 404 Page Not Found: Feed/index
+ERROR - 2019-06-12 12:23:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 13:49:22 --> E-mail de contato enviado com sucesso
+ERROR - 2019-06-12 14:13:47 --> 404 Page Not Found: Blg/cloud-computing-vantagens-e-desvantagens
+ERROR - 2019-06-12 14:13:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 14:33:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 14:48:47 --> 404 Page Not Found: Login/auth
+ERROR - 2019-06-12 14:48:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 14:48:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 15:43:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 17:07:22 --> E-mail de contato enviado com sucesso
+ERROR - 2019-06-12 18:14:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 18:34:32 --> 404 Page Not Found: Login/auth
+ERROR - 2019-06-12 18:34:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 18:34:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 20:42:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 20:50:01 --> 404 Page Not Found: Login/auth
+ERROR - 2019-06-12 20:50:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 20:50:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-12 22:03:20 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-06-12 23:34:54 --> 404 Page Not Found: Faviconico/index

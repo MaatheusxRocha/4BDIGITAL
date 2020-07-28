@@ -1,0 +1,46 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-12-05 00:14:38 --> 404 Page Not Found: Ui/img
+ERROR - 2018-12-05 00:45:18 --> 404 Page Not Found: Assets/components
+ERROR - 2018-12-05 01:16:57 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-12-05 01:25:48 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-12-05 04:14:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 04:28:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 05:13:24 --> 404 Page Not Found: Feed/index
+ERROR - 2018-12-05 06:37:34 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-05 06:37:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 06:37:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 06:37:44 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-05 06:37:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 06:37:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 07:47:50 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-05 07:47:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 07:47:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 09:54:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 10:20:50 --> E-mail de contato enviado com sucesso
+ERROR - 2018-12-05 10:44:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 12:06:51 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-05 12:06:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 12:06:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 13:39:52 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-05 13:39:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 13:39:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 13:56:36 --> 404 Page Not Found: Armazenamento-2/index
+ERROR - 2018-12-05 16:26:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 16:26:43 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-05 16:26:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 16:26:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 16:49:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 16:56:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 17:12:56 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-12-05 17:12:56 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-12-05 17:39:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 17:39:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 17:39:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 18:48:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-05 20:25:42 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-12-05 22:28:51 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-12-05 22:28:52 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-12-05 22:28:52 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-12-05 22:28:52 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-12-05 22:38:58 --> 404 Page Not Found: Armazenamento-2/index

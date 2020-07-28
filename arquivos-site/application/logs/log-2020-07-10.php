@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-10 03:45:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-10 04:36:16 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-07-10 05:48:13 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-10 09:18:38 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-10 09:54:59 --> 404 Page Not Found: Assets/numeral-js
+ERROR - 2020-07-10 09:54:59 --> 404 Page Not Found: Assets/numeral-js
+ERROR - 2020-07-10 09:54:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-10 11:02:54 --> 404 Page Not Found: Gtmstart/index
+ERROR - 2020-07-10 11:09:11 --> 404 Page Not Found: 20/index
+ERROR - 2020-07-10 11:20:30 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-10 11:27:03 --> 404 Page Not Found: Wp-admin/admin-ajax.php
+ERROR - 2020-07-10 12:14:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-10 14:20:29 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-07-10 15:48:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-10 16:38:28 --> 404 Page Not Found: Env/index
+ERROR - 2020-07-10 16:51:41 --> 404 Page Not Found: Old/wp-admin
+ERROR - 2020-07-10 18:04:45 --> 404 Page Not Found: Https:/www.brascloud.com.br
+ERROR - 2020-07-10 18:24:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-10 18:33:21 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-10 18:35:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-10 18:47:53 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-10 18:48:09 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-10 19:27:31 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-10 19:27:33 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-10 22:48:39 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-10 23:50:09 --> 404 Page Not Found: Nossos-precos/index
+ERROR - 2020-07-10 23:56:24 --> 404 Page Not Found: Wp-admin/index

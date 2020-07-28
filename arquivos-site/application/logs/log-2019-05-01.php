@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-05-01 00:25:22 --> 404 Page Not Found: CHANGELOGtxt/index
+ERROR - 2019-05-01 03:25:57 --> 404 Page Not Found: Category/blog
+ERROR - 2019-05-01 04:16:49 --> 404 Page Not Found: Mais-um-pouco-de-definicao-de-cloud-computing/index
+ERROR - 2019-05-01 07:03:39 --> 404 Page Not Found: Login/auth
+ERROR - 2019-05-01 07:03:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-01 07:03:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-01 07:39:27 --> 404 Page Not Found: Ui/img
+ERROR - 2019-05-01 12:55:27 --> 404 Page Not Found: Login/auth
+ERROR - 2019-05-01 12:55:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-01 12:55:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-01 13:43:55 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-05-01 14:36:21 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-05-01 15:22:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-01 16:00:37 --> 404 Page Not Found: Login/auth
+ERROR - 2019-05-01 16:00:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-01 16:00:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-01 17:30:35 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2019-05-01 18:18:43 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-05-01 19:05:37 --> 404 Page Not Found: Login/auth
+ERROR - 2019-05-01 19:05:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-01 19:05:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-01 20:59:32 --> 404 Page Not Found: Login/auth
+ERROR - 2019-05-01 20:59:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-01 20:59:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-01 21:50:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-01 21:53:48 --> 404 Page Not Found: Login/auth
+ERROR - 2019-05-01 21:53:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-01 21:53:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-01 22:09:48 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-05-01 22:09:48 --> 404 Page Not Found: Wp-loginphp/index

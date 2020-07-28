@@ -1,0 +1,40 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-03-23 01:14:52 --> 404 Page Not Found: Statics/css
+ERROR - 2020-03-23 01:47:10 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-03-23 03:25:36 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-23 03:25:37 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-23 04:26:15 --> 404 Page Not Found: Brascloud-automacao-disponibilidade-e-crescimento-dos-seus-negocios/index
+ERROR - 2020-03-23 04:39:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-23 05:05:12 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-23 05:10:44 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-23 05:17:56 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-23 05:30:24 --> 404 Page Not Found: Te3/signup.php
+ERROR - 2020-03-23 05:46:21 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2020-03-23 06:15:48 --> 404 Page Not Found: Bitrix/admin
+ERROR - 2020-03-23 09:16:27 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-03-23 09:16:27 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-03-23 09:16:28 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-03-23 09:16:29 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-03-23 09:31:51 --> 404 Page Not Found: Https:/www.brascloud.com.br
+ERROR - 2020-03-23 10:29:03 --> 404 Page Not Found: Login/index
+ERROR - 2020-03-23 11:21:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-23 14:00:44 --> E-mail de vaga de trabalho enviado com sucesso
+ERROR - 2020-03-23 14:02:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-23 14:50:09 --> 404 Page Not Found: AutoDiscover/autodiscover.xml
+ERROR - 2020-03-23 14:50:34 --> 404 Page Not Found: AutoDiscover/autodiscover.xml
+ERROR - 2020-03-23 15:25:28 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2020-03-23 15:25:34 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-03-23 15:33:31 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-23 19:01:37 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-03-23 20:02:04 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-03-23 20:57:27 --> 404 Page Not Found: Wwwbrascloudcombrrar/index
+ERROR - 2020-03-23 20:57:28 --> 404 Page Not Found: Brascloudcomrar/index
+ERROR - 2020-03-23 20:57:29 --> 404 Page Not Found: Brascloudcombrrar/index
+ERROR - 2020-03-23 20:57:29 --> 404 Page Not Found: Wwwbrascloudcombrzip/index
+ERROR - 2020-03-23 20:57:30 --> 404 Page Not Found: Brascloudcomzip/index
+ERROR - 2020-03-23 20:57:31 --> 404 Page Not Found: Brascloudcombrzip/index
+ERROR - 2020-03-23 20:57:32 --> 404 Page Not Found: Wwwbrascloudcombrtargz/index
+ERROR - 2020-03-23 20:57:32 --> 404 Page Not Found: Brascloudcomtargz/index
+ERROR - 2020-03-23 20:57:33 --> 404 Page Not Found: Brascloudcombrtargz/index
+ERROR - 2020-03-23 22:19:58 --> 404 Page Not Found: Vendor/phpunit

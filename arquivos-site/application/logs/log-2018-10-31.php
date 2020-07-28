@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-10-31 02:10:31 --> 404 Page Not Found: Homepage/servicos-profissionais
+ERROR - 2018-10-31 02:21:38 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2018-10-31 02:21:40 --> 404 Page Not Found: Homepage/webhosting
+ERROR - 2018-10-31 02:21:41 --> 404 Page Not Found: Homepage/disaster-recovery
+ERROR - 2018-10-31 02:21:43 --> 404 Page Not Found: Feed/index
+ERROR - 2018-10-31 02:21:51 --> 404 Page Not Found: Author/rsantos
+ERROR - 2018-10-31 02:21:53 --> 404 Page Not Found: Homepage/servicos-profissionais
+ERROR - 2018-10-31 02:21:53 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2018-10-31 04:47:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-10-31 06:40:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-10-31 07:35:49 --> 404 Page Not Found: Homepage/contato
+ERROR - 2018-10-31 08:22:37 --> 404 Page Not Found: Account/trialSignup
+ERROR - 2018-10-31 08:58:19 --> 404 Page Not Found: Homepage/index
+ERROR - 2018-10-31 09:47:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-10-31 10:32:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-10-31 11:04:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-10-31 11:14:27 --> 404 Page Not Found: Homepage/cloud-publica-2
+ERROR - 2018-10-31 11:30:19 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2018-10-31 12:53:25 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-10-31 13:28:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-10-31 14:36:51 --> 404 Page Not Found: Login/auth
+ERROR - 2018-10-31 16:28:10 --> 404 Page Not Found: Homepage/disaster-recovery
+ERROR - 2018-10-31 16:43:36 --> 404 Page Not Found: Homepage/monitoramento-avancado
+ERROR - 2018-10-31 17:41:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-10-31 17:55:19 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2018-10-31 17:55:19 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2018-10-31 18:13:13 --> 404 Page Not Found: Category/blog
+ERROR - 2018-10-31 21:52:53 --> 404 Page Not Found: Armazenamento-2/index

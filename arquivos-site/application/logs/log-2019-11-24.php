@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-11-24 01:26:19 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2019-11-24 02:09:16 --> 404 Page Not Found: Login/index
+ERROR - 2019-11-24 03:01:46 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-11-24 04:32:30 --> 404 Page Not Found: Homepage/disaster-recovery
+ERROR - 2019-11-24 04:40:33 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-24 04:40:33 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-24 04:46:26 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-24 04:46:27 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-24 04:49:06 --> 404 Page Not Found: Mais-um-pouco-de-definicao-de-cloud-computing/index
+ERROR - 2019-11-24 06:38:24 --> 404 Page Not Found: Category/blog
+ERROR - 2019-11-24 06:45:37 --> 404 Page Not Found: Mais-um-pouco-de-definicao-de-cloud-computing/index
+ERROR - 2019-11-24 07:13:48 --> 404 Page Not Found: Homepage/servicos-profissionais
+ERROR - 2019-11-24 11:25:15 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-11-24 12:06:05 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-24 12:06:06 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-24 12:24:37 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-11-24 15:20:17 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-24 15:20:17 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-24 15:23:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-24 16:22:50 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-24 16:47:19 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-24 19:34:16 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2019-11-24 20:57:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-11-24 21:09:42 --> 404 Page Not Found: Homepage/networking
+ERROR - 2019-11-24 22:59:47 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-24 22:59:49 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-24 23:55:35 --> 404 Page Not Found: Login/auth

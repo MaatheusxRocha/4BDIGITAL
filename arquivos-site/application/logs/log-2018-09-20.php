@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-09-20 01:51:17 --> 404 Page Not Found: PhpMyAdmin/index
+ERROR - 2018-09-20 02:37:51 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-09-20 03:30:06 --> 404 Page Not Found: Ui/img
+ERROR - 2018-09-20 04:08:26 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-09-20 07:35:08 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-09-20 07:35:09 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-09-20 07:37:27 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-20 07:37:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-20 07:37:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-20 08:19:03 --> 404 Page Not Found: Comments/feed
+ERROR - 2018-09-20 10:55:31 --> 404 Page Not Found: PhpMyAdmin/index
+ERROR - 2018-09-20 11:00:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-20 11:52:59 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-09-20 11:53:00 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-09-20 13:15:58 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-09-20 14:56:37 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-20 14:56:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-20 14:56:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-20 18:48:27 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2018-09-20 19:13:15 --> 404 Page Not Found: Beneficios-do-gerenciamento-avancado-em-ambiente-de-cloud-publica/index
+ERROR - 2018-09-20 19:25:10 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-20 19:25:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-20 19:25:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-20 21:05:49 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-20 21:06:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-20 21:06:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-20 22:05:25 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-09-20 22:05:25 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-09-20 23:28:08 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-20 23:28:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-20 23:28:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-20 23:33:45 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-09-20 23:33:46 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-09-20 23:46:47 --> 404 Page Not Found: Wp-content/themes

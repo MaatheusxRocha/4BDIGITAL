@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-11-08 01:04:31 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-08 01:04:32 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-08 01:59:01 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2019-11-08 03:38:19 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-08 04:22:17 --> 404 Page Not Found: Login/auth
+ERROR - 2019-11-08 05:20:56 --> 404 Page Not Found: Homepage/contato
+ERROR - 2019-11-08 07:24:51 --> 404 Page Not Found: Login/index
+ERROR - 2019-11-08 10:23:05 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2019-11-08 11:05:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-08 11:06:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-08 13:02:18 --> 404 Page Not Found: Homepage/cloud-privada-2
+ERROR - 2019-11-08 13:19:05 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-08 13:19:12 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-08 13:52:21 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-08 13:52:23 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-08 15:33:03 --> 404 Page Not Found: Homepage/disaster-recovery
+ERROR - 2019-11-08 15:33:04 --> 404 Page Not Found: Mais-um-pouco-de-definicao-de-cloud-computing/index
+ERROR - 2019-11-08 15:54:59 --> 404 Page Not Found: Google9d6f293c8b12defehtml/index
+ERROR - 2019-11-08 15:55:00 --> 404 Page Not Found: Googled1e1a94e3465bdc6html/index
+ERROR - 2019-11-08 16:39:58 --> 404 Page Not Found: Category/blog
+ERROR - 2019-11-08 16:46:51 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-11-08 18:32:31 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-11-08 20:13:26 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-08 20:13:27 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-08 20:45:21 --> 404 Page Not Found: Homepage/contato
+ERROR - 2019-11-08 21:29:22 --> 404 Page Not Found: Login/auth
+ERROR - 2019-11-08 22:28:11 --> 404 Page Not Found: Homepage/webhosting

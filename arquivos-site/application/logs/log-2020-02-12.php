@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-02-12 00:59:59 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-02-12 00:59:59 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-02-12 00:59:59 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-02-12 02:57:32 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-12 02:57:37 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-12 02:57:40 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-12 02:57:45 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-12 04:45:02 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-02-12 06:25:45 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-02-12 06:25:45 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-02-12 06:25:45 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-02-12 06:58:33 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-02-12 07:11:57 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-02-12 08:23:01 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-12 08:23:02 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-12 09:23:16 --> 404 Page Not Found: Wp-admin/admin-ajax.php
+ERROR - 2020-02-12 10:17:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-02-12 10:53:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-02-12 12:46:24 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2020-02-12 13:41:32 --> 404 Page Not Found: Homepage/sobre-nos
+ERROR - 2020-02-12 14:06:49 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-12 14:06:52 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-12 15:28:19 --> 404 Page Not Found: Wp-admin/admin-ajax.php
+ERROR - 2020-02-12 15:28:21 --> 404 Page Not Found: Wp-admin/admin-ajax.php
+ERROR - 2020-02-12 16:18:51 --> 404 Page Not Found: %E2%A0%80%E2%A0%80/index
+ERROR - 2020-02-12 16:18:51 --> 404 Page Not Found: %E2%A0%80%E2%A0%80/index
+ERROR - 2020-02-12 16:18:52 --> 404 Page Not Found: %E2%A0%80%E2%A0%80/index
+ERROR - 2020-02-12 16:53:32 --> 404 Page Not Found: %E2%A0%80%E2%A0%80/index
+ERROR - 2020-02-12 18:23:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-02-12 19:29:18 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-02-12 19:39:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-02-12 22:15:34 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-02-12 23:58:14 --> 404 Page Not Found: Account/retailSignup

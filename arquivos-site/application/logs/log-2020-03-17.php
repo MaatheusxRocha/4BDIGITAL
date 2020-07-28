@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-03-17 00:11:51 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-17 04:48:07 --> 404 Page Not Found: Homepage/sobre-nos
+ERROR - 2020-03-17 04:54:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-17 06:10:37 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-17 06:29:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-17 06:29:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-17 06:29:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-17 06:29:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-17 07:33:59 --> 404 Page Not Found: Homepage/webhosting
+ERROR - 2020-03-17 08:05:14 --> 404 Page Not Found: Homepage/nossos-precos
+ERROR - 2020-03-17 08:05:25 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-17 08:05:28 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-17 09:05:57 --> 404 Page Not Found: 1111/feed
+ERROR - 2020-03-17 09:05:57 --> 404 Page Not Found: Rss/index
+ERROR - 2020-03-17 09:24:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-17 10:15:34 --> 404 Page Not Found: Dojo-1104/dijit
+ERROR - 2020-03-17 10:18:53 --> 404 Page Not Found: Databaserar/index
+ERROR - 2020-03-17 10:51:30 --> 404 Page Not Found: Feed/index
+ERROR - 2020-03-17 10:57:03 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-17 13:03:18 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-17 13:03:52 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-17 14:14:56 --> 404 Page Not Found: Backupzip/index
+ERROR - 2020-03-17 14:29:44 --> 404 Page Not Found: Statics/js
+ERROR - 2020-03-17 15:15:34 --> 404 Page Not Found: Sql7z/index
+ERROR - 2020-03-17 15:37:06 --> 404 Page Not Found: Dbrar/index
+ERROR - 2020-03-17 15:50:09 --> 404 Page Not Found: Dbzip/index
+ERROR - 2020-03-17 16:58:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-17 16:59:03 --> 404 Page Not Found: Wwwbrascloudcombrrar/index
+ERROR - 2020-03-17 17:14:29 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-03-17 19:03:28 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-17 19:38:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-17 21:45:09 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-17 21:45:11 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-17 22:53:33 --> 404 Page Not Found: Dojo/dojo-1.10.4

@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-12-26 05:30:15 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-12-26 05:59:43 --> 404 Page Not Found: Login/index
+ERROR - 2018-12-26 05:59:43 --> 404 Page Not Found: Forums/forum
+ERROR - 2018-12-26 05:59:53 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2018-12-26 06:00:04 --> 404 Page Not Found: Homepage/index
+ERROR - 2018-12-26 06:00:04 --> 404 Page Not Found: Category/blog
+ERROR - 2018-12-26 06:08:12 --> 404 Page Not Found: Paint-pots-da-mac-por-que-usar/index
+ERROR - 2018-12-26 07:15:51 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-26 07:15:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-26 07:15:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-26 09:57:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-26 10:46:39 --> 404 Page Not Found: Author/rsantos
+ERROR - 2018-12-26 10:59:07 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-26 10:59:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-26 10:59:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-26 12:27:07 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-26 12:27:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-26 12:27:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-26 13:59:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-26 14:26:12 --> 404 Page Not Found: Homepage/pagina-inicial
+ERROR - 2018-12-26 15:22:10 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-26 15:22:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-26 15:22:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-26 15:22:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-26 15:31:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-26 15:39:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-26 16:14:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-26 19:11:51 --> 404 Page Not Found: Homepage/sobre-nos
+ERROR - 2018-12-26 21:22:56 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-12-26 21:32:56 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-26 21:32:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-26 21:32:58 --> 404 Page Not Found: Faviconico/index

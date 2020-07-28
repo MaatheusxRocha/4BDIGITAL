@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-09-11 02:00:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-11 04:41:20 --> 404 Page Not Found: Homepage/produtividade-e-colaboracao
+ERROR - 2018-09-11 04:54:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-11 05:59:41 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2018-09-11 06:32:51 --> 404 Page Not Found: Homepage/servicos-profissionais
+ERROR - 2018-09-11 07:40:53 --> 404 Page Not Found: Homepage/blog
+ERROR - 2018-09-11 08:18:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-11 10:26:49 --> 404 Page Not Found: Homepage/seguranca
+ERROR - 2018-09-11 12:18:27 --> 404 Page Not Found: Cloud-stack/index
+ERROR - 2018-09-11 12:40:04 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-09-11 12:40:04 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-09-11 12:40:06 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-09-11 12:57:40 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2018-09-11 13:08:26 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-11 13:31:20 --> 404 Page Not Found: Homepage/blog
+ERROR - 2018-09-11 13:54:10 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-09-11 16:05:13 --> 404 Page Not Found: Homepage/contato
+ERROR - 2018-09-11 16:08:47 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-09-11 16:14:44 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2018-09-11 16:46:12 --> 404 Page Not Found: Homepage/servicos-profissionais
+ERROR - 2018-09-11 17:50:47 --> 404 Page Not Found: Homepage/cloud-publica-2
+ERROR - 2018-09-11 17:52:31 --> 404 Page Not Found: Login/index
+ERROR - 2018-09-11 19:25:31 --> 404 Page Not Found: Homepage/index
+ERROR - 2018-09-11 20:28:58 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2018-09-11 20:47:43 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2018-09-11 22:24:48 --> 404 Page Not Found: Homepage/feed
+ERROR - 2018-09-11 22:56:07 --> 404 Page Not Found: Homepage/disaster-recovery
+ERROR - 2018-09-11 23:22:37 --> 404 Page Not Found: I9vTgVbScn/index

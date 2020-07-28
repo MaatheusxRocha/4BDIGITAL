@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-06-14 03:25:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-14 03:25:41 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-06-14 04:31:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-14 04:33:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-14 04:35:30 --> 404 Page Not Found: Gtmstart/index
+ERROR - 2020-06-14 04:44:20 --> 404 Page Not Found: 20/index
+ERROR - 2020-06-14 05:03:09 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-06-14 05:41:20 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-06-14 11:34:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-14 12:05:51 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-06-14 12:05:52 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-06-14 12:16:50 --> 404 Page Not Found: Brascloudcombrsqlzip/index
+ERROR - 2020-06-14 14:49:51 --> 404 Page Not Found: Mysql-backup/index
+ERROR - 2020-06-14 14:51:18 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-06-14 14:51:19 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-06-14 15:44:33 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-06-14 15:44:34 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-06-14 16:20:59 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2020-06-14 16:21:00 --> 404 Page Not Found: Atomxml/index
+ERROR - 2020-06-14 16:21:10 --> 404 Page Not Found: Sitemapxmlgz/index
+ERROR - 2020-06-14 17:35:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-14 17:44:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-14 18:24:21 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-06-14 19:27:58 --> 404 Page Not Found: Assets/global
+ERROR - 2020-06-14 20:16:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-14 21:49:51 --> 404 Page Not Found: E/data
+ERROR - 2020-06-14 22:00:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-14 22:06:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-14 22:31:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-14 22:37:51 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-06-14 22:49:29 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2020-06-14 23:42:02 --> 404 Page Not Found: Faviconico/index

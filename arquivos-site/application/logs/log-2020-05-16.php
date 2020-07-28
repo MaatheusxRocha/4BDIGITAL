@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-05-16 00:28:17 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-05-16 01:46:55 --> 404 Page Not Found: Feed/index
+ERROR - 2020-05-16 01:46:56 --> 404 Page Not Found: Rssxml/index
+ERROR - 2020-05-16 01:46:59 --> 404 Page Not Found: Feed/index
+ERROR - 2020-05-16 01:46:59 --> 404 Page Not Found: Indexrss/index
+ERROR - 2020-05-16 01:47:00 --> 404 Page Not Found: Feeds/index
+ERROR - 2020-05-16 01:47:01 --> 404 Page Not Found: Atomxml/index
+ERROR - 2020-05-16 01:47:02 --> 404 Page Not Found: Indexatom/index
+ERROR - 2020-05-16 01:47:03 --> 404 Page Not Found: Indexrdf/index
+ERROR - 2020-05-16 01:47:04 --> 404 Page Not Found: Indexxml/index
+ERROR - 2020-05-16 01:47:05 --> 404 Page Not Found: Feeds/index
+ERROR - 2020-05-16 02:42:57 --> 404 Page Not Found: Cgi-bin/test-cgi
+ERROR - 2020-05-16 02:43:03 --> 404 Page Not Found: Horde/imp
+ERROR - 2020-05-16 02:43:09 --> 404 Page Not Found: Login/index
+ERROR - 2020-05-16 02:43:14 --> 404 Page Not Found: PhpMyAdmin/scripts
+ERROR - 2020-05-16 02:43:19 --> 404 Page Not Found: Phpmyadmin/scripts
+ERROR - 2020-05-16 05:44:18 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-05-16 06:30:26 --> 404 Page Not Found: Login/auth
+ERROR - 2020-05-16 07:08:49 --> 404 Page Not Found: Tag/cloud-gerenciamento-avancado
+ERROR - 2020-05-16 08:42:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-16 09:43:56 --> 404 Page Not Found: Cloud-stack/feed
+ERROR - 2020-05-16 10:23:10 --> 404 Page Not Found: Login/index
+ERROR - 2020-05-16 11:13:29 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2020-05-16 14:11:31 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-05-16 14:11:32 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-05-16 15:54:44 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-05-16 16:45:47 --> 404 Page Not Found: Staging/index
+ERROR - 2020-05-16 17:01:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-16 17:53:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-16 20:25:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-16 21:23:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-16 21:28:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-16 21:55:52 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-05-16 23:52:05 --> 404 Page Not Found: Wp-loginphp/index

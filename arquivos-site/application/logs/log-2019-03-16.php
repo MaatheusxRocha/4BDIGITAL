@@ -1,0 +1,54 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-03-16 04:24:37 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2019-03-16 05:00:35 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2019-03-16 05:21:17 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-03-16 05:21:22 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-03-16 05:21:29 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-03-16 05:21:32 --> 404 Page Not Found: Contato21211211212121/index
+ERROR - 2019-03-16 05:21:33 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-03-16 05:21:34 --> 404 Page Not Found: Contato%20and%201%3D1/index
+ERROR - 2019-03-16 05:21:35 --> 404 Page Not Found: Contato%20and%201%3E1/index
+ERROR - 2019-03-16 05:21:37 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-03-16 05:21:38 --> 404 Page Not Found: Contato%27%20and%20%27x%27%3D%27x/index
+ERROR - 2019-03-16 05:21:40 --> 404 Page Not Found: Contato%27%20and%20%27x%27%3D%27y/index
+ERROR - 2019-03-16 05:21:43 --> 404 Page Not Found: Contato%22%20and%20%22x%22%3D%22y/index
+ERROR - 2019-03-16 05:21:54 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-03-16 05:21:59 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-03-16 05:22:03 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-03-16 05:22:07 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-03-16 05:22:12 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-03-16 05:22:15 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-03-16 06:00:54 --> 404 Page Not Found: Category/blog
+ERROR - 2019-03-16 06:31:51 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-16 06:31:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 06:31:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 06:39:16 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-03-16 08:06:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 08:30:33 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-16 08:30:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 08:30:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 09:11:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 10:02:23 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-16 10:11:03 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-03-16 10:41:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 11:42:59 --> E-mail de contato enviado com sucesso
+ERROR - 2019-03-16 13:08:22 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-16 13:08:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 13:08:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 13:27:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 14:30:04 --> E-mail de ligue-me enviado com sucesso
+ERROR - 2019-03-16 14:51:00 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-16 14:51:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 14:51:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 15:13:12 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-03-16 16:38:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 18:53:57 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-16 18:53:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 18:53:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 18:58:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 19:14:42 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-03-16 20:04:21 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-16 20:04:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 20:04:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-16 23:24:13 --> 404 Page Not Found: Faviconico/index

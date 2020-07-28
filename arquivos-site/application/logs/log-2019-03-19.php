@@ -1,0 +1,45 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-03-19 04:10:25 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-03-19 04:10:25 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-03-19 04:48:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 06:17:56 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-03-19 06:17:57 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-03-19 06:18:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 06:30:27 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-19 06:30:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 06:30:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 06:40:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 07:17:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 07:37:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 07:44:45 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-19 07:44:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 07:44:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 07:47:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 08:08:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 08:27:32 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-19 08:47:42 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-03-19 08:58:01 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-19 09:42:28 --> E-mail de ligue-me enviado com sucesso
+ERROR - 2019-03-19 11:17:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 12:03:52 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-03-19 12:42:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 15:42:09 --> 404 Page Not Found: Author/rsantos
+ERROR - 2019-03-19 16:23:47 --> 404 Page Not Found: Ui/img
+ERROR - 2019-03-19 17:25:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 17:56:05 --> 404 Page Not Found: Cloud-stack/index
+ERROR - 2019-03-19 18:36:50 --> 404 Page Not Found: Feed/index
+ERROR - 2019-03-19 18:37:02 --> 404 Page Not Found: Homepage/pagina-inicial
+ERROR - 2019-03-19 18:38:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 18:45:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 20:58:18 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-19 20:58:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 20:58:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-19 21:46:08 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-03-19 22:23:41 --> 404 Page Not Found: A-primeira-cloud-publica-100-brasileira-com-faturamento-por-hora/feed
+ERROR - 2019-03-19 22:31:51 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2019-03-19 23:02:45 --> 404 Page Not Found: Homepage/contato
+ERROR - 2019-03-19 23:39:15 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2019-03-19 23:41:41 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2019-03-19 23:41:46 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-19 23:53:45 --> 404 Page Not Found: Tag/cloud-publica-brasil

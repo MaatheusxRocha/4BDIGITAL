@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-12-07 03:44:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-07 03:48:16 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-12-07 03:56:45 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2019-12-07 04:32:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-07 06:01:45 --> 404 Page Not Found: Homepage/disaster-recovery
+ERROR - 2019-12-07 09:36:07 --> 404 Page Not Found: Homepage/seguranca
+ERROR - 2019-12-07 09:46:14 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-12-07 10:34:59 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-07 12:42:23 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-07 12:55:05 --> 404 Page Not Found: Cloud-stack/index
+ERROR - 2019-12-07 13:47:21 --> 404 Page Not Found: Homepage/seguranca
+ERROR - 2019-12-07 14:11:43 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-07 14:11:45 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-07 14:56:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-07 16:13:51 --> 404 Page Not Found: Homepage/armazenamento
+ERROR - 2019-12-07 17:04:56 --> 404 Page Not Found: Homepage/cloud-privada-2
+ERROR - 2019-12-07 18:13:42 --> 404 Page Not Found: Data/common.inc.php
+ERROR - 2019-12-07 18:59:50 --> 404 Page Not Found: Homepage/servicos-profissionais
+ERROR - 2019-12-07 19:40:20 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-07 19:59:36 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2019-12-07 20:12:38 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2019-12-07 21:01:00 --> 404 Page Not Found: Homepage/contato
+ERROR - 2019-12-07 21:10:30 --> 404 Page Not Found: Asset-manifestjson/index
+ERROR - 2019-12-07 21:59:46 --> 404 Page Not Found: Login/auth
+ERROR - 2019-12-07 22:03:05 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2019-12-07 23:17:56 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-12-07 23:58:25 --> 404 Page Not Found: Author/rsantos

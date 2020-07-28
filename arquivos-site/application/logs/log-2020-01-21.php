@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-01-21 04:49:07 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2020-01-21 05:34:26 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-21 05:54:46 --> 404 Page Not Found: Account/trialSignup
+ERROR - 2020-01-21 06:56:32 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-01-21 09:18:01 --> 404 Page Not Found: 1111/feed
+ERROR - 2020-01-21 09:18:02 --> 404 Page Not Found: Rss/index
+ERROR - 2020-01-21 09:46:40 --> 404 Page Not Found: Assets/numeral-js
+ERROR - 2020-01-21 09:46:40 --> 404 Page Not Found: Assets/numeral-js
+ERROR - 2020-01-21 09:46:40 --> 404 Page Not Found: Assets/numeral-js
+ERROR - 2020-01-21 09:46:40 --> 404 Page Not Found: Assets/numeral-js
+ERROR - 2020-01-21 09:46:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-21 10:40:41 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-21 11:11:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-21 12:24:49 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2020-01-21 13:25:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-21 13:59:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-21 14:14:46 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-01-21 16:48:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-21 17:14:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-21 17:14:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-21 19:33:54 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-21 19:40:14 --> 404 Page Not Found: Homepage/pagina-inicial
+ERROR - 2020-01-21 19:40:18 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-01-21 19:40:20 --> 404 Page Not Found: Feed/index
+ERROR - 2020-01-21 20:35:19 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-01-21 23:30:38 --> 404 Page Not Found: 886f5394-21e1-4099-9ab2-e4dfb1c99d37/index
+ERROR - 2020-01-21 23:34:43 --> 404 Page Not Found: Account/retailSignup

@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-10-19 00:08:24 --> 404 Page Not Found: Homepage/servicos-profissionais
+ERROR - 2019-10-19 01:52:44 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2019-10-19 01:55:01 --> 404 Page Not Found: Login/auth
+ERROR - 2019-10-19 02:14:30 --> 404 Page Not Found: Login/auth
+ERROR - 2019-10-19 02:47:02 --> 404 Page Not Found: Homepage/contato
+ERROR - 2019-10-19 04:53:33 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-10-19 05:34:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-10-19 05:42:33 --> 404 Page Not Found: Homepage/index
+ERROR - 2019-10-19 06:29:07 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-10-19 06:29:08 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-10-19 07:44:45 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2019-10-19 09:52:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-19 11:20:46 --> 404 Page Not Found: Homepage/disaster-recovery
+ERROR - 2019-10-19 14:53:42 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-10-19 15:00:14 --> 404 Page Not Found: Category/blog
+ERROR - 2019-10-19 15:44:12 --> 404 Page Not Found: Homepage/servicos-profissionais
+ERROR - 2019-10-19 15:44:35 --> 404 Page Not Found: Mais-um-pouco-de-definicao-de-cloud-computing/index
+ERROR - 2019-10-19 16:03:38 --> 404 Page Not Found: Site/wp-login.php
+ERROR - 2019-10-19 17:08:37 --> 404 Page Not Found: Web/wp-login.php
+ERROR - 2019-10-19 18:14:38 --> 404 Page Not Found: Test/wp-login.php
+ERROR - 2019-10-19 19:22:34 --> 404 Page Not Found: News/wp-login.php
+ERROR - 2019-10-19 19:35:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-19 19:43:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-10-19 19:43:17 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-10-19 20:32:12 --> 404 Page Not Found: Cms/wp-login.php
+ERROR - 2019-10-19 20:45:34 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-10-19 20:45:35 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-10-19 21:17:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-19 21:44:45 --> 404 Page Not Found: Website/wp-login.php
+ERROR - 2019-10-19 22:25:40 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-10-19 22:58:15 --> 404 Page Not Found: Shop/wp-login.php

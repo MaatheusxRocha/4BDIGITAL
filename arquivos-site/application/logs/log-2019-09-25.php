@@ -1,0 +1,42 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-09-25 01:01:48 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-09-25 01:26:41 --> 404 Page Not Found: Armazenamento-2/feed
+ERROR - 2019-09-25 01:56:41 --> 404 Page Not Found: Homepage/cloud-privada-2
+ERROR - 2019-09-25 02:51:50 --> 404 Page Not Found: Login/auth
+ERROR - 2019-09-25 04:20:13 --> 404 Page Not Found: Homepage/servicos-profissionais
+ERROR - 2019-09-25 04:28:01 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2019-09-25 04:32:18 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2019-09-25 07:18:58 --> 404 Page Not Found: Login/auth
+ERROR - 2019-09-25 07:18:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-09-25 07:18:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-09-25 08:12:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-09-25 08:48:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-09-25 09:14:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-09-25 09:16:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-09-25 09:34:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-09-25 11:04:15 --> 404 Page Not Found: Login/index
+ERROR - 2019-09-25 12:07:34 --> 404 Page Not Found: Login/auth
+ERROR - 2019-09-25 12:07:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-09-25 12:07:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-09-25 13:19:57 --> E-mail de contato enviado com sucesso
+ERROR - 2019-09-25 15:02:05 --> 404 Page Not Found: Homepage/cloud-publica-2
+ERROR - 2019-09-25 16:10:01 --> 404 Page Not Found: Mais-um-pouco-de-definicao-de-cloud-computing/index
+ERROR - 2019-09-25 18:15:05 --> 404 Page Not Found: Login/auth
+ERROR - 2019-09-25 18:15:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-09-25 18:15:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-09-25 18:27:49 --> 404 Page Not Found: Login/auth
+ERROR - 2019-09-25 19:36:02 --> 404 Page Not Found: Installbak/index.php
+ERROR - 2019-09-25 19:36:03 --> 404 Page Not Found: Install/index.php
+ERROR - 2019-09-25 19:36:03 --> 404 Page Not Found: Bbs/installbak
+ERROR - 2019-09-25 19:36:03 --> 404 Page Not Found: Bbs/install
+ERROR - 2019-09-25 19:36:04 --> 404 Page Not Found: Xiunobbs/install
+ERROR - 2019-09-25 19:36:04 --> 404 Page Not Found: Xiuno/install
+ERROR - 2019-09-25 19:36:04 --> 404 Page Not Found: Xiuluo/installbak
+ERROR - 2019-09-25 19:36:05 --> 404 Page Not Found: Xiuluobbs/installbak
+ERROR - 2019-09-25 21:02:14 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-09-25 21:09:00 --> 404 Page Not Found: Bjzxvgrswqcyfthtml/index
+ERROR - 2019-09-25 21:45:36 --> 404 Page Not Found: Login/auth
+ERROR - 2019-09-25 21:45:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-09-25 21:45:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-09-25 22:59:19 --> 404 Page Not Found: Adstxt/index

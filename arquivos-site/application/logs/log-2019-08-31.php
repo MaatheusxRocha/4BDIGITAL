@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-08-31 01:01:22 --> 404 Page Not Found: Dojo-1104/dojox
+ERROR - 2019-08-31 02:43:25 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2019-08-31 06:53:10 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-08-31 07:47:36 --> 404 Page Not Found: Login/auth
+ERROR - 2019-08-31 07:47:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 07:47:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 09:46:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 10:21:42 --> 404 Page Not Found: Login/auth
+ERROR - 2019-08-31 10:21:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 10:21:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 13:35:32 --> 404 Page Not Found: Login/auth
+ERROR - 2019-08-31 13:35:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 13:35:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 15:16:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-08-31 15:16:18 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-08-31 15:52:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 16:32:32 --> 404 Page Not Found: Login/auth
+ERROR - 2019-08-31 16:32:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 16:32:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 18:32:11 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-08-31 18:32:12 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-08-31 19:15:40 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-08-31 20:35:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 20:45:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 20:46:58 --> 404 Page Not Found: Login/auth
+ERROR - 2019-08-31 20:48:30 --> 404 Page Not Found: Login/auth
+ERROR - 2019-08-31 20:48:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 20:48:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 20:56:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 21:06:09 --> 404 Page Not Found: Login/auth
+ERROR - 2019-08-31 21:06:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 21:13:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 21:17:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-31 22:40:35 --> 404 Page Not Found: Dojo/dojo-1.10.4

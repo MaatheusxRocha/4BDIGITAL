@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-09-08 00:40:31 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-09-08 01:05:37 --> 404 Page Not Found: Homepage/blog
+ERROR - 2018-09-08 02:52:35 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2018-09-08 02:55:16 --> 404 Page Not Found: Homepage/sobre-nos
+ERROR - 2018-09-08 07:40:47 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-08 07:40:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-08 07:40:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-08 11:34:10 --> 404 Page Not Found: Licensephp/index
+ERROR - 2018-09-08 11:34:12 --> 404 Page Not Found: Licensephp/index
+ERROR - 2018-09-08 11:34:14 --> 404 Page Not Found: Licensephp/index
+ERROR - 2018-09-08 13:06:04 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-08 13:06:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-08 13:06:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-08 15:04:15 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-09-08 15:13:22 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-08 15:13:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-08 15:13:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-08 15:38:43 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2018-09-08 16:08:20 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-09-08 19:36:37 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-08 19:36:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-08 19:36:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-08 20:09:39 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-09-08 21:06:10 --> 404 Page Not Found: Author/rsantos
+ERROR - 2018-09-08 21:07:35 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-09-08 21:26:43 --> 404 Page Not Found: Wp-admin/admin-ajax.php
+ERROR - 2018-09-08 21:42:49 --> 404 Page Not Found: Homepage/seguranca
+ERROR - 2018-09-08 21:54:52 --> 404 Page Not Found: Login/auth
+ERROR - 2018-09-08 21:54:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-09-08 21:54:53 --> 404 Page Not Found: Faviconico/index

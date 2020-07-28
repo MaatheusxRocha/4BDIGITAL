@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-02-24 00:39:40 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2020-02-24 00:39:40 --> 404 Page Not Found: Administrator/help
+ERROR - 2020-02-24 00:39:40 --> 404 Page Not Found: Administrator/language
+ERROR - 2020-02-24 00:39:41 --> 404 Page Not Found: Plugins/system
+ERROR - 2020-02-24 00:39:41 --> 404 Page Not Found: Administrator/index
+ERROR - 2020-02-24 00:39:42 --> 404 Page Not Found: Misc/ajax.js
+ERROR - 2020-02-24 00:39:43 --> 404 Page Not Found: admin/View/javascript
+ERROR - 2020-02-24 00:39:43 --> 404 Page Not Found: admin/Includes/general.js
+ERROR - 2020-02-24 00:39:44 --> 404 Page Not Found: Js/header-rollup-554.js
+ERROR - 2020-02-24 00:39:45 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-02-24 00:39:45 --> 404 Page Not Found: Fckeditor/editor
+ERROR - 2020-02-24 00:39:46 --> 404 Page Not Found: Env/index
+ERROR - 2020-02-24 03:19:33 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-02-24 06:51:09 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-02-24 07:03:08 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-02-24 08:50:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-02-24 09:11:54 --> 404 Page Not Found: 1111/feed
+ERROR - 2020-02-24 09:11:55 --> 404 Page Not Found: Rss/index
+ERROR - 2020-02-24 10:28:29 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-24 13:58:19 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-24 13:58:21 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-24 16:50:04 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-24 16:50:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-02-24 17:43:02 --> 404 Page Not Found: Public/router.php
+ERROR - 2020-02-24 17:43:03 --> 404 Page Not Found: Public/router.php
+ERROR - 2020-02-24 18:43:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-02-24 18:44:53 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-24 18:44:53 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-24 19:12:30 --> 404 Page Not Found: Homepage/vmware
+ERROR - 2020-02-24 19:28:54 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-02-24 19:45:38 --> 404 Page Not Found: Licensetxt/index
+ERROR - 2020-02-24 21:59:06 --> 404 Page Not Found: Env/index

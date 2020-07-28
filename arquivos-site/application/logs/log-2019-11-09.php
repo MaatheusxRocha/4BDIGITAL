@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-11-09 00:00:34 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-11-09 00:57:51 --> 404 Page Not Found: Homepage/contato
+ERROR - 2019-11-09 04:02:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-09 04:13:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-09 05:37:12 --> 404 Page Not Found: Ui/css
+ERROR - 2019-11-09 05:38:55 --> 404 Page Not Found: Ui/css
+ERROR - 2019-11-09 05:40:27 --> 404 Page Not Found: Ui/css
+ERROR - 2019-11-09 05:42:07 --> 404 Page Not Found: Ui/css
+ERROR - 2019-11-09 05:43:57 --> 404 Page Not Found: Ui/css
+ERROR - 2019-11-09 05:46:34 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-09 05:46:36 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-09 08:35:45 --> 404 Page Not Found: Feed/index
+ERROR - 2019-11-09 09:21:39 --> 404 Page Not Found: Asset-manifestjson/index
+ERROR - 2019-11-09 09:32:55 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-09 09:32:57 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-09 11:54:15 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-11-09 13:03:36 --> 404 Page Not Found: Author/rsantos
+ERROR - 2019-11-09 13:06:34 --> 404 Page Not Found: Beneficios-do-gerenciamento-avancado-em-ambiente-de-cloud-publica/feed
+ERROR - 2019-11-09 13:55:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-09 14:11:11 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-11-09 14:13:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-09 16:29:34 --> 404 Page Not Found: Homepage/cloud-privada-2
+ERROR - 2019-11-09 17:24:50 --> 404 Page Not Found: Homepage/servicos-profissionais
+ERROR - 2019-11-09 18:55:51 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-11-09 19:11:54 --> 404 Page Not Found: Category/blog
+ERROR - 2019-11-09 19:33:27 --> 404 Page Not Found: Feed/index
+ERROR - 2019-11-09 19:34:17 --> 404 Page Not Found: Homepage/seguranca
+ERROR - 2019-11-09 20:43:00 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-09 20:43:02 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-09 21:32:08 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2019-11-09 22:09:57 --> 404 Page Not Found: Login/auth

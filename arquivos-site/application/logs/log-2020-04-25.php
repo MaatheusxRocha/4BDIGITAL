@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-04-25 03:03:46 --> 404 Page Not Found: Old/index
+ERROR - 2020-04-25 05:38:41 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-04-25 06:01:06 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-25 06:01:07 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-04-25 07:53:10 --> 404 Page Not Found: Public_html/index
+ERROR - 2020-04-25 10:35:18 --> 404 Page Not Found: Category/blog
+ERROR - 2020-04-25 10:56:50 --> 404 Page Not Found: Tag/auto-scaling-cloud-publica
+ERROR - 2020-04-25 15:34:00 --> 404 Page Not Found: Css/album.css
+ERROR - 2020-04-25 15:34:12 --> 404 Page Not Found: Public/ui
+ERROR - 2020-04-25 15:34:13 --> 404 Page Not Found: Statics/js
+ERROR - 2020-04-25 16:03:45 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-04-25 16:53:56 --> 404 Page Not Found: Data/admin
+ERROR - 2020-04-25 16:59:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-04-25 18:29:18 --> 404 Page Not Found: Googlec26d211131ad625chtml/index
+ERROR - 2020-04-25 19:26:49 --> 404 Page Not Found: Blog%E2%A0%80/index
+ERROR - 2020-04-25 19:28:23 --> 404 Page Not Found: Data/admin
+ERROR - 2020-04-25 19:56:52 --> 404 Page Not Found: Beneficios-do-gerenciamento-avancado-em-ambiente-de-cloud-publica/index
+ERROR - 2020-04-25 20:55:16 --> 404 Page Not Found: Staging/index
+ERROR - 2020-04-25 21:09:36 --> 404 Page Not Found: Wp-admin/admin-ajax.php
+ERROR - 2020-04-25 21:09:40 --> 404 Page Not Found: Env/index
+ERROR - 2020-04-25 21:09:47 --> 404 Page Not Found: Api/.env
+ERROR - 2020-04-25 21:09:53 --> 404 Page Not Found: Laravel/.env
+ERROR - 2020-04-25 21:09:55 --> 404 Page Not Found: Test/.env
+ERROR - 2020-04-25 21:10:03 --> 404 Page Not Found: admin/Env/index
+ERROR - 2020-04-25 21:10:14 --> 404 Page Not Found: Vendor/.env
+ERROR - 2020-04-25 21:10:22 --> 404 Page Not Found: Sites/.env
+ERROR - 2020-04-25 21:10:30 --> 404 Page Not Found: Public/.env
+ERROR - 2020-04-25 21:10:34 --> 404 Page Not Found: Shop/.env
+ERROR - 2020-04-25 22:10:32 --> 404 Page Not Found: ACQUIA_MONITOR/index
+ERROR - 2020-04-25 23:25:17 --> 404 Page Not Found: ACQUIA_MONITOR/index

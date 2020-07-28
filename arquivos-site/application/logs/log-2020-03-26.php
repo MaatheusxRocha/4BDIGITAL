@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-03-26 00:01:49 --> 404 Page Not Found: Brascloud-automacao-disponibilidade-e-crescimento-dos-seus-negocios/index
+ERROR - 2020-03-26 01:12:37 --> 404 Page Not Found: Dojo-1104/util
+ERROR - 2020-03-26 01:57:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-26 05:31:50 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-26 05:53:33 --> 404 Page Not Found: Category/blog
+ERROR - 2020-03-26 07:16:51 --> 404 Page Not Found: Login/auth
+ERROR - 2020-03-26 07:55:30 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-26 07:57:25 --> 404 Page Not Found: Xxsssseee/index
+ERROR - 2020-03-26 07:59:02 --> 404 Page Not Found: Env/index
+ERROR - 2020-03-26 07:59:04 --> 404 Page Not Found: Remote/index
+ERROR - 2020-03-26 07:59:05 --> 404 Page Not Found: Local/index
+ERROR - 2020-03-26 07:59:07 --> 404 Page Not Found: Production/index
+ERROR - 2020-03-26 08:25:53 --> 404 Page Not Found: Homepage/pagina-inicial
+ERROR - 2020-03-26 09:35:04 --> 404 Page Not Found: Homepage/armazenamento
+ERROR - 2020-03-26 10:00:15 --> 404 Page Not Found: Homepage/webhosting
+ERROR - 2020-03-26 14:31:36 --> 404 Page Not Found: Googlec26d211131ad625chtml/index
+ERROR - 2020-03-26 14:33:40 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-26 14:33:42 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-26 14:56:29 --> 404 Page Not Found: Homepage/monitoramento-avancado
+ERROR - 2020-03-26 15:49:03 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2020-03-26 15:59:52 --> 404 Page Not Found: Login/index
+ERROR - 2020-03-26 16:49:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-26 18:32:19 --> 404 Page Not Found: Homepage/contato
+ERROR - 2020-03-26 19:23:25 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-03-26 20:01:52 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-03-26 20:37:03 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-26 20:37:04 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-26 22:01:19 --> 404 Page Not Found: Faviconico/index

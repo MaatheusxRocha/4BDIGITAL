@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-06-30 01:43:07 --> 404 Page Not Found: Data/admin
+ERROR - 2020-06-30 02:20:31 --> 404 Page Not Found: Well-known/apple-app-site-association
+ERROR - 2020-06-30 02:31:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-30 02:33:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-30 04:57:23 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2020-06-30 04:57:26 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-06-30 06:04:04 --> 404 Page Not Found: Brascloud-com-brmysqlzip/index
+ERROR - 2020-06-30 07:56:38 --> 404 Page Not Found: Https:/www.brascloud.com.br
+ERROR - 2020-06-30 09:07:35 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-06-30 09:15:08 --> 404 Page Not Found: 1111/feed
+ERROR - 2020-06-30 09:15:09 --> 404 Page Not Found: Rss/index
+ERROR - 2020-06-30 10:13:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-30 10:13:52 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-06-30 11:02:07 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-06-30 11:48:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-30 11:57:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-30 14:07:06 --> 404 Page Not Found: Wwwbrascloudcombr/index
+ERROR - 2020-06-30 14:31:15 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-06-30 14:49:53 --> 404 Page Not Found: Data/admin
+ERROR - 2020-06-30 15:23:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-30 15:32:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-30 17:32:33 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-06-30 17:39:05 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-06-30 17:39:06 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-06-30 18:03:26 --> 404 Page Not Found: Precs/index
+ERROR - 2020-06-30 18:03:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-30 18:03:26 --> 404 Page Not Found: Precs/index
+ERROR - 2020-06-30 18:40:41 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-06-30 22:22:16 --> 404 Page Not Found: Homepage/contato

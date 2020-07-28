@@ -1,0 +1,52 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-04-04 00:21:29 --> 404 Page Not Found: Homepage/servicos-profissionais
+ERROR - 2019-04-04 00:37:26 --> 404 Page Not Found: Homepage/cloud-privada-2
+ERROR - 2019-04-04 01:24:35 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2019-04-04 01:31:08 --> 404 Page Not Found: Login/auth
+ERROR - 2019-04-04 03:45:07 --> E-mail de ligue-me enviado com sucesso
+ERROR - 2019-04-04 05:12:07 --> 404 Page Not Found: Armazenamento-2/index
+ERROR - 2019-04-04 05:50:09 --> 404 Page Not Found: Homepage/contato
+ERROR - 2019-04-04 06:20:47 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2019-04-04 06:32:37 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2019-04-04 06:40:01 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2019-04-04 06:45:58 --> 404 Page Not Found: Login/auth
+ERROR - 2019-04-04 06:45:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-04 06:45:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-04 06:49:53 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2019-04-04 07:01:48 --> E-mail de ligue-me enviado com sucesso
+ERROR - 2019-04-04 07:33:20 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-04-04 07:39:45 --> 404 Page Not Found: Ui/css
+ERROR - 2019-04-04 07:41:44 --> 404 Page Not Found: Ui/css
+ERROR - 2019-04-04 09:00:23 --> 404 Page Not Found: 1zip/index
+ERROR - 2019-04-04 09:21:04 --> 404 Page Not Found: Login/index
+ERROR - 2019-04-04 10:03:21 --> 404 Page Not Found: Homepage/index
+ERROR - 2019-04-04 10:43:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-04 11:08:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-04 11:23:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-04 11:55:10 --> 404 Page Not Found: 2016/07
+ERROR - 2019-04-04 12:05:56 --> 404 Page Not Found: Env/index
+ERROR - 2019-04-04 12:25:00 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2019-04-04 12:39:58 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-04-04 12:45:03 --> 404 Page Not Found: Homepage/disaster-recovery
+ERROR - 2019-04-04 12:46:00 --> 404 Page Not Found: Homepage/cloud-publica-2
+ERROR - 2019-04-04 13:36:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-04 14:46:05 --> 404 Page Not Found: Homepage/disaster-recovery
+ERROR - 2019-04-04 15:00:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-04 15:01:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-04 15:23:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-04 15:40:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-04 16:33:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-04 16:48:53 --> 404 Page Not Found: Mais-um-pouco-de-definicao-de-cloud-computing/index
+ERROR - 2019-04-04 17:55:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-04 19:08:07 --> 404 Page Not Found: Login/auth
+ERROR - 2019-04-04 19:31:00 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-04-04 19:31:00 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-04-04 19:56:09 --> 404 Page Not Found: Ui/img
+ERROR - 2019-04-04 20:03:02 --> 404 Page Not Found: Category/blog
+ERROR - 2019-04-04 20:37:29 --> 404 Page Not Found: Login/auth
+ERROR - 2019-04-04 20:37:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-04 20:37:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-04 22:38:47 --> 404 Page Not Found: Login/auth
+ERROR - 2019-04-04 22:38:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-04 22:38:48 --> 404 Page Not Found: Faviconico/index

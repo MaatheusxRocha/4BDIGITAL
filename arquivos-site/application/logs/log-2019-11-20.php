@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-11-20 01:29:51 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2019-11-20 01:48:12 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-20 01:48:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-20 02:45:17 --> 404 Page Not Found: Login/index
+ERROR - 2019-11-20 03:11:54 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-11-20 03:34:16 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2019-11-20 04:42:42 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-20 04:42:44 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-20 06:35:51 --> 404 Page Not Found: Homepage/cloud-publica-2
+ERROR - 2019-11-20 10:21:04 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-20 11:01:26 --> 404 Page Not Found: Mais-um-pouco-de-definicao-de-cloud-computing/index
+ERROR - 2019-11-20 11:27:43 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-11-20 12:05:03 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-11-20 12:28:17 --> 404 Page Not Found: Temp/bitcoin
+ERROR - 2019-11-20 12:28:33 --> 404 Page Not Found: Temp/wallet.dat
+ERROR - 2019-11-20 12:29:06 --> 404 Page Not Found: Walletdat/index
+ERROR - 2019-11-20 12:29:21 --> 404 Page Not Found: Wallet/index
+ERROR - 2019-11-20 12:29:36 --> 404 Page Not Found: Wallet/wallet.dat
+ERROR - 2019-11-20 12:29:50 --> 404 Page Not Found: Bitcoin/wallet.dat
+ERROR - 2019-11-20 12:30:22 --> 404 Page Not Found: Bitcoin/wallet.dat
+ERROR - 2019-11-20 12:30:51 --> 404 Page Not Found: Bitcoin/backup
+ERROR - 2019-11-20 12:42:43 --> 404 Page Not Found: Bitcoin/index
+ERROR - 2019-11-20 14:44:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-20 18:30:20 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2019-11-20 19:42:37 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-20 20:08:21 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-11-20 23:53:09 --> 404 Page Not Found: Faviconico/index

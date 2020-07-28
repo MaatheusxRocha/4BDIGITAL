@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-03-10 00:30:46 --> 404 Page Not Found: Category/blog
+ERROR - 2019-03-10 01:10:20 --> 404 Page Not Found: Login/index
+ERROR - 2019-03-10 02:37:11 --> 404 Page Not Found: Statics/js
+ERROR - 2019-03-10 02:37:11 --> 404 Page Not Found: Include/charset.func.php
+ERROR - 2019-03-10 05:07:25 --> 404 Page Not Found: Homepage/cloud-publica-2
+ERROR - 2019-03-10 07:01:37 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-10 07:01:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-10 07:01:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-10 08:38:49 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-10 08:38:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-10 08:38:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-10 09:05:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-03-10 10:31:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-10 10:33:36 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-10 10:33:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-10 10:33:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-10 11:08:28 --> 404 Page Not Found: Ui/img
+ERROR - 2019-03-10 11:36:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-10 13:58:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-10 14:46:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-10 18:51:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-10 20:00:18 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-10 20:00:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-10 20:00:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-10 21:33:37 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-10 22:04:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-10 22:04:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-10 22:04:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-10 22:20:22 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-10 22:20:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-10 22:20:23 --> 404 Page Not Found: Faviconico/index

@@ -8,14 +8,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-TSSMWVF');</script>
 <!-- End Google Tag Manager -->
+
         <meta charset="utf-8">
         <meta name="theme-color" content="#ffffff">
         <meta name="msapplication-TileColor" content="#ffffff">
         <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
         <meta name="msapplication-TileImage" content="images/favicon/ms-icon-144x144.png">
 
-        <meta name="description" content="BRASCLOUD - A Sua Cloud no Brasil | Somos uma Cloud Brasileira que oferta uma cloud econômica, sendo uma opção viável para pequenos negócios. Somos uma opção que fala português, fatura em reais com impostos inclusos e ainda ajudamos os profissionais de TI a arquitetar o comportamento das soluções.">
-        <meta name="keywords" content="cloud no Brasil, brascloud, cloud nacional, brascloud nuvem, cloud, nuvem, hospedagem, servidores, billing, por hora, suporte portugues, cloud gerenciada, data center proprio, iaas, backup, disaster recovery, site backup, cloud server, public cloud, cloud iaas, baixa latencia, ix sp, ix br, backbone, data center, open source, open compute project, dupla abordagem, suporte cloud, suporte">
+        <meta name="description" content="BRASCLOUD - Cloud Provider Brasil | Cloud Server IaaS, recursos com cobrança 100% por hora.">
+        <meta name="keywords" content="cloud no Brasil, brascloud, cloud nacional, brascloud nuvem, cloud, nuvem, hospedagem, vps, cloud server, servidores, billing, por hora, suporte portugues, cloud gerenciada, data center, iaas, backup, disaster recovery, site-backup, public cloud, cloud iaas, baixa latencia, ix-sp, ix-br, open source, open compute project, suporte cloud, suporte">
         <meta name="author" content="Trend Mobile | trendmobile.com.br">
         <meta name="reply-to" content="atendimento@trendmobile.net.br">
 
@@ -53,7 +54,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <? } ?>
         <? } ?>
 
-        <title><?= isset($title) ? $title : 'BRASCLOUD | Nós somos a única empresa na américa latina a ofertar uma nuvem publica econômica de baixa latência. Com datacenter próprio e tecnologia hiperconvergente, construída com o mesmo padrão das gigantes mundiais, capaz de democratizar o acesso a nuvem de micro e pequenos empreendedores.' ?></title>
+        <title><?= isset($title) ? $title : 'BRASCLOUD | Cloud Server IaaS 100% por Hora, recursos com cobrança em REAIS.' ?></title>
 		
 		<!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-81748810-1"></script>
@@ -84,6 +85,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   src="https://www.facebook.com/tr?id=1839498886121148&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '207136570220111');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=207136570220111&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+
+
+
 
 
 <meta name="google-site-verification" content="6F8t55ukXeVzqVnBmE2thudto8uxw0sub_7AVIVyBU8" />
@@ -128,12 +154,6 @@ s0.parentNode.insertBefore(s1,s0);
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>
-
-
-
-
-
-
 
     </head>
 

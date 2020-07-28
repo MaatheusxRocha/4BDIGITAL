@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-08-29 01:05:02 --> 404 Page Not Found: Wwwbrascloudcombr/index
+ERROR - 2019-08-29 01:05:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-29 01:15:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-29 04:16:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-29 05:17:59 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2019-08-29 05:47:32 --> 404 Page Not Found: Homepage/webhosting
+ERROR - 2019-08-29 05:50:32 --> 404 Page Not Found: Feed/index
+ERROR - 2019-08-29 07:38:14 --> 404 Page Not Found: Dojo-1104/dojox
+ERROR - 2019-08-29 08:28:24 --> 404 Page Not Found: Script%3E/index
+ERROR - 2019-08-29 08:29:21 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-08-29 08:29:23 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-08-29 09:16:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-29 09:59:57 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2019-08-29 10:12:46 --> 404 Page Not Found: Brascloud-automacao-disponibilidade-e-crescimento-dos-seus-negocios/feed
+ERROR - 2019-08-29 11:44:10 --> 404 Page Not Found: Homepage/vmware
+ERROR - 2019-08-29 12:39:49 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2019-08-29 13:10:03 --> 404 Page Not Found: Dojo-1104/dojox
+ERROR - 2019-08-29 13:15:15 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-08-29 16:17:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-29 16:37:49 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2019-08-29 16:38:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-29 17:13:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-29 17:28:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-29 18:35:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-29 19:24:55 --> 404 Page Not Found: Homepage/armazenamento
+ERROR - 2019-08-29 21:52:34 --> 404 Page Not Found: Havent/you
+ERROR - 2019-08-29 22:35:50 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-08-29 22:35:54 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-08-29 23:22:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-08-29 23:24:11 --> 404 Page Not Found: Faviconico/index

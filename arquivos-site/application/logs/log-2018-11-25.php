@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-11-25 00:28:11 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-11-25 00:45:48 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-11-25 01:48:35 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-11-25 03:58:54 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-11-25 08:29:23 --> 404 Page Not Found: Login/auth
+ERROR - 2018-11-25 08:29:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-25 08:29:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-25 09:20:52 --> 404 Page Not Found: Beneficios-do-gerenciamento-avancado-em-ambiente-de-cloud-publica/index
+ERROR - 2018-11-25 11:25:01 --> 404 Page Not Found: Login/auth
+ERROR - 2018-11-25 11:25:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-25 11:25:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-25 12:53:53 --> 404 Page Not Found: Login/auth
+ERROR - 2018-11-25 14:17:20 --> 404 Page Not Found: Login/auth
+ERROR - 2018-11-25 14:17:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-25 14:17:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-25 14:38:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-25 14:43:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-25 16:01:23 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-11-25 17:21:03 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-11-25 18:53:44 --> 404 Page Not Found: Login/auth
+ERROR - 2018-11-25 18:53:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-25 18:53:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-25 19:44:14 --> 404 Page Not Found: Ui/img
+ERROR - 2018-11-25 19:50:22 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-11-25 20:57:28 --> 404 Page Not Found: Login/auth
+ERROR - 2018-11-25 20:57:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-25 20:57:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-25 23:24:50 --> 404 Page Not Found: Login/auth
+ERROR - 2018-11-25 23:24:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-25 23:24:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-25 23:28:17 --> 404 Page Not Found: Adstxt/index

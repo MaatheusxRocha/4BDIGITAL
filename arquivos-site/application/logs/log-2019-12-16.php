@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-12-16 00:32:44 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-16 01:21:38 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2019-12-16 01:37:05 --> 404 Page Not Found: Administracao/plugins
+ERROR - 2019-12-16 01:37:06 --> 404 Page Not Found: Administracao/plugins
+ERROR - 2019-12-16 03:02:21 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-16 03:02:22 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-16 03:05:36 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-16 03:05:37 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-16 04:43:56 --> 404 Page Not Found: Data/admin
+ERROR - 2019-12-16 04:43:57 --> 404 Page Not Found: Public/js
+ERROR - 2019-12-16 05:06:28 --> 404 Page Not Found: Public/js
+ERROR - 2019-12-16 06:14:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-16 06:36:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-16 07:52:27 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-12-16 09:51:56 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-16 09:51:57 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-16 10:06:47 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2019-12-16 15:51:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-16 16:47:31 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-16 17:37:22 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2019-12-16 18:46:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-16 19:37:53 --> 404 Page Not Found: Homepage/contato
+ERROR - 2019-12-16 19:47:44 --> 404 Page Not Found: Precos%23plans/index
+ERROR - 2019-12-16 21:03:57 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-16 21:06:00 --> 404 Page Not Found: Js/common.js
+ERROR - 2019-12-16 21:44:18 --> 404 Page Not Found: Beneficios-do-gerenciamento-avancado-em-ambiente-de-cloud-publica/feed
+ERROR - 2019-12-16 22:49:40 --> 404 Page Not Found: Adstxt/index

@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-12-21 03:35:30 --> 404 Page Not Found: Ui/img
+ERROR - 2018-12-21 05:42:26 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-12-21 06:45:44 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2018-12-21 08:56:02 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-21 08:56:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-21 08:56:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-21 09:04:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-21 10:03:30 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-21 11:39:18 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-21 11:39:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-21 11:39:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-21 12:31:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-21 12:58:07 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-21 12:58:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-21 12:58:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-21 13:20:52 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-12-21 13:44:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-21 14:16:42 --> 404 Page Not Found: Homepage/sobre-nos
+ERROR - 2018-12-21 15:26:11 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-12-21 16:10:35 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-12-21 16:10:35 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-12-21 16:11:37 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-12-21 16:11:58 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-12-21 16:25:46 --> 404 Page Not Found: Homepage/pagina-inicial
+ERROR - 2018-12-21 17:23:22 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2018-12-21 19:56:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-21 20:30:21 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-12-21 20:41:25 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-21 20:41:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-21 20:41:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-21 22:02:33 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-21 22:51:26 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-12-21 22:51:26 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-12-21 22:51:28 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-12-21 22:53:02 --> 404 Page Not Found: Wp-content/plugins

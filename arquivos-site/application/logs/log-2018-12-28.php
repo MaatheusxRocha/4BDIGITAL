@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-12-28 00:54:24 --> 404 Page Not Found: Homepage/cloud-privada-2
+ERROR - 2018-12-28 03:32:33 --> 404 Page Not Found: Homepage/produtividade-e-colaboracao
+ERROR - 2018-12-28 03:53:43 --> 404 Page Not Found: Googlec26d211131ad625chtml/index
+ERROR - 2018-12-28 04:15:46 --> 404 Page Not Found: Env/index
+ERROR - 2018-12-28 05:16:57 --> 404 Page Not Found: Cloud-stack/index
+ERROR - 2018-12-28 07:05:59 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-28 07:05:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-28 07:06:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-28 07:30:06 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-12-28 09:32:50 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-28 09:32:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-28 09:32:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-28 10:13:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-28 10:36:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-28 12:12:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-28 14:50:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-28 15:42:24 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-28 15:42:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-28 15:42:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-28 18:01:12 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-12-28 18:55:07 --> 404 Page Not Found: Cloud-stack/index
+ERROR - 2018-12-28 20:21:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-28 20:53:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-28 20:56:41 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2018-12-28 21:07:13 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2018-12-28 21:22:54 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-28 21:22:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-28 21:22:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-28 21:43:35 --> 404 Page Not Found: Mais-um-pouco-de-definicao-de-cloud-computing/index
+ERROR - 2018-12-28 21:44:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-28 22:41:10 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-28 22:41:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-28 22:41:11 --> 404 Page Not Found: Faviconico/index

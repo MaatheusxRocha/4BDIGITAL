@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-11-03 00:02:04 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-03 00:02:04 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-03 00:50:57 --> 404 Page Not Found: Brascloudcombr/index
+ERROR - 2019-11-03 01:52:23 --> 404 Page Not Found: Homepage/seguranca
+ERROR - 2019-11-03 02:57:28 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-11-03 03:01:23 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-03 03:01:28 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-03 03:05:54 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-03 03:05:56 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-03 03:30:56 --> 404 Page Not Found: Feed/index
+ERROR - 2019-11-03 04:33:25 --> 404 Page Not Found: Tag/auto-scaling-cloud-publica
+ERROR - 2019-11-03 08:42:19 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-03 08:42:20 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-03 08:48:13 --> 404 Page Not Found: Tag/auto-scaling-cloud-publica
+ERROR - 2019-11-03 09:42:56 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-11-03 13:53:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-03 14:13:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-03 15:15:18 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2019-11-03 16:22:15 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-03 16:22:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-03 17:29:07 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2019-11-03 17:46:20 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2019-11-03 18:25:34 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2019-11-03 19:48:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-03 19:58:19 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-03 19:58:20 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-03 20:23:42 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-03 20:23:43 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-03 21:02:33 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-03 21:02:34 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-03 22:06:24 --> 404 Page Not Found: Tag/auto-scaling-cloud-publica
+ERROR - 2019-11-03 23:10:35 --> 404 Page Not Found: Homepage/vmware
+ERROR - 2019-11-03 23:26:43 --> 404 Page Not Found: Author/rsantos

@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-02-07 01:25:43 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2020-02-07 02:09:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-02-07 06:16:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-02-07 06:16:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-02-07 06:47:37 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-02-07 07:18:13 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2020-02-07 09:38:22 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-07 11:54:07 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-07 11:54:08 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-07 13:10:56 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-07 13:10:57 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-07 13:14:56 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-07 13:14:57 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-07 13:47:43 --> 404 Page Not Found: Assets/numeral-js
+ERROR - 2020-02-07 13:47:43 --> 404 Page Not Found: Assets/numeral-js
+ERROR - 2020-02-07 13:47:43 --> 404 Page Not Found: Assets/numeral-js
+ERROR - 2020-02-07 13:47:43 --> 404 Page Not Found: Assets/numeral-js
+ERROR - 2020-02-07 13:47:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-02-07 14:13:40 --> 404 Page Not Found: Nossos-precos/index
+ERROR - 2020-02-07 14:40:39 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-07 14:40:42 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-07 15:54:02 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2020-02-07 17:33:40 --> 404 Page Not Found: Login/index
+ERROR - 2020-02-07 18:15:20 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-02-07 18:35:14 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-02-07 19:02:21 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-02-07 20:56:36 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-07 20:56:37 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-07 21:43:56 --> 404 Page Not Found: Strong/index
+ERROR - 2020-02-07 22:25:04 --> 404 Page Not Found: Comments/feed
+ERROR - 2020-02-07 22:42:48 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-07 22:42:49 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-02-07 23:28:56 --> 404 Page Not Found: %E2%A0%80%E2%A0%80/index
+ERROR - 2020-02-07 23:28:57 --> 404 Page Not Found: Faviconico/index

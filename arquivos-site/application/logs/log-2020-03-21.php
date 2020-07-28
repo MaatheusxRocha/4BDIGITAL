@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-03-21 02:39:15 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-21 02:39:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-21 03:16:26 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-21 03:27:35 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2020-03-21 03:37:33 --> 404 Page Not Found: Public/static
+ERROR - 2020-03-21 03:37:34 --> 404 Page Not Found: Static/.gitignore
+ERROR - 2020-03-21 04:38:32 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-03-21 04:42:41 --> 404 Page Not Found: Js/common.js
+ERROR - 2020-03-21 04:42:42 --> 404 Page Not Found: Public/js
+ERROR - 2020-03-21 04:42:43 --> 404 Page Not Found: Include/calendar
+ERROR - 2020-03-21 04:42:43 --> 404 Page Not Found: admin/_user/_Admin
+ERROR - 2020-03-21 04:42:44 --> 404 Page Not Found: Public/ui
+ERROR - 2020-03-21 04:42:45 --> 404 Page Not Found: Js/comm.js
+ERROR - 2020-03-21 05:13:20 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-21 11:01:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-21 11:54:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-21 12:55:19 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-21 15:59:21 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-21 17:38:42 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-21 17:38:43 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-21 20:01:39 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-03-21 20:06:01 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-21 20:06:03 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-21 20:47:41 --> 404 Page Not Found: A-primeira-cloud-publica-100-brasileira-com-faturamento-por-hora/index
+ERROR - 2020-03-21 23:14:43 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-03-21 23:14:43 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-03-21 23:32:54 --> 404 Page Not Found: Wp-content/themes

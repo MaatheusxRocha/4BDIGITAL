@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-03-11 00:28:42 --> 404 Page Not Found: D8286610-4642-45d7-9068-e59528ea7f30/index
+ERROR - 2020-03-11 00:29:12 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2020-03-11 00:33:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-11 00:41:00 --> 404 Page Not Found: Homepage/sobre-nos
+ERROR - 2020-03-11 00:57:44 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-11 00:57:44 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-11 02:09:31 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-11 02:09:32 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-11 03:20:17 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-03-11 06:04:13 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-11 06:43:13 --> 404 Page Not Found: Homepage/monitoramento-avancado
+ERROR - 2020-03-11 06:51:00 --> 404 Page Not Found: Licensetxt/index
+ERROR - 2020-03-11 07:10:18 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-11 07:10:19 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-11 07:14:56 --> 404 Page Not Found: Wwwbrascloudcombr/index
+ERROR - 2020-03-11 08:59:01 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-11 09:12:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-11 09:12:59 --> 404 Page Not Found: Mais-um-pouco-de-definicao-de-cloud-computing/index
+ERROR - 2020-03-11 10:59:15 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-11 12:59:57 --> 404 Page Not Found: Category/blog
+ERROR - 2020-03-11 13:50:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-11 15:00:26 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-11 15:56:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-11 16:44:46 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-03-11 18:02:10 --> 404 Page Not Found: SimpleCaptcha/captcha
+ERROR - 2020-03-11 18:32:40 --> 404 Page Not Found: Wordpress/license.txt
+ERROR - 2020-03-11 18:53:01 --> 404 Page Not Found: Homepage/cloud-privada-2
+ERROR - 2020-03-11 19:12:12 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2020-03-11 19:41:09 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2020-03-11 20:03:52 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-11 22:20:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-11 22:56:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-11 22:59:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-11 23:05:41 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-11 23:05:43 --> 404 Page Not Found: Wp-loginphp/index

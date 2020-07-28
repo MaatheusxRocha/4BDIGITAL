@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-11-15 03:47:16 --> 404 Page Not Found: Author/rsantos
+ERROR - 2018-11-15 03:47:17 --> 404 Page Not Found: Homepage/servicos-profissionais
+ERROR - 2018-11-15 03:47:17 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2018-11-15 03:47:33 --> 404 Page Not Found: Sementes-de-feijao/index
+ERROR - 2018-11-15 03:47:35 --> 404 Page Not Found: Feed/index
+ERROR - 2018-11-15 03:47:39 --> 404 Page Not Found: Account/trialSignup
+ERROR - 2018-11-15 06:11:30 --> 404 Page Not Found: A/index
+ERROR - 2018-11-15 08:13:27 --> 404 Page Not Found: Js/jquery-1.9.1.min.js
+ERROR - 2018-11-15 08:13:28 --> 404 Page Not Found: Js/app
+ERROR - 2018-11-15 08:13:28 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-11-15 09:19:23 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2018-11-15 14:24:14 --> 404 Page Not Found: Login/auth
+ERROR - 2018-11-15 14:24:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-15 14:24:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-15 14:28:49 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2018-11-15 15:27:13 --> 404 Page Not Found: Login/auth
+ERROR - 2018-11-15 15:27:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-15 15:27:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-15 17:11:01 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2018-11-15 17:37:59 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-11-15 17:46:04 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-11-15 18:03:48 --> 404 Page Not Found: Ui/img
+ERROR - 2018-11-15 18:28:25 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-11-15 18:58:37 --> 404 Page Not Found: Login/auth
+ERROR - 2018-11-15 18:58:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-15 18:58:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-15 21:07:06 --> 404 Page Not Found: Login/auth
+ERROR - 2018-11-15 21:07:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-15 21:07:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-15 22:22:32 --> 404 Page Not Found: Login/auth
+ERROR - 2018-11-15 22:22:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-11-15 22:22:32 --> 404 Page Not Found: Faviconico/index

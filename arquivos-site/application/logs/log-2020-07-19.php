@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-19 01:16:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-19 01:16:18 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-19 01:36:46 --> 404 Page Not Found: Data/admin
+ERROR - 2020-07-19 01:51:05 --> 404 Page Not Found: Brascloud-automacao-disponibilidade-e-crescimento-dos-seus-negocios/index
+ERROR - 2020-07-19 04:13:06 --> 404 Page Not Found: 2016/08
+ERROR - 2020-07-19 04:13:07 --> 404 Page Not Found: Homepage/networking
+ERROR - 2020-07-19 04:32:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-19 05:31:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-19 08:04:15 --> 404 Page Not Found: Homepage/nossos-precos
+ERROR - 2020-07-19 08:58:29 --> 404 Page Not Found: Feed/index
+ERROR - 2020-07-19 11:01:33 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-07-19 11:45:58 --> 404 Page Not Found: Homepage/cloud-publica-2
+ERROR - 2020-07-19 12:05:45 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-07-19 12:27:47 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-07-19 12:36:51 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-19 13:15:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-19 13:24:47 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-19 13:56:55 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-07-19 16:28:51 --> 404 Page Not Found: Dev/wp-admin
+ERROR - 2020-07-19 16:43:36 --> 404 Page Not Found: %22%27/homepage
+ERROR - 2020-07-19 16:43:37 --> 404 Page Not Found: Homepage%22%27/networking
+ERROR - 2020-07-19 16:43:39 --> 404 Page Not Found: Homepage/networking%22%27
+ERROR - 2020-07-19 18:15:14 --> 404 Page Not Found: Data/admin
+ERROR - 2020-07-19 20:27:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-19 21:02:46 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-19 21:52:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-19 23:35:39 --> 404 Page Not Found: Faviconico/index

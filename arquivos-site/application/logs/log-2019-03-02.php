@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-03-02 00:27:02 --> 404 Page Not Found: Armazenamento-2/index
+ERROR - 2019-03-02 01:47:12 --> 404 Page Not Found: Category/blog
+ERROR - 2019-03-02 01:52:02 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2019-03-02 05:42:25 --> 404 Page Not Found: Homepage/cloud-privada-2
+ERROR - 2019-03-02 06:29:36 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-02 06:29:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-02 06:29:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-02 06:45:53 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2019-03-02 07:22:14 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-03-02 08:23:56 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-02 08:23:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-02 08:23:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-02 11:33:16 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-02 11:33:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-02 11:33:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-02 11:55:56 --> 404 Page Not Found: Comments/feed
+ERROR - 2019-03-02 12:51:52 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-02 12:51:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-02 12:51:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-02 16:31:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-02 17:08:09 --> 404 Page Not Found: Author/rsantos
+ERROR - 2019-03-02 17:34:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-02 18:03:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-02 18:23:42 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-02 18:23:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-02 18:23:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-02 18:34:58 --> 404 Page Not Found: Ui/img
+ERROR - 2019-03-02 19:07:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-02 20:48:16 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2019-03-02 21:39:49 --> 404 Page Not Found: Login/auth
+ERROR - 2019-03-02 21:39:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-02 21:39:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-03-02 22:52:07 --> 404 Page Not Found: Dockerfile/index

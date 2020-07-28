@@ -1,0 +1,46 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-12-31 00:18:50 --> 404 Page Not Found: Homepage/cloud-privada-2
+ERROR - 2018-12-31 02:10:47 --> 404 Page Not Found: Homepage/feed
+ERROR - 2018-12-31 02:47:37 --> 404 Page Not Found: Homepage/produtividade-e-colaboracao
+ERROR - 2018-12-31 02:48:35 --> 404 Page Not Found: Wp-admin/admin-ajax.php
+ERROR - 2018-12-31 04:03:12 --> 404 Page Not Found: A-primeira-cloud-publica-100-brasileira-com-faturamento-por-hora/index
+ERROR - 2018-12-31 05:45:46 --> 404 Page Not Found: Tag/cloud-gerenciamento-avancado
+ERROR - 2018-12-31 06:56:30 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-31 06:56:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-31 06:56:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-31 08:08:33 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-12-31 08:08:35 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-12-31 08:08:35 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-12-31 08:20:20 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-31 08:20:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-31 08:20:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-31 08:35:35 --> 404 Page Not Found: Ui/css
+ERROR - 2018-12-31 08:59:49 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2018-12-31 11:07:17 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-12-31 12:18:30 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-31 12:18:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-31 12:18:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-31 12:27:43 --> E-mail de vaga de trabalho enviado com sucesso
+ERROR - 2018-12-31 13:01:38 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-12-31 13:26:54 --> 404 Page Not Found: Homepage/pagina-inicial
+ERROR - 2018-12-31 13:27:31 --> 404 Page Not Found: Feed/index
+ERROR - 2018-12-31 13:49:39 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-12-31 14:43:22 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-31 14:43:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-31 14:43:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-31 17:28:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-31 17:38:06 --> 404 Page Not Found: Login/index
+ERROR - 2018-12-31 18:04:14 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-12-31 18:29:19 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2018-12-31 19:13:39 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-31 19:13:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-31 19:13:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-31 19:42:41 --> 404 Page Not Found: Ui/img
+ERROR - 2018-12-31 20:02:51 --> 404 Page Not Found: Author/rsantos
+ERROR - 2018-12-31 20:38:00 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-31 20:38:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-31 20:38:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-31 21:07:50 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-12-31 22:23:15 --> 404 Page Not Found: Cloud-stack/index
+ERROR - 2018-12-31 22:57:59 --> 404 Page Not Found: Tag/auto-scaling-cloud-publica

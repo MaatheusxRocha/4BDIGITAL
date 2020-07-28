@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-11 00:28:45 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-11 01:20:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-11 02:34:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-11 04:30:57 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2020-07-11 06:06:02 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-07-11 06:54:45 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-11 06:55:05 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-11 10:34:17 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-11 10:34:18 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-11 11:05:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-11 11:30:42 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-11 11:36:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-11 13:21:47 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-07-11 16:13:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-11 16:14:46 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-07-11 17:15:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-11 18:05:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-11 19:56:32 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-07-11 19:57:30 --> 404 Page Not Found: Homepage/pagina-inicial
+ERROR - 2020-07-11 19:58:03 --> 404 Page Not Found: Feed/index
+ERROR - 2020-07-11 20:22:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-11 20:45:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-11 20:50:03 --> 404 Page Not Found: Js/common.js
+ERROR - 2020-07-11 22:11:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-11 22:25:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-11 22:33:53 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-11 22:53:33 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-11 22:55:33 --> 404 Page Not Found: Wp-loginphp/index

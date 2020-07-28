@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-11-16 00:34:41 --> 404 Page Not Found: Homepage/index
+ERROR - 2019-11-16 02:02:22 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 02:02:23 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 02:03:00 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 02:03:01 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 04:34:18 --> 404 Page Not Found: Homepage/licenciamento
+ERROR - 2019-11-16 04:39:45 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 04:39:46 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 05:00:50 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 05:00:51 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 05:16:32 --> 404 Page Not Found: Mais-um-pouco-de-definicao-de-cloud-computing/index
+ERROR - 2019-11-16 05:43:59 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 05:44:01 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 06:48:24 --> 404 Page Not Found: Category/blog
+ERROR - 2019-11-16 08:39:14 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-11-16 09:18:36 --> 404 Page Not Found: Homepage/feed
+ERROR - 2019-11-16 12:29:07 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 12:29:08 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 13:27:29 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 13:27:30 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 14:49:09 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 14:49:10 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 16:00:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-16 16:07:50 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 16:50:39 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 16:50:40 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 17:04:09 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 18:29:29 --> 404 Page Not Found: Homepage/pagina-inicial
+ERROR - 2019-11-16 19:10:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 19:10:18 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 20:25:18 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 20:25:19 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 22:17:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 22:40:57 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-16 22:40:59 --> 404 Page Not Found: Wp-loginphp/index

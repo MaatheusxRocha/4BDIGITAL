@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-12-31 00:01:45 --> 404 Page Not Found: Mais-um-pouco-de-definicao-de-cloud-computing/index
+ERROR - 2019-12-31 00:38:26 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-31 00:38:26 --> 404 Page Not Found: Wordpress/wp-login.php
+ERROR - 2019-12-31 00:55:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-31 02:03:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-31 02:03:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-31 02:06:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-31 02:06:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-31 02:09:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-31 02:09:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-31 02:11:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-31 02:11:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-31 02:14:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-31 02:14:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-31 02:15:52 --> 404 Page Not Found: Tag/cloud-gerenciamento-avancado
+ERROR - 2019-12-31 02:16:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-31 02:18:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-31 02:18:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-31 02:19:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-31 02:20:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-31 02:21:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-31 02:23:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-31 08:45:22 --> 404 Page Not Found: Homepage/networking
+ERROR - 2019-12-31 09:50:09 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-31 09:50:10 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-31 14:39:15 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2019-12-31 17:50:20 --> 404 Page Not Found: Well-known/apple-app-site-association
+ERROR - 2019-12-31 17:50:21 --> 404 Page Not Found: Apple-app-site-association/index
+ERROR - 2019-12-31 20:55:34 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-31 20:55:35 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-31 21:02:14 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-31 21:13:12 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-12-31 23:15:58 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-12-31 23:58:55 --> 404 Page Not Found: Dojo/dojo-1.10.4

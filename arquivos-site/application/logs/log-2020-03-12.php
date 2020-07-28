@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-03-12 02:27:42 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-03-12 03:05:19 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-03-12 03:20:22 --> 404 Page Not Found: Wp-admin/admin.php
+ERROR - 2020-03-12 03:20:23 --> 404 Page Not Found: Wp-admin/admin.php
+ERROR - 2020-03-12 05:26:01 --> 404 Page Not Found: Login/auth
+ERROR - 2020-03-12 05:56:47 --> 404 Page Not Found: Login/auth
+ERROR - 2020-03-12 06:47:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-12 08:13:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-12 08:17:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-12 08:31:14 --> 404 Page Not Found: Wordpress/license.txt
+ERROR - 2020-03-12 08:36:49 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-12 08:36:50 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-12 09:15:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-12 09:26:26 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2020-03-12 11:06:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-12 12:00:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-12 12:00:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-12 13:17:21 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-03-12 15:24:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-12 15:31:14 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-12 15:51:33 --> 404 Page Not Found: Https:/www.brascloud.com.br
+ERROR - 2020-03-12 16:01:45 --> 404 Page Not Found: Old/license.txt
+ERROR - 2020-03-12 16:29:31 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-03-12 17:30:47 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-12 17:30:50 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-12 17:31:54 --> 404 Page Not Found: Wp-admin/admin.php
+ERROR - 2020-03-12 17:31:56 --> 404 Page Not Found: Wp-admin/admin.php
+ERROR - 2020-03-12 19:17:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-12 19:51:16 --> 404 Page Not Found: New/license.txt
+ERROR - 2020-03-12 20:02:49 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-12 20:02:50 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-12 22:06:49 --> 404 Page Not Found: Homepage/servicos-profissionais
+ERROR - 2020-03-12 23:17:13 --> 404 Page Not Found: A-primeira-cloud-publica-100-brasileira-com-faturamento-por-hora/index

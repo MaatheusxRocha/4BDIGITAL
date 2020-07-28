@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-12-09 01:29:33 --> 404 Page Not Found: Tag/auto-scaling-cloud-publica
+ERROR - 2018-12-09 01:36:55 --> 404 Page Not Found: Category/blog
+ERROR - 2018-12-09 04:42:31 --> 404 Page Not Found: Adstxt/index
+ERROR - 2018-12-09 07:57:48 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-09 07:57:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-09 07:57:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-09 09:14:09 --> 404 Page Not Found: Ui/img
+ERROR - 2018-12-09 09:24:16 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-09 09:24:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-09 09:24:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-09 10:00:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-09 10:28:26 --> 404 Page Not Found: Homepage/disaster-recovery
+ERROR - 2018-12-09 10:36:31 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2018-12-09 12:36:28 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-09 12:36:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-09 12:36:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-09 12:42:17 --> 404 Page Not Found: Sementes-de-feijao/sementes
+ERROR - 2018-12-09 12:55:54 --> 404 Page Not Found: Homepage/contato
+ERROR - 2018-12-09 15:25:22 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-09 15:25:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-09 15:25:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-09 16:05:29 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-09 19:18:53 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-09 19:19:51 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-09 19:19:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-09 19:19:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-09 22:50:52 --> 404 Page Not Found: Login/auth
+ERROR - 2018-12-09 22:50:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-12-09 22:50:53 --> 404 Page Not Found: Faviconico/index

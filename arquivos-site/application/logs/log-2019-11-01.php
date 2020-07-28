@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-11-01 00:19:55 --> 404 Page Not Found: Wordpress/index
+ERROR - 2019-11-01 00:20:02 --> 404 Page Not Found: Wp/index
+ERROR - 2019-11-01 00:21:13 --> 404 Page Not Found: New/index
+ERROR - 2019-11-01 00:21:25 --> 404 Page Not Found: Old/index
+ERROR - 2019-11-01 00:41:40 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-11-01 00:58:51 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-01 00:58:52 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-01 03:51:00 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-01 03:51:01 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-01 07:35:47 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2019-11-01 08:07:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-01 08:07:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-01 08:24:32 --> 404 Page Not Found: Homepage/sobre-nos
+ERROR - 2019-11-01 08:34:29 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-01 08:34:30 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-01 08:57:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-01 08:57:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-01 10:21:25 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2019-11-01 11:09:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-01 11:31:03 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2019-11-01 11:31:21 --> 404 Page Not Found: Precos%23custom/index
+ERROR - 2019-11-01 12:27:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-01 12:36:31 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-11-01 13:16:40 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2019-11-01 15:09:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-01 17:47:52 --> 404 Page Not Found: Homepage/disaster-recovery
+ERROR - 2019-11-01 19:35:59 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-11-01 21:44:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-01 21:44:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-01 21:47:16 --> 404 Page Not Found: Author/rsantos
+ERROR - 2019-11-01 22:31:05 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-01 23:04:08 --> 404 Page Not Found: Cloud-stack/index
+ERROR - 2019-11-01 23:18:54 --> 404 Page Not Found: Homepage/disaster-recovery

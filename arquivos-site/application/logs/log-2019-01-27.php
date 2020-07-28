@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-01-27 02:37:12 --> 404 Page Not Found: Site/wp-login.php
+ERROR - 2019-01-27 03:21:29 --> 404 Page Not Found: Author/rsantos
+ERROR - 2019-01-27 06:33:07 --> 404 Page Not Found: Brascloud-automacao-disponibilidade-e-crescimento-dos-seus-negocios/feed
+ERROR - 2019-01-27 07:50:58 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-01-27 08:07:22 --> 404 Page Not Found: Homepage/monitoramento-avancado
+ERROR - 2019-01-27 08:48:11 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2019-01-27 10:38:38 --> 404 Page Not Found: Login/auth
+ERROR - 2019-01-27 10:38:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-01-27 10:38:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-01-27 10:47:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-01-27 11:21:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-01-27 11:25:37 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-01-27 11:32:01 --> 404 Page Not Found: Googlec26d211131ad625chtml/index
+ERROR - 2019-01-27 12:17:05 --> 404 Page Not Found: Mais-um-pouco-de-definicao-de-cloud-computing/index
+ERROR - 2019-01-27 12:21:33 --> 404 Page Not Found: Login/auth
+ERROR - 2019-01-27 12:21:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-01-27 12:21:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-01-27 14:54:50 --> 404 Page Not Found: Ui/css
+ERROR - 2019-01-27 15:13:30 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-01-27 16:07:16 --> 404 Page Not Found: Comments/feed
+ERROR - 2019-01-27 18:09:33 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-01-27 19:36:57 --> 404 Page Not Found: Login/auth
+ERROR - 2019-01-27 19:36:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-01-27 19:36:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-01-27 19:44:52 --> 404 Page Not Found: Login/auth
+ERROR - 2019-01-27 19:44:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-01-27 19:44:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-01-27 21:26:30 --> 404 Page Not Found: Login/auth
+ERROR - 2019-01-27 21:26:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-01-27 21:26:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-01-27 22:32:14 --> 404 Page Not Found: AutoDiscover/autodiscover.xml
+ERROR - 2019-01-27 22:44:17 --> 404 Page Not Found: Login/auth
+ERROR - 2019-01-27 22:44:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-01-27 22:44:18 --> 404 Page Not Found: Faviconico/index

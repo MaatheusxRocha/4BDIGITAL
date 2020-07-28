@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-10-11 00:07:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-11 01:17:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-11 05:20:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-11 07:32:10 --> 404 Page Not Found: Cloud-stack/index
+ERROR - 2019-10-11 08:46:46 --> 404 Page Not Found: Author/rsantos
+ERROR - 2019-10-11 08:53:58 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-10-11 09:23:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-11 09:41:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-11 09:41:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-11 09:41:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-11 10:11:59 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-10-11 11:16:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-11 11:18:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-11 11:27:49 --> 404 Page Not Found: Homepage/servicos-profissionais
+ERROR - 2019-10-11 11:46:43 --> 404 Page Not Found: Homepage/cloud-privada-2
+ERROR - 2019-10-11 13:41:30 --> 404 Page Not Found: Precos%23custom/index
+ERROR - 2019-10-11 14:41:29 --> 404 Page Not Found: Homepage/nossos-precos-linux
+ERROR - 2019-10-11 15:36:22 --> 404 Page Not Found: Homepage/contato
+ERROR - 2019-10-11 15:59:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-11 16:32:10 --> 404 Page Not Found: Tag/cloud-publica-brasil
+ERROR - 2019-10-11 16:35:03 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2019-10-11 16:59:20 --> 404 Page Not Found: Login/auth
+ERROR - 2019-10-11 17:53:57 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-10-11 18:32:38 --> 404 Page Not Found: Dojo-1104/dijit
+ERROR - 2019-10-11 20:25:30 --> 404 Page Not Found: Homepage/index
+ERROR - 2019-10-11 21:17:40 --> 404 Page Not Found: Login/index
+ERROR - 2019-10-11 22:59:35 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-10-11 23:27:53 --> 404 Page Not Found: Homepage/licenciamento

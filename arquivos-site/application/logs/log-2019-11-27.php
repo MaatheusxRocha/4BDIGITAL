@@ -1,0 +1,42 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-11-27 00:00:10 --> 404 Page Not Found: %E2%A0%80/index
+ERROR - 2019-11-27 00:00:10 --> 404 Page Not Found: %E2%A0%80/index
+ERROR - 2019-11-27 02:54:55 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-27 02:54:55 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-27 04:17:42 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-27 04:17:47 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-27 05:59:29 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-27 05:59:30 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-27 08:23:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-27 09:16:44 --> 404 Page Not Found: %E2%A0%80/index
+ERROR - 2019-11-27 09:16:44 --> 404 Page Not Found: %E2%A0%80/index
+ERROR - 2019-11-27 09:16:46 --> 404 Page Not Found: %E2%A0%80/index
+ERROR - 2019-11-27 09:16:46 --> 404 Page Not Found: %e2%a0%80/index
+ERROR - 2019-11-27 09:37:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-27 11:37:32 --> 404 Page Not Found: Author/rsantos
+ERROR - 2019-11-27 11:47:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-27 11:49:40 --> E-mail de ligue-me enviado com sucesso
+ERROR - 2019-11-27 11:53:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-27 13:18:02 --> 404 Page Not Found: Cloud-stack/index
+ERROR - 2019-11-27 13:27:32 --> 404 Page Not Found: Homepage/seguranca
+ERROR - 2019-11-27 14:31:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-27 15:37:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-27 15:38:04 --> 404 Page Not Found: Homepage/cloud-privada-2
+ERROR - 2019-11-27 15:44:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-27 17:11:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-27 18:47:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-27 20:28:32 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-27 20:28:33 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-27 20:30:22 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-27 20:30:22 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-27 21:05:22 --> 404 Page Not Found: %E2%A0%80/index
+ERROR - 2019-11-27 21:05:22 --> 404 Page Not Found: %E2%A0%80/index
+ERROR - 2019-11-27 21:05:24 --> 404 Page Not Found: %E2%A0%80/index
+ERROR - 2019-11-27 21:05:25 --> 404 Page Not Found: %e2%a0%80/index
+ERROR - 2019-11-27 21:08:58 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-27 21:08:59 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-27 22:38:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-27 23:07:07 --> 404 Page Not Found: Login/auth
+ERROR - 2019-11-27 23:18:09 --> 404 Page Not Found: Login/auth
+ERROR - 2019-11-27 23:54:41 --> 404 Page Not Found: Adstxt/index

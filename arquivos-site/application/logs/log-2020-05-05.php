@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-05-05 00:22:49 --> 404 Page Not Found: A-primeira-cloud-publica-100-brasileira-com-faturamento-por-hora/index
+ERROR - 2020-05-05 01:05:42 --> 404 Page Not Found: Forumphp/index
+ERROR - 2020-05-05 01:25:52 --> 404 Page Not Found: Public_html/index
+ERROR - 2020-05-05 03:05:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-05 05:43:46 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-05-05 08:41:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-05 08:41:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-05 08:41:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-05 09:13:45 --> 404 Page Not Found: Account/trialSignup
+ERROR - 2020-05-05 09:57:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-05 10:26:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-05 14:16:35 --> 404 Page Not Found: Env/index
+ERROR - 2020-05-05 14:19:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-05 16:04:09 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-05-05 17:04:10 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-05-05 17:33:23 --> 404 Page Not Found: Logs/index
+ERROR - 2020-05-05 19:48:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-05 20:01:42 --> 404 Page Not Found: E/data
+ERROR - 2020-05-05 21:07:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-05 21:28:23 --> 404 Page Not Found: Env/index
+ERROR - 2020-05-05 21:52:31 --> 404 Page Not Found: Dev/index
+ERROR - 2020-05-05 22:04:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-05-05 22:09:25 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-05-05 22:09:26 --> 404 Page Not Found: Api/vendor
+ERROR - 2020-05-05 22:09:26 --> 404 Page Not Found: Laravel/vendor
+ERROR - 2020-05-05 22:09:27 --> 404 Page Not Found: Modules/autoupgrade
+ERROR - 2020-05-05 22:09:28 --> 404 Page Not Found: Sites/all
+ERROR - 2020-05-05 22:09:28 --> 404 Page Not Found: Test/vendor
+ERROR - 2020-05-05 22:09:29 --> 404 Page Not Found: admin/Vendor/phpunit
+ERROR - 2020-05-05 22:09:30 --> 404 Page Not Found: Modules/ps_facetedsearch
+ERROR - 2020-05-05 22:09:31 --> 404 Page Not Found: Modules/gamification
+ERROR - 2020-05-05 22:09:32 --> 404 Page Not Found: Shop/vendor
+ERROR - 2020-05-05 22:09:33 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-05-05 22:55:27 --> 404 Page Not Found: Dojo/dojo-1.10.4

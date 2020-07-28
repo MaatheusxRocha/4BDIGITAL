@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-11-15 05:34:37 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-15 05:34:38 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-15 06:05:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-15 08:59:02 --> 404 Page Not Found: 2019/wp-login.php
+ERROR - 2019-11-15 09:16:14 --> 404 Page Not Found: Account/forgotPassword
+ERROR - 2019-11-15 09:46:36 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-11-15 09:46:58 --> 404 Page Not Found: Account/retailSignup
+ERROR - 2019-11-15 09:56:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-15 11:34:21 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2019-11-15 11:56:04 --> 404 Page Not Found: Author/rsantos
+ERROR - 2019-11-15 12:38:50 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-15 12:38:51 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-15 12:42:24 --> 404 Page Not Found: Wp/wp-login.php
+ERROR - 2019-11-15 12:48:53 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-15 12:48:54 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-15 13:50:56 --> 404 Page Not Found: Homepage/seguranca
+ERROR - 2019-11-15 13:59:27 --> 404 Page Not Found: Cloud-stack/index
+ERROR - 2019-11-15 15:00:37 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2019-11-15 18:36:10 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-15 18:36:32 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-15 19:13:38 --> 404 Page Not Found: Homepage/servicos-profissionais
+ERROR - 2019-11-15 19:56:15 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-15 19:56:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-15 21:51:13 --> 404 Page Not Found: Homepage/email-hosting
+ERROR - 2019-11-15 21:55:47 --> 404 Page Not Found: Login/auth
+ERROR - 2019-11-15 22:19:08 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-15 22:19:09 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-15 22:36:08 --> 404 Page Not Found: Feed/index
+ERROR - 2019-11-15 22:48:46 --> 404 Page Not Found: Homepage/cloud-publica-2
+ERROR - 2019-11-15 22:52:29 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-15 22:52:31 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-11-15 23:24:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-15 23:24:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-11-15 23:43:10 --> 404 Page Not Found: Homepage/contato

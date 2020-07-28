@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-03-28 00:05:33 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-28 01:50:19 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-28 02:09:46 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-28 04:39:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-28 05:53:15 --> 404 Page Not Found: Dojo/dojo-1.10.4
+ERROR - 2020-03-28 11:12:33 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-03-28 11:12:33 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-03-28 11:12:33 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-03-28 12:07:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-28 12:07:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-28 14:24:20 --> 404 Page Not Found: Ui/css
+ERROR - 2020-03-28 14:24:22 --> 404 Page Not Found: Ui/css
+ERROR - 2020-03-28 14:24:26 --> 404 Page Not Found: Ui/css
+ERROR - 2020-03-28 14:24:30 --> 404 Page Not Found: Ui/css
+ERROR - 2020-03-28 14:33:12 --> 404 Page Not Found: Ui/css
+ERROR - 2020-03-28 16:28:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-03-28 16:58:48 --> 404 Page Not Found: Account/forgotPassword
+ERROR - 2020-03-28 17:02:37 --> 404 Page Not Found: Account/trialSignup
+ERROR - 2020-03-28 17:19:49 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-28 18:06:20 --> 404 Page Not Found: Checkout/orderPlaced
+ERROR - 2020-03-28 19:05:30 --> 404 Page Not Found: Homepage/webhosting
+ERROR - 2020-03-28 19:29:27 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-03-28 19:47:04 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-03-28 19:47:04 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-03-28 19:47:04 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-03-28 20:17:01 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-03-28 21:18:52 --> 404 Page Not Found: Author/rsantos
+ERROR - 2020-03-28 21:47:04 --> 404 Page Not Found: Faviconico/index
