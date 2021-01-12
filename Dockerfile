@@ -8,7 +8,7 @@ COPY brascloud.key /etc/ssl/private/brascloud.key
 COPY default-ssl.conf /etc/apache2/sites-available/default-ssl.conf
 COPY 000-default.conf /etc/apache2/sites-available/000-default.conf
 COPY apache2.conf /etc/apache2/apache2.conf
-
+COPY entrypoint.sh /tmp/entrypoint.sh
 
 env APACHE_RUN_USER    www-data
 env APACHE_RUN_GROUP   www-data
@@ -23,4 +23,4 @@ RUN a2ensite default-ssl.conf && a2ensite 000-default.conf && a2enmod ssl && a2e
 RUN service apache2 start && service apache2 restart
 # Network
 EXPOSE 80 443
-CMD ["apache2", "-D", "FOREGROUND"]
+CMD entrypoint.sh ; apache2 -D FOREGROUND
